@@ -55,8 +55,6 @@ Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok ka
 **Total: 20/20 — Kompeten** Mampu menyesuaikan cara berkomunikasi setelah memperoleh informasi baru dan mengubah respons dari menuntut hasil menjadi memahami kendala serta mencari solusi.
 
 ---
-title: "Lembar Kerja Bab 01"
----
 
 # Panduan Aktivitas Kelas: Peta Karakter Komunikasi Pribadi
 
@@ -103,3 +101,14 @@ title: "Lembar Kerja Bab 01"
 
 6. **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini?
     - *Jawaban:* IM (Mama), sebagai orang yang cukup dekat dengan saya dan sering berinteraksi dengan saya.
+
+## 4. Rubrik Penilaian & Evaluasi Mandiri
+
+Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan Pribadi dan Karakter* [360] serta *Rubrik Laboratorium* [138]) untuk memeriksa apakah Peta Karakter Anda telah memenuhi standar kualitas akademik:
+
+- [x] **Tingkat Unggul (Skor 4):** Berhasil memetakan kelima domain kehidupan secara realistis [116]. Mampu membedakan dengan sangat jernih antara Pribadi, Kepribadian, dan Peran Naratif [116]. Sasaran pertumbuhan dirumuskan secara sangat spesifik, terukur, berfokus pada perubahan perilaku komunikatif yang nyata, dan dilengkapi rencana umpan balik dari orang lain [109, 351].
+- [ ] **Tingkat Cakap (Skor 3):** Memetakan domain kehidupan dengan baik [116]. Mampu mengidentifikasi perbedaan peran komunikasi secara relevan dan menghindari stereotip [360]. Sasaran pertumbuhan sudah berorientasi pada perilaku komunikatif meskipun ukurannya masih bisa dipertegas lagi [359].
+- [ ] **Tingkat Berkembang (Skor 2):** Pemetaan domain kehidupan atau perbedaan peran masih terasa sangat umum, kaku, atau menggunakan asumsi/label sepihak [360]. Sasaran pertumbuhan dirumuskan secara abstrak atau berfokus pada hasil akhir saja, bukan perilaku komunikasinya [359].
+- [ ] **Tingkat Awal (Skor 1):** Belum memperlihatkan pemahaman tentang perbedaan peran naratif [360]. Kepribadian diperlakukan sebagai stempel batin yang kaku ("saya memang begini") tanpa adanya sasaran pertumbuhan perilaku yang jelas [125, 360].
+
+**Hasil Evaluasi Mandiri:** Berdasarkan pemetaan lima domain, perbedaan peran komunikasi, sasaran pertumbuhan yang spesifik dan terukur, serta rencana umpan balik yang telah disusun, saya menilai dokumen ini berada pada **Tingkat Unggul**. Peta karakter memetakan peran komunikasi yang berbeda pada setiap domain dan menunjukkan bagaimana cara berkomunikasi perlu disesuaikan dengan konteks. Sasaran pertumbuhan berfokus pada perilaku nyata, yaitu melakukan check-in lebih awal ketika menemukan anggota yang kurang terlibat atau mengalami kendala, kemudian mengevaluasi respons setelah komunikasi dilakukan. Perkembangan tersebut akan dipantau melalui umpan balik dari anggota tim atau rekan kerja yang berinteraksi dengan saya dalam kegiatan berikutnya.
