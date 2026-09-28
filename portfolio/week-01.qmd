@@ -1,12 +1,16 @@
 ---
 title: "Character Map"
 week: 1
-status: "Siap dinilai"
-self_score: "20/20"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
+
+## Kompetensi target
+
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
 ## Lima character
 
@@ -55,8 +59,6 @@ Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok ka
 **Total: 20/20 — Kompeten** Mampu menyesuaikan cara berkomunikasi setelah memperoleh informasi baru dan mengubah respons dari menuntut hasil menjadi memahami kendala serta mencari solusi.
 
 ---
-
-# Panduan Aktivitas Kelas: Peta Karakter Komunikasi Pribadi
 
 **Nama Mahasiswa:** Michelle Nataneilla 
 **Tanggal Pengerjaan:** 23 September 2026
