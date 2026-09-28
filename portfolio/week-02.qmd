@@ -10,8 +10,7 @@ categories: [Fondasi, Intra-Self]
 
 ## Episode
 
-**Event:**  
-Saat SMA, saya cenderung lebih introvert dan pemalu. Saya jarang mencoba kegiatan baru karena lebih nyaman melakukan hal yang sudah saya kenal. Ketika mulai kuliah, saya mendapat banyak kesempatan untuk mengikuti UKM, organisasi, dan kepanitiaan. Pada awalnya, saya masih membawa kebiasaan tersebut dan sering ragu untuk mencoba sesuatu yang belum pernah saya lakukan.
+**Event:**  Saat SMA, saya cenderung lebih introvert dan pemalu. Saya jarang mencoba kegiatan baru karena lebih nyaman melakukan hal yang sudah saya kenal. Ketika mulai kuliah, saya mendapat banyak kesempatan untuk mengikuti UKM, organisasi, dan kepanitiaan. Pada awalnya, saya masih membawa kebiasaan tersebut dan sering ragu untuk mencoba sesuatu yang belum pernah saya lakukan.
 
 | Lapisan | Catatan |
 |---|---|
@@ -25,9 +24,9 @@ Initial story membuat saya menganggap penilaian orang lain sebagai sesuatu yang 
 
 ## Alternative narratives
 
-1. **Tidak semua orang memperhatikan:** orang lain juga memiliki kesibukan dan pertimbangan masing-masing, sehingga saya tidak perlu menganggap bahwa setiap tindakan saya akan menjadi perhatian orang lain.
-2. **Mencoba bukan berarti sok:** mengikuti kegiatan baru merupakan cara untuk belajar dan mencari pengalaman, bukan berarti saya merasa paling bisa atau paling tahu.
-3. **Ketidakcocokan bukan kegagalan:** jika suatu kegiatan ternyata tidak sesuai, saya tetap mendapatkan informasi tentang hal yang saya sukai dan cara kerja yang cocok untuk saya.
+1. **Evidence gap:** saya belum bisa memastikan bahwa setiap tindakan saya benar-benar diperhatikan atau dinilai orang lain karena belum mengetahui sudut pandang mereka.
+2. **Invitation to improve:** mencoba kegiatan baru dapat menjadi kesempatan untuk belajar dan mencari pengalaman, tanpa harus menganggapnya sebagai usaha untuk terlihat paling bisa atau paling tahu.
+3. **Constraint hypothesis:** ketidakcocokan dengan suatu kegiatan mungkin menunjukkan adanya hal yang kurang sesuai dengan minat atau cara kerja saya, bukan berarti kegiatan tersebut merupakan sebuah kegagalan.
 
 Alternative kedua paling membantu saya karena mengubah cara melihat tindakan tersebut. Saya tidak perlu menunggu sampai merasa benar-benar percaya diri untuk mulai mencoba.
 
@@ -36,27 +35,22 @@ Alternative kedua paling membantu saya karena mengubah cara melihat tindakan ter
 > **Penghindar:** “Kalau ikut, nanti orang-orang mikir gue sok nggak?”  
 > **Explorer:** “Belum tentu mereka berpikir begitu. Gue juga ikut bukan karena merasa paling bisa, tapi karena mau belajar.”  
 > **Penghindar:** “Tapi kalau ternyata nggak cocok gimana?”  
-> **Explorer:** “Ya coba dulu. Kalau ternyata nggak cocok, gue bisa belajar dari pengalamannya.”
+> **Saya:** “Gue akan coba dulu. Kalau ternyata nggak cocok, gue bisa belajar dari pengalaman dan tahu kegiatan yang lebih sesuai buat gue.”
 
-**Internal agreement:**  
-Saya akan lebih terbuka mengambil kesempatan yang memang menarik bagi saya tanpa terlalu memikirkan kemungkinan penilaian orang lain. Saya akan mencoba terlebih dahulu, lalu mengevaluasi pengalaman tersebut setelah menjalaninya.
+**Internal agreement:** saya akan lebih terbuka mengambil kesempatan yang memang menarik bagi saya tanpa terlalu memikirkan kemungkinan penilaian orang lain. Saya akan mencoba terlebih dahulu, lalu mengevaluasi pengalaman tersebut setelah menjalaninya.
 
 ## Evidence tindakan
-
-Setelah mulai kuliah, saya mulai lebih aktif mengikuti UKM, organisasi, dan kepanitiaan. Saya mencoba mengambil peran dan lingkungan yang berbeda, tidak hanya kegiatan yang sudah familiar bagi saya.
-
-Evidence yang dapat digunakan antara lain riwayat pendaftaran, chat atau informasi open recruitment, pembagian tugas, serta dokumentasi keterlibatan dalam kegiatan yang diikuti.
-
-Perubahan tersebut menunjukkan bahwa respons saya mulai berbeda dari kebiasaan saat SMA. Jika sebelumnya keraguan lebih sering membuat saya tidak mencoba, sekarang saya lebih bersedia mengambil kesempatan dan melihat pengalaman secara langsung sebelum menentukan apakah saya cocok atau tidak.
+- Riwayat pendaftaran UKM, organisasi, dan kepanitiaan setelah mulai kuliah.
+- Chat atau informasi open recruitment dari kegiatan yang diikuti.
+- Pembagian tugas atau peran dalam kegiatan.
+- Dokumentasi keterlibatan dalam kegiatan yang diikuti.
+- Perubahan dari kebiasaan saat SMA yang sebelumnya lebih sering ragu untuk mencoba menjadi lebih bersedia mengambil kesempatan dan melihat pengalaman secara langsung.
 
 ## Feedback, AI, dan refleksi
 
-Dari refleksi ini, saya menyadari bahwa sebagian keraguan saya berasal dari asumsi mengenai bagaimana orang lain akan melihat saya, bukan dari fakta bahwa mereka benar-benar memberikan penilaian tersebut.
+Dari refleksi ini, saya menyadari bahwa sebagian keraguan saya berasal dari asumsi mengenai bagaimana orang lain akan melihat saya, bukan dari fakta bahwa mereka benar-benar memberikan penilaian tersebut. AI digunakan untuk membantu mengidentifikasi bagian yang merupakan fact, story, dan assumption dalam refleksi. Hasilnya tetap saya sesuaikan dengan pengalaman dan evidence yang saya miliki.
 
-AI digunakan untuk membantu mengidentifikasi bagian yang merupakan fact, story, dan assumption dalam refleksi. Hasilnya tetap saya sesuaikan dengan pengalaman dan evidence yang saya miliki.
-
-**Next practice:**  
-Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai terlalu memikirkan penilaian orang lain, saya akan membedakan terlebih dahulu antara apa yang benar-benar terjadi dan apa yang hanya saya bayangkan. Setelah itu, saya akan mempertimbangkan kesempatan tersebut berdasarkan manfaat dan minat saya sendiri, bukan hanya berdasarkan rasa takut dinilai.
+Next practice: Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai terlalu memikirkan penilaian orang lain, saya akan membedakan terlebih dahulu antara apa yang benar-benar terjadi dan apa yang hanya saya bayangkan. Setelah itu, saya akan mempertimbangkan kesempatan tersebut berdasarkan manfaat dan minat saya sendiri, bukan hanya berdasarkan rasa takut dinilai.
 
 ## Self-assessment
 
