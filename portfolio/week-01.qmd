@@ -24,9 +24,9 @@ categories: [Fondasi, Person]
 
 **Objective:**  Memahami kendalanya, membuat pekerjaannya kembali berjalan, dan tetap menjaga hubungan kerja di dalam tim.
 
-> **Saya:** “Kamu akhir-akhir ini agak jarang ikut ngerjain, ada yang bikin susah ikut bantu nggak?”
+> **Saya:** “Kamu akhir-akhir ini agak jarang ikut ngerjain, ada yang bikin susah ikut bantu ga?”
 > **Anggota**: “Aku masih agak bingung sama bagian yang harus dikerjain, jadi takut salah.”
-> **Saya**: “Ohh, kalau gitu kita bahas dulu aja. Bagian ini bisa kamu pegang, nanti kalau masih bingung langsung bilang.”
+> **Saya**: “Ohh, kalo gitu kita bahas dulu aja. Bagian ini bisa kamu pegang, nanti kalau masih bingung langsung bilang.”
 
 Setelah mengetahui bahwa masalahnya adalah ketidakjelasan tugas, saya membantu menjelaskan bagian yang perlu dikerjakan dan melakukan follow-up setelahnya. Anggota tersebut kemudian mulai lebih terlibat dan pekerjaan tim kembali berjalan.
 
