@@ -14,7 +14,7 @@ Seorang teman datang dan bercerita bahwa ada temannya yang merasa ia sedang menj
 
 Saya awalnya menduga mungkin ada masalah komunikasi atau sesuatu yang dilakukan tanpa sengaja. Karena itu, saya memilih untuk mendengarkan ceritanya terlebih dahulu sebelum memberi pendapat.
 
-Pertanyaan yang saya gunakan:
+Pertanyaan utama:
 
 1. “Emang awalnya kejadian apa?”
 2. “Menurut kamu, kenapa dia merasa kamu menjauh?”
@@ -25,32 +25,19 @@ Pertanyaan yang saya gunakan:
 ## Potongan transcript
 
 > **Teman:** “Menurut kamu aku salah nggak sih? Soalnya dia ngerasa aku sekarang ngejauhin dia.”
->
 > **Saya:** “Emang awalnya kenapa sampai dia mikir begitu?”
->
 > **Teman:** “Katanya sekarang aku beda, jarang ngobrol dan nggak sesering dulu ngajak ngobrol atau main.”
->
 > **Saya:** “Tapi kamu emang sengaja ngejauhin dia atau gimana?”
->
 > **Teman:** “Nggak sih. Cuma ya sekarang emang udah beda aja. Kita juga udah nggak sedeket dulu dan nggak selalu ada hal yang harus dibahas.”
->
 > **Saya:** “Berarti menurut kamu perubahan itu lebih karena hubungan kalian memang berubah, bukan karena kamu sengaja menghindari dia?”
->
 > **Teman:** “Iya, kurang lebih begitu. Aku juga nggak ada masalah sama dia.”
->
 > **Saya:** “Kalau gitu mungkin dia nangkep perubahan itu sebagai kamu ngejauhin, padahal dari sisi kamu memang udah nggak sedekat dulu aja.”
->
 > **Teman:** “Terus menurut kamu aku harus gimana? Apa aku salah?”
->
 > **Saya:** “Menurut aku nggak berarti kamu salah. Tapi kalau dia memang merasa begitu, mungkin bisa dijelasin aja kalau kamu nggak bermaksud ngejauhin. Nggak harus balik sedeket dulu juga, tapi jangan sampai karena bingung malah jadi makin menghindar.”
 
 ## Pembaruan pembacaan
 
-Initial assumption bahwa mungkin teman saya melakukan kesalahan dalam berkomunikasi tidak sepenuhnya didukung setelah mendengar ceritanya. Dari percakapan, perubahan hubungan memang terjadi, tetapi tidak ada indikasi bahwa teman saya sengaja menghindari atau memiliki masalah dengan temannya.
-
-Problem yang lebih jelas adalah adanya **perbedaan pembacaan terhadap perubahan kedekatan**. Temannya melihat berkurangnya komunikasi sebagai tindakan menjauh, sedangkan teman saya melihatnya sebagai perubahan hubungan yang terjadi secara alami.
-
-Dampaknya, teman saya menjadi ragu apakah ia harus merasa bersalah atau melakukan sesuatu untuk memperbaiki keadaan. Constraint-nya adalah ia tidak ingin bermusuhan, tetapi juga tidak merasa perlu memaksakan hubungan agar kembali seperti sebelumnya.
+Initial assumption masalah yang dialami narasumber berkaitan dengan komunikasi dalam pertemanan. Narasumber mungkin merasa tidak nyaman karena perubahan sikap temannya dan belum mengetahui alasan di balik perubahan tersebut.
 
 **Shared problem statement yang dikonfirmasi teman saya:**
 
@@ -61,15 +48,11 @@ Setelah saya menyampaikan kembali pemahaman tersebut, teman saya setuju bahwa ma
 ## Evidence, feedback, dan next step
 
 - Catatan atau chat setelah teman menceritakan masalahnya.
-- Percakapan yang menunjukkan bahwa saya lebih dulu menggali kronologi sebelum memberikan pendapat.
-- Respons teman yang mengonfirmasi bahwa ia memang tidak bermaksud menjauhi temannya.
-- Solusi yang dibahas adalah menjelaskan keadaan jika diperlukan, tanpa sengaja menghindari atau memaksakan kedekatan seperti sebelumnya.
+- Percakapan yang menunjukkan bahwa saya menggali kronologi sebelum memberikan pendapat.
+- Feedback observer: Pertanyaan saya masih cenderung mengarahkan jawaban ketika membahas alasan perubahan hubungan. Pertanyaan tersebut perlu diperbaiki agar lebih terbuka dan tidak langsung mengarah pada asumsi bahwa ada masalah dalam pertemanan.
+- Next practice: menjelaskan keadaan jika diperlukan, tanpa memaksakan kedekatan seperti sebelumnya.
 
-Percakapan ini juga menunjukkan bahwa saya tidak langsung menggunakan asumsi awal sebagai kesimpulan. Setelah mendengar detail dari teman, saya mengubah pembacaan masalah dari “apakah dia melakukan kesalahan?” menjadi “bagaimana kedua orang ini memahami perubahan hubungan mereka secara berbeda?”
-
-AI digunakan untuk membantu memeriksa apakah pertanyaan yang saya gunakan sudah cukup terbuka dan apakah problem statement masih berdasarkan cerita teman, bukan asumsi saya sendiri. Saya tetap mencocokkan hasilnya dengan isi percakapan dan tidak menggunakan AI untuk menentukan apakah teman saya benar atau salah.
-
-**Next practice:** ketika teman datang dengan pertanyaan yang sudah mengarah pada “aku salah nggak?”, saya akan menahan diri untuk tidak langsung memberi penilaian. Saya akan menggali kronologi, dampak, dan kebutuhan orang tersebut terlebih dahulu sebelum membantu mencari langkah berikutnya.
+AI digunakan untuk membantu memeriksa apakah pertanyaan saya sudah cukup terbuka dan apakah problem statement masih berdasarkan cerita teman, bukan asumsi saya sendiri. Saya tetap mencocokkan hasilnya dengan isi percakapan.
 
 ## Self-assessment
 
