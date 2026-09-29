@@ -40,10 +40,8 @@ Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok ka
 
 ## Evidence, AI, dan feedback
 
-- Evidence: Chat dengan anggota, pembagian tugas, dan perubahan progress pekerjaan sebelum dan setelah dilakukan follow-up.
-![Chat dengan anggota](evidence-week1.pdf)
-- Artefak AI: Analisis menggunakan AI untuk membantu memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dari situasi yang terjadi.
-![Artefak analisis AI](ai-analysis-week1.pdf)
+- Evidence: Chat dengan anggota, pembagian tugas, dan perubahan progress pekerjaan sebelum dan setelah dilakukan follow-up. [Chat dengan anggota](evidence-week1.pdf)
+- Artefak AI: Analisis menggunakan AI untuk membantu memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dari situasi yang terjadi. [Artefak analisis AI](ai-analysis-week1.pdf)
 - AI digunakan sebagai alat bantu untuk memisahkan fakta dari asumsi dalam melihat situasi. Hasil analisis AI kemudian saya cek kembali dengan evidence yang ada. Saya tidak menggunakan AI sebagai sumber fakta mengenai kondisi anggota.
 - Saya sudah mencoba memahami kondisi anggota sebelum mengambil tindakan, tetapi saya seharusnya melakukan check-in lebih awal sebelum pekerjaan mulai tertinggal.
 - Next practice: Jika ada anggota yang mulai kurang terlibat, saya akan melakukan check-in lebih awal untuk mengetahui apakah ada kendala sebelum membuat kesimpulan mengenai keaktifannya.
