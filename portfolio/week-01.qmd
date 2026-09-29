@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Selesai"
-self_score: "20"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
