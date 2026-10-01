@@ -58,7 +58,7 @@ Next practice: Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai t
 |---|---:|---|
 | Person & Character | 4 | Dapat membedakan karakter reaktif yang cenderung menghindar dengan karakter yang diinginkan untuk lebih berani mengeksplorasi. |
 | Objective & State | 4 | Kondisi awal, kekhawatiran, perubahan cara melihat situasi, dan tujuan untuk lebih berani mencoba dapat dijelaskan. |
-| Repertoire, Language & AI | 4 | Menggunakan internal dialogue untuk memisahkan asumsi dari fakta dan menggunakan AI sebagai alat bantu refleksi. |
+| Repertoire, Language & AI | 3 | Menggunakan internal dialogue untuk memisahkan asumsi dari fakta dan menggunakan AI sebagai alat bantu refleksi. |
 | Response & Adaptation | 4 | Menyadari bahwa ketakutan terhadap penilaian orang lain belum tentu berdasarkan fakta, lalu mengubah respons dengan lebih berani mencoba. |
 | Agreement, Action & Relationship | 4 | Internal agreement menghasilkan tindakan nyata berupa keterlibatan dalam berbagai UKM, organisasi, dan kepanitiaan. |
 
