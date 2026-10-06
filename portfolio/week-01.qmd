@@ -24,13 +24,13 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ## Episode yang dianalisis
 
-**Konteks:**  Dalam salah satu kegiatan, ada anggota yang terlihat kurang aktif sehingga beberapa pekerjaan akhirnya kurang terbantu. Awalnya saya menganggap dia kurang berinisiatif. Namun, yang saya tahu hanya bahwa dia jarang mengambil pekerjaan, jadi saya belum bisa memastikan penyebabnya.
+**Konteks:** Dalam salah satu kegiatan, ada anggota yang terlihat kurang aktif sehingga beberapa pekerjaan akhirnya kurang terbantu. Awalnya saya menganggap dia kurang berinisiatif. Namun, yang saya tahu hanya bahwa dia jarang mengambil pekerjaan, jadi saya belum bisa memastikan penyebabnya.
 
-**Objective:**  Memahami kendalanya, membuat pekerjaannya kembali berjalan, dan tetap menjaga hubungan kerja di dalam tim.
+**Objective:** Memahami kendalanya, membuat pekerjaannya kembali berjalan, dan tetap menjaga hubungan kerja di dalam tim.
 
 > **Saya:** “Kamu akhir-akhir ini agak jarang ikut ngerjain, ada yang bikin susah ikut bantu ga?”
-> **Anggota**: “Aku masih agak bingung sama bagian yang harus dikerjain, jadi takut salah.”
-> **Saya**: “Ohh, kalo gitu kita bahas dulu aja. Bagian ini bisa kamu pegang, nanti kalau masih bingung langsung bilang.”
+> **Anggota:** “Aku masih agak bingung sama bagian yang harus dikerjain, jadi takut salah.”
+> **Saya:** “Ohh, kalo gitu kita bahas dulu aja. Bagian ini bisa kamu pegang, nanti kalau masih bingung langsung bilang.”
 
 Setelah mengetahui bahwa masalahnya adalah ketidakjelasan tugas, saya membantu menjelaskan bagian yang perlu dikerjakan dan melakukan follow-up setelahnya. Anggota tersebut kemudian mulai lebih terlibat dan pekerjaan tim kembali berjalan.
 
@@ -38,13 +38,13 @@ Setelah mengetahui bahwa masalahnya adalah ketidakjelasan tugas, saya membantu m
 
 Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok kamu belum ikut ngerjain?” Setelah mengetahui bahwa ia masih bingung dengan tugasnya, sebagai rekan kerja, saya berkata, “Bagian mana yang masih bikin bingung? Kita bahas dulu.” Cara berkomunikasi saya berubah setelah mendapatkan informasi baru, dari langsung menuntut hasil menjadi mencoba memahami masalah dan membantu mencari jalan keluarnya.
 
-## Evidence, AI, dan feedback
+## AI dan feedback
 
-- Evidence: Chat dengan anggota, pembagian tugas, dan perubahan progress pekerjaan sebelum dan setelah dilakukan follow-up. [Chat dengan anggota](evidence-week1.pdf)
-- Artefak AI: Analisis menggunakan AI untuk membantu memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dari situasi yang terjadi. [Artefak analisis AI](ai-analysis-week1.pdf)
-- AI digunakan sebagai alat bantu untuk memisahkan fakta dari asumsi dalam melihat situasi. Hasil analisis AI kemudian saya cek kembali dengan evidence yang ada. Saya tidak menggunakan AI sebagai sumber fakta mengenai kondisi anggota.
-- Saya sudah mencoba memahami kondisi anggota sebelum mengambil tindakan, tetapi saya seharusnya melakukan check-in lebih awal sebelum pekerjaan mulai tertinggal.
-- Next practice: Jika ada anggota yang mulai kurang terlibat, saya akan melakukan check-in lebih awal untuk mengetahui apakah ada kendala sebelum membuat kesimpulan mengenai keaktifannya.
+AI digunakan sebagai alat bantu untuk memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dalam melihat situasi. Hasil analisis AI kemudian saya sesuaikan kembali dengan kondisi yang saya ketahui dan tidak saya gunakan sebagai sumber fakta mengenai kondisi anggota.
+
+Dari proses tersebut, saya menyadari bahwa saya seharusnya melakukan check-in lebih awal sebelum pekerjaan mulai tertinggal. Saya sudah mencoba memahami kondisi anggota sebelum mengambil tindakan, tetapi respons tersebut masih bisa dilakukan lebih awal.
+
+**Next practice:** Jika ada anggota yang mulai kurang terlibat, saya akan melakukan check-in lebih awal untuk mengetahui apakah ada kendala sebelum membuat kesimpulan mengenai keaktifannya.
 
 ## Self-assessment
 
@@ -52,10 +52,10 @@ Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok ka
 |---|---:|---|
 | Person & Character | 4 | Dapat membedakan character berdasarkan peran, hubungan, dan konteks, bukan hanya berdasarkan sifat pribadi. |
 | Objective & State | 4 | Kondisi awal, tujuan, serta perubahan setelah mendapatkan informasi baru dapat dijelaskan dengan jelas. |
-| Repertoire, Language & AI | 3 | Cara berkomunikasi disesuaikan dengan kondisi dan AI digunakan sebagai alat bantu untuk refleksi, bukan sebagai sumber fakta. |
+| Repertoire, Language & AI | 3 | Cara berkomunikasi disesuaikan dengan kondisi dan AI digunakan sebagai alat bantu untuk memisahkan fakta dari asumsi. Namun, penggunaan AI masih lebih banyak sebagai alat refleksi dan verifikasi daripada untuk memperluas repertoire komunikasi secara langsung. |
 | Response & Adaptation | 4 | Informasi baru mengenai kendala anggota membuat saya mengubah asumsi, pendekatan, dan tindakan. |
 | Agreement, Action & Relationship | 4 | Setelah berdiskusi terdapat tindakan yang jelas, yaitu memperjelas tugas dan melakukan follow-up, tanpa merusak hubungan kerja. |
 
-**Total: 20/20 — Kompeten** Mampu menyesuaikan cara berkomunikasi setelah memperoleh informasi baru dan mengubah respons dari menuntut hasil menjadi memahami kendala serta mencari solusi.
+**Total: 19/20 — Kompeten**
 
----
+Mampu membedakan peran dan karakter berdasarkan konteks serta menyesuaikan respons setelah memperoleh informasi baru. Penggunaan AI sudah membantu proses refleksi, tetapi masih dapat dikembangkan sebagai alat untuk memperluas repertoire dan pilihan cara berkomunikasi.
