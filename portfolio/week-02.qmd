@@ -10,7 +10,7 @@ categories: [Fondasi, Intra-Self]
 
 ## Episode
 
-**Event:**  Saat SMA, saya cenderung lebih introvert dan pemalu. Saya jarang mencoba kegiatan baru karena lebih nyaman melakukan hal yang sudah saya kenal. Ketika mulai kuliah, saya mendapat banyak kesempatan untuk mengikuti UKM, organisasi, dan kepanitiaan. Pada awalnya, saya masih membawa kebiasaan tersebut dan sering ragu untuk mencoba sesuatu yang belum pernah saya lakukan.
+**Event:** Saat SMA, saya cenderung lebih introvert dan pemalu. Saya jarang mencoba kegiatan baru karena lebih nyaman melakukan hal yang sudah saya kenal. Ketika mulai kuliah, saya mendapat banyak kesempatan untuk mengikuti UKM, organisasi, dan kepanitiaan. Pada awalnya, saya masih membawa kebiasaan tersebut dan sering ragu untuk mencoba sesuatu yang belum pernah saya lakukan.
 
 | Lapisan | Catatan |
 |---|---|
@@ -39,18 +39,21 @@ Alternative kedua paling membantu saya karena mengubah cara melihat tindakan ter
 
 **Internal agreement:** saya akan lebih terbuka mengambil kesempatan yang memang menarik bagi saya tanpa terlalu memikirkan kemungkinan penilaian orang lain. Saya akan mencoba terlebih dahulu, lalu mengevaluasi pengalaman tersebut setelah menjalaninya.
 
-## Evidence tindakan
-- Riwayat pendaftaran UKM, organisasi, dan kepanitiaan setelah mulai kuliah.
-- Chat atau informasi open recruitment dari kegiatan yang diikuti.
-- Pembagian tugas atau peran dalam kegiatan.
-- Dokumentasi keterlibatan dalam kegiatan yang diikuti.
-- Perubahan dari kebiasaan saat SMA yang sebelumnya lebih sering ragu untuk mencoba menjadi lebih bersedia mengambil kesempatan dan melihat pengalaman secara langsung. [Dokumentasi grup-grup kepanitiaan/organisasi yang saya ikuti](evidence-week2.pdf)
+## Tindakan
+
+Setelah mulai kuliah, saya mulai lebih terbuka mengambil kesempatan yang sebelumnya mungkin akan saya hindari. Saya mendaftar dan terlibat dalam beberapa UKM, organisasi, dan kepanitiaan. Dari pengalaman tersebut, saya dapat mencoba lingkungan dan peran yang berbeda tanpa harus menunggu sampai merasa benar-benar percaya diri.
+
+Perubahan tersebut menunjukkan pergeseran dari kebiasaan lebih sering menghindari hal baru menjadi lebih bersedia mencoba dan mengevaluasi pengalaman secara langsung.
 
 ## Feedback, AI, dan refleksi
 
-Dari refleksi ini, saya menyadari bahwa sebagian keraguan saya berasal dari asumsi mengenai bagaimana orang lain akan melihat saya, bukan dari fakta bahwa mereka benar-benar memberikan penilaian tersebut. AI digunakan untuk membantu mengidentifikasi bagian yang merupakan fact, story, dan assumption dalam refleksi. Hasilnya tetap saya sesuaikan dengan pengalaman dan evidence yang saya miliki.
+Dari refleksi ini, saya menyadari bahwa sebagian keraguan saya berasal dari asumsi mengenai bagaimana orang lain akan melihat saya, bukan dari fakta bahwa mereka benar-benar memberikan penilaian tersebut.
 
-Next practice: Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai terlalu memikirkan penilaian orang lain, saya akan membedakan terlebih dahulu antara apa yang benar-benar terjadi dan apa yang hanya saya bayangkan. Setelah itu, saya akan mempertimbangkan kesempatan tersebut berdasarkan manfaat dan minat saya sendiri, bukan hanya berdasarkan rasa takut dinilai.
+AI digunakan untuk membantu mengidentifikasi bagian yang merupakan fact, story, dan assumption dalam refleksi. Hasilnya tetap saya sesuaikan dengan pengalaman saya sendiri dan tidak digunakan sebagai pengganti penilaian saya terhadap situasi.
+
+Penggunaan AI membantu saya melihat bahwa ketakutan terhadap penilaian orang lain belum tentu didasarkan pada informasi yang saya miliki. Namun, penggunaannya masih lebih banyak sebagai alat bantu refleksi dan verifikasi daripada untuk mengembangkan repertoire komunikasi secara langsung.
+
+**Next practice:** Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai terlalu memikirkan penilaian orang lain, saya akan membedakan terlebih dahulu antara apa yang benar-benar terjadi dan apa yang hanya saya bayangkan. Setelah itu, saya akan mempertimbangkan kesempatan tersebut berdasarkan manfaat dan minat saya sendiri, bukan hanya berdasarkan rasa takut dinilai.
 
 ## Self-assessment
 
@@ -58,8 +61,10 @@ Next practice: Ketika muncul keinginan untuk mencoba sesuatu tetapi saya mulai t
 |---|---:|---|
 | Person & Character | 4 | Dapat membedakan karakter reaktif yang cenderung menghindar dengan karakter yang diinginkan untuk lebih berani mengeksplorasi. |
 | Objective & State | 4 | Kondisi awal, kekhawatiran, perubahan cara melihat situasi, dan tujuan untuk lebih berani mencoba dapat dijelaskan. |
-| Repertoire, Language & AI | 3 | Menggunakan internal dialogue untuk memisahkan asumsi dari fakta dan menggunakan AI sebagai alat bantu refleksi. |
+| Repertoire, Language & AI | 3 | Menggunakan internal dialogue untuk memisahkan asumsi dari fakta dan menggunakan AI sebagai alat bantu refleksi. Namun, penggunaan AI masih lebih banyak sebagai verifikasi dan refleksi daripada untuk memperluas repertoire secara langsung. |
 | Response & Adaptation | 4 | Menyadari bahwa ketakutan terhadap penilaian orang lain belum tentu berdasarkan fakta, lalu mengubah respons dengan lebih berani mencoba. |
-| Agreement, Action & Relationship | 4 | Internal agreement menghasilkan tindakan nyata berupa keterlibatan dalam berbagai UKM, organisasi, dan kepanitiaan. |
+| Agreement, Action & Relationship | 4 | Internal agreement menghasilkan perubahan tindakan berupa keterlibatan dalam berbagai UKM, organisasi, dan kepanitiaan serta rencana untuk mengevaluasi pengalaman setelah menjalaninya. |
 
-**Total: 20/20**
+**Total: 19/20 — Kompeten**
+
+Mampu memisahkan fakta, cerita, dan emosi serta mengubah pola reaktif menjadi respons yang lebih terbuka terhadap pengalaman baru. Penggunaan AI sudah membantu proses refleksi, tetapi masih dapat dikembangkan untuk memperluas repertoire dan pilihan respons.
