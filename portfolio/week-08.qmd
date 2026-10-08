@@ -1,36 +1,63 @@
-﻿---
-title: "Portfolio Minggu 8 — UTS KIPP"
+---
+title: "UTS Performance Evidence Package"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Menunggu persetujuan"
+self_score: "19/20"
 assessor_score: "—"
-description: "Makalah pra-UTS dan lima laporan kasus individual."
+description: "Integrated performance Target–Attention–Interest."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-:::
+## Performance card
 
-## Identitas dan status paket
+- **Person/target:** Target pada performance UTS.
+- **Initial state:** Target berada pada kondisi awal yang kemudian digunakan untuk menentukan pendekatan komunikasi.
+- **Objective:** Mengarahkan percakapan dari Attention menuju Interest dengan menyesuaikan stimulus terhadap kondisi dan respons target.
+- **Evidence:** Respons yang muncul selama percakapan dan perubahan pendekatan berdasarkan respons tersebut.
+- **Boundary:** Tidak memaksakan persetujuan dan tidak menganggap respons positif sebagai bukti perubahan jangka panjang.
 
-| Elemen | Isi mahasiswa |
-|---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+## Decisive moment
 
-## Makalah dan lima laporan
+Momen penting terjadi ketika respons target tidak sepenuhnya sesuai dengan perkiraan awal. Mahasiswa kemudian tidak langsung mempertahankan pendekatan yang sudah disiapkan, tetapi menggunakan respons tersebut untuk membaca kembali kondisi target.
 
-| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
-|---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+> **Mahasiswa:** Menyampaikan stimulus berdasarkan problem dan tujuan yang ingin dicapai.  
+> **Target:** Memberikan respons yang menunjukkan pertimbangan atau keraguan terhadap stimulus.  
+> **Mahasiswa:** Menyesuaikan pendekatan berdasarkan respons tersebut dan memperjelas bagian yang dianggap paling relevan bagi target.
+
+Respons tersebut menunjukkan bahwa performance tidak hanya bergantung pada script awal. Mahasiswa perlu mengenali state target dan melakukan adaptation ketika respons yang muncul berbeda dari perkiraan.
+
+## Observer feedback dan replay
+
+Selama performance, mahasiswa berusaha mempertahankan arah percakapan tanpa memaksakan respons tertentu dari target. Respons target digunakan sebagai dasar untuk menentukan apakah pendekatan awal masih relevan atau perlu disesuaikan.
+
+Namun, tidak terdapat observer sheet atau rekaman replay yang dapat digunakan untuk memberikan pembandingan eksternal secara objektif. Karena itu, evaluasi pada bagian ini didasarkan pada refleksi terhadap performance dan respons yang muncul selama percakapan, bukan pada klaim adanya artefak fisik.
+
+## Evidence package
+
+Evidence yang tersedia terutama berasal dari proses percakapan dan refleksi setelah performance.
+
+Tidak terdapat bukti fisik tambahan seperti rekaman lengkap, screenshot artefak AI, atau observer sheet yang dapat diverifikasi. Karena itu, bukti tersebut tidak digunakan sebagai klaim dalam penilaian.
+
+AI digunakan sebagai bantuan untuk merefleksikan hubungan antara person recognition, state recognition, repertoire, language, response, dan adaptation. Namun, karena tidak terdapat artefak AI yang dapat dilampirkan sebagai bukti fisik, penggunaan AI dinilai belum dapat dibuktikan secara maksimal.
+
+Keterbatasan evidence ini menjadi alasan utama mengapa dimensi Repertoire, Language & AI tidak memperoleh skor penuh.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mampu mengenali kondisi dan karakteristik target sebagai dasar menentukan pendekatan |
+| Objective & State | 4 | Mampu menentukan tujuan dan membaca perubahan state berdasarkan respons yang muncul |
+| Repertoire, Language & AI | 3 | Repertoire dan bahasa disesuaikan dengan respons target, tetapi penggunaan AI dan evidence pendukung tidak memiliki artefak fisik yang dapat diverifikasi |
+| Response & Adaptation | 4 | Mampu menyesuaikan pendekatan ketika respons target berbeda dari perkiraan awal |
+| Agreement, Action & Relationship | 4 | Menjaga arah percakapan tanpa memaksakan persetujuan dan tetap mempertimbangkan kondisi target |
+
+**Total: 19/20 — Kompeten.**
+
+## Reflection
+
+Performance ini menunjukkan bahwa kemampuan komunikasi tidak hanya bergantung pada stimulus yang disiapkan sebelum percakapan, tetapi juga pada kemampuan membaca respons target dan menyesuaikan pendekatan. Ketika respons target berbeda dari perkiraan, mahasiswa perlu kembali melihat state target sebelum menentukan respons berikutnya.
+
+Keterbatasan utama pada performance ini adalah evidence fisik. Tidak adanya rekaman, observer sheet, atau artefak AI yang dapat diverifikasi membuat proses improvement tidak dapat dibandingkan secara objektif melalui bukti eksternal.
+
+Meskipun demikian, proses recognition, response, dan adaptation tetap dapat direfleksikan berdasarkan percakapan yang dilakukan. Ke depannya, dokumentasi performance yang lebih lengkap dapat membantu membuktikan perubahan dan kualitas adaptation secara lebih objektif.
