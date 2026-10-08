@@ -1,0 +1,199 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Michelle Nataneilla |
+| NIM | 18225071 |
+| Kelas dan tanggal | K01, 24 September 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 |
+| Nama dan ID target | Diri mahasiswa; pembanding Budi (K1-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Voice chat |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Parsial; sesi berhenti setelah pembahasan strategi menghadapi rasa belum siap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Kemampuan yang ingin saya kembangkan adalah **lebih berani mencoba hal baru**. Saya merasa masih sering ragu untuk mencoba karena takut tidak bisa, terutama ketika berada di lingkungan yang menurut saya diisi oleh orang-orang yang lebih keren atau lebih jago.
+
+Salah satu contoh nyatanya adalah ketika saya sempat ingin mengikuti lomba, tetapi akhirnya tidak jadi karena dari awal sudah berpikir bahwa saya akan kalah. Saya juga takut jika hasilnya tidak baik, saya akan mempermalukan diri sendiri atau membuat tim malu.
+
+Tujuan saya bukan hanya mendapatkan kemenangan, tetapi juga mendapatkan pengalaman yang dapat berguna untuk CV. Kalau tidak mencoba, saya merasa bisa menyesal karena tidak memberikan kesempatan kepada diri sendiri.
+
+Indikator keberhasilan saya adalah bisa tetap berani mencoba walaupun belum yakin akan menang atau belum merasa paling jago. Saya mungkin masih merasa minder, tetapi saya ingin tetap mencoba daripada langsung mundur.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Merasa orang lain yang lebih jago sebagai ancaman karena membuat saya merasa kurang mampu; kesempatan mencoba dapat menjadi pengalaman baru | Jawaban mengenai ketakutan dan tujuan mengikuti lomba | Laporan diri |
+| Attitude | Cenderung minder ketika merasa kemampuan diri berada di bawah orang lain | Pengakuan bahwa masih mungkin minder ketika kemampuan belum cukup | Laporan diri |
+| Knowledge | Menyadari bahwa pengalaman penting, tetapi juga merasa penguasaan materi dapat membantu meningkatkan keberanian | Jawaban bahwa teman yang mengajak dan penguasaan materi dapat membantu | Laporan diri |
+| Skill | Masih perlu mengembangkan keberanian untuk mulai mencoba sebelum merasa sepenuhnya siap | Pengalaman batal mengikuti lomba | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Tidak digunakan sebagai diagnosis dalam kasus ini | Fokus pada pengalaman dan respons diri | Tidak ditentukan |
+| Karakter, peran, kultur/ko-kultur | Cenderung mempertimbangkan kemampuan diri dan dampaknya terhadap tim sebelum mengambil kesempatan | Kekhawatiran membuat malu diri sendiri atau tim | Laporan diri |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Ingin lebih berani mencoba hal baru | Mengenali hambatan rasa minder | Mengidentifikasi situasi yang membuat ragu | Mampu menjelaskan hambatan diri |
+| Attention | Menyadari bahwa rasa takut kalah membuat kesempatan dilewatkan | A: mengenali pola pikir yang muncul sebelum mencoba | Menggali pengalaman sebelumnya | Mampu mengidentifikasi pikiran penghambat |
+| Interest | Mulai melihat mencoba sebagai kesempatan memperoleh pengalaman | A/K: memahami manfaat mencoba selain menang | Mengubah fokus dari hasil menjadi pengalaman | Ada alasan untuk tetap mencoba |
+| Desire | Ingin tetap mencoba walaupun belum yakin akan berhasil | A: menerima bahwa belum jago tidak selalu berarti tidak bisa | Pesan kepada diri sendiri | Keinginan untuk mencoba tetap muncul |
+| Action | Belum teramati secara langsung | S: membutuhkan langkah persiapan yang realistis | Belajar, latihan, meminta bantuan teman, atau mencoba sambil berjalan sesuai situasi | Tindakan nyata pada kesempatan berikutnya |
+
+# C) Skrip Percakapan
+
+**Transkrip voice chat.**
+
+**AI:** Oke, kita mulai dari kemampuan yang pengin kamu kembangin. Apa yang pengin kamu kembangin?
+
+**Mahasiswa:** Lebih berani mencoba hal baru.
+
+**AI:** Kenapa kamu merasa belum percaya diri buat mencoba hal baru?
+
+**Mahasiswa:** Takut nggak bisa, masih banyak yang lebih jago.
+
+**AI:** Biasanya rasa takut itu muncul di situasi kayak gimana?
+
+**Mahasiswa:** Di tempat orang-orang keren.
+
+**AI:** Ada contoh nyata ketika rasa takut itu sampai bikin kamu nggak jadi mencoba?
+
+**Mahasiswa:** Coba ikut lomba tapi belum jadi karena pikirnya bakal kalah.
+
+**AI:** Kenapa akhirnya kamu memilih nggak ikut?
+
+**Mahasiswa:** Takut bikin malu diri sendiri atau tim.
+
+**AI:** Kalau kamu berhasil lebih berani mencoba, manfaat yang paling kamu pengin dapat apa?
+
+**Mahasiswa:** Buat CV.
+
+**AI:** Terus, apa yang biasanya bisa bikin kamu lebih berani buat mencoba?
+
+**Mahasiswa:** Teman ngajak, paham atau kuasai materi.
+
+**AI:** Kalau akhirnya kamu nggak jadi mencoba, kira-kira kamu bakal merasa apa?
+
+**Mahasiswa:** Nyesel karena nggak mencoba.
+
+**AI:** Kalau ada kesempatan lagi tapi kamu masih belum yakin, kamu kira-kira bakal gimana?
+
+**Mahasiswa:** Banyak pertimbangan dulu.
+
+**AI:** Menurut kamu, tanda kalau kemampuan kamu dalam hal ini sudah berkembang itu seperti apa?
+
+**Mahasiswa:** Berani coba sih, tapi masih merasa harus cukup menguasai materinya dulu supaya nggak mempermalukan diri sendiri atau tim.
+
+**AI:** Menurut kamu, apa yang sebenarnya perlu berubah dari cara berpikirmu supaya tetap mau mencoba walaupun belum yakin bakal berhasil?
+
+**Mahasiswa:** Cari pengalaman, bukan menang.
+
+**AI:** Kalau setelah latihan kamu tetap merasa kemampuanmu masih di bawah peserta lain, kamu mau tetap coba atau kemungkinan mundur?
+
+**Mahasiswa:** Mungkin jadi minder ikut lagi tapi bakal coba terus.
+
+**AI:** Kalau kamu membayangkan ada teman yang ngajak kamu ikut lomba, sementara peserta lain banyak yang jago, apa yang paling mungkin muncul di pikiran kamu?
+
+**Mahasiswa:** Campuran. Merasa nggak cukup jago, takut kalah atau malu, takut bikin tim rugi, dan merasa peserta lain lebih hebat.
+
+**AI:** Kalau kamu sadar pikiran-pikiran itu muncul, kamu pengin ngomong apa ke diri sendiri?
+
+**Mahasiswa:** Nggak harus menang, kamu juga bisa jadi jago.
+
+**AI:** Apa yang masih bikin kamu ragu atau nggak sepenuhnya percaya sama pesan itu?
+
+**Mahasiswa:** Belum nguasai.
+
+**AI:** Kalau kamu merasa belum menguasai materi, biasanya kamu bakal ngapain?
+
+**Mahasiswa:** Tergantung situasi. Bisa belajar atau latihan dulu, minta bantuan teman, tetap mencoba sambil jalan, atau malah mundur.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Dari percakapan, saya dapat mengidentifikasi bahwa hambatan utama saya ketika mencoba hal baru adalah rasa takut tidak mampu dan kebiasaan membandingkan diri dengan orang lain. Saya juga menyadari bahwa saya sebenarnya tetap memiliki keinginan untuk mencoba, tetapi rasa belum siap sering membuat saya terlalu banyak mempertimbangkan.
+
+Saya mulai melihat bahwa mengikuti lomba tidak harus hanya dinilai dari menang atau kalah. Mendapatkan pengalaman juga merupakan hasil yang bernilai. Namun, rasa belum menguasai materi masih menjadi hambatan yang perlu diperhatikan.
+
+| Unsur | Awal | Akhir sesi yang tersedia | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Orang lain yang lebih jago membuat saya merasa kurang mampu | Mulai melihat pengalaman sebagai peluang walaupun rasa minder masih ada | Bagian tentang mencari pengalaman, bukan menang | Laporan diri; belum diuji melalui tindakan nyata |
+| Attitude | Cenderung takut kalah dan malu | Bersedia tetap mencoba walaupun masih mungkin merasa minder | “Mungkin jadi minder ikut lagi tapi bakal coba terus” | Laporan diri |
+| Knowledge | Menganggap penguasaan materi penting sebelum mencoba | Menyadari bahwa pengalaman juga merupakan tujuan | Jawaban tentang mencari pengalaman | Laporan diri |
+| Skill | Belum konsisten mengambil kesempatan ketika belum merasa siap | Mulai mengidentifikasi beberapa cara menghadapi ketidaksiapan | Belajar, meminta bantuan, mencoba sambil jalan | Belum ada demonstrasi tindakan nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E1 | Awareness terhadap hambatan | Menggali alasan dan pengalaman ketika tidak jadi mencoba | Mengakui takut kalah dan membuat malu diri sendiri/tim | Hambatan menjadi lebih spesifik | Fokus diarahkan pada pengalaman nyata |
+| E2 | Reframing mulai terbentuk | Menanyakan apa yang perlu berubah dari cara berpikir | Menyebut mencari pengalaman, bukan menang | Peluang dari proses mencoba mulai terlihat | Fokus tidak lagi hanya pada kemenangan |
+| E3 | Keraguan masih ada | Mengajak membentuk pesan kepada diri sendiri | Mengakui bahwa belum menguasai materi masih menjadi hambatan | Attitude mulai lebih terbuka, tetapi readiness belum penuh | Mempertimbangkan persiapan, bantuan teman, atau mencoba sambil jalan |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| E2–E3 | Pesan kepada diri sendiri bahwa tidak harus menang dan kemampuan dapat berkembang | Masih mengakui adanya rasa minder dan keraguan karena belum menguasai materi | Dapat mengungkapkan hambatan secara terbuka | Membantu memperjelas hambatan dan alternatif respons, tetapi belum membuktikan perubahan perilaku jangka panjang |
+
+Pesan personal yang muncul adalah:
+
+> “Nggak harus menang, kamu juga bisa jadi jago.”
+
+Pesan tersebut membantu mengubah fokus dari hasil akhir menuju proses belajar dan pengalaman. Namun, pesan tersebut belum sepenuhnya menghilangkan keraguan karena penguasaan materi masih dianggap penting.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang dalam bentuk tindakan nyata belum dilakukan dalam sesi ini. Karena itu, belum dapat diketahui apakah perubahan cara berpikir tersebut benar-benar akan membuat saya mengambil kesempatan ketika berada dalam situasi yang sama.
+
+Pembelajaran yang muncul adalah bahwa berani mencoba tidak berarti harus merasa paling siap atau paling jago terlebih dahulu. Saya masih dapat melakukan persiapan, belajar, dan meminta bantuan, tetapi hal tersebut tidak harus selalu menjadi alasan untuk menolak kesempatan.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | E1 | Tujuan dan contoh nyata dapat dijelaskan dengan jelas |
+| Persepsi dan validasi profil/status | 4 | E1–E3 | Hambatan berupa minder, takut kalah, dan belum menguasai materi berhasil diidentifikasi |
+| Pemilihan dan urutan repertoar | 3 | E2–E3 | Sudah menemukan reframing dan beberapa alternatif respons, tetapi belum diuji |
+| Eksekusi jelas, peduli dan konsisten | 3 | E3 | Pesan kepada diri sendiri sudah jelas, tetapi penerapannya belum teramati |
+| Evaluasi dan adaptasi | 3 | E3 | Sudah mengidentifikasi beberapa alternatif ketika belum siap, tetapi belum diuji dalam situasi nyata |
+| Refleksi dan lesson learned | 4 | E2–E3 | Mampu mengidentifikasi perubahan cara pandang dan hambatan yang masih tersisa |
+
+**Total: 21/24 — hasil proses sementara.**
+
+Nilai tersebut masih bersifat sementara karena uji ulang dan tindakan nyata belum teramati.
+
+## Refleksi dan lesson learned mahasiswa
+
+Dari kasus ini, saya menyadari bahwa alasan saya sering ragu mencoba adalah karena saya terlalu membandingkan kemampuan saya dengan orang lain. Ketika melihat orang-orang yang menurut saya lebih jago, saya cenderung berpikir bahwa saya akan kalah sebelum benar-benar mencoba.
+
+Saya juga menyadari bahwa mengikuti lomba tidak harus selalu tentang menang. Saya bisa menjadikannya sebagai kesempatan untuk mendapatkan pengalaman. Kalau saya tidak mencoba, saya justru bisa merasa menyesal karena tidak pernah memberikan kesempatan kepada diri sendiri.
+
+Di sisi lain, saya masih merasa bahwa penguasaan materi penting. Kalau belum menguasai, saya masih bisa merasa minder dan takut membuat malu diri sendiri atau tim. Karena itu, saya tidak ingin menghilangkan persiapan, tetapi ingin belajar agar persiapan tidak selalu menjadi alasan untuk mundur.
+
+Pesan yang ingin saya ingat adalah bahwa saya tidak harus langsung jago untuk mulai mencoba. Saya bisa belajar, meminta bantuan teman, dan mencoba sambil berjalan sesuai situasi.
+
+## Tindak lanjut dan batas bukti
+
+Pada kesempatan berikutnya ketika ada lomba atau kegiatan yang menarik, saya akan mencoba untuk tidak langsung menolak hanya karena merasa peserta lain lebih jago. Saya akan melihat apa yang perlu dipelajari, melakukan persiapan, dan meminta bantuan teman jika diperlukan.
+
+Indikator keberhasilannya adalah saya benar-benar mengambil kesempatan tersebut meskipun belum merasa paling siap. Sampai sesi ini selesai, tindakan nyata tersebut belum teramati sehingga perubahan jangka panjang belum dapat disimpulkan.
+
+Perubahan yang terlihat dalam sesi ini masih berupa refleksi dan perubahan cara pandang, bukan bukti bahwa perilaku saya sudah berubah secara konsisten.
