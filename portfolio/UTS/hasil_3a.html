@@ -1,0 +1,1172 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Michelle Nataneilla">
+
+<title>Laporan Simulasi Komunikasi — Kasus 3a – Portfolio KIPP-2</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2486e1f0a3ee9ee1fc393803a1361cdb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-642a85262c5988cd771e6f194c07535d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Tidak ada hasil",
+    "search-matching-documents-text": "dokumen cocok",
+    "search-copy-link-title": "Salin tautan untuk mencari",
+    "search-hide-matches-text": "Sembunyikan kecocokan lainnya",
+    "search-more-match-text": "kecocokan lainnya di dokumen ini",
+    "search-more-matches-text": "kecocokan lainnya di dokumen ini",
+    "search-clear-button-title": "Hapus",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Batal",
+    "search-submit-button-title": "Kirim",
+    "search-label": "Mencari"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../assets/logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Portfolio KIPP-2</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Mencari"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alihkan navigasi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Beranda</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../course/index.html"> 
+<span class="menu-text">Perkuliahan</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../portfolio/index.html" aria-current="page"> 
+<span class="menu-text">Portfolio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../examples/index.html"> 
+<span class="menu-text">Contoh</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../lk/index.html"> 
+<span class="menu-text">Lembar Kerja</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../slides.html"> 
+<span class="menu-text">Slide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../slides-pdf/index.html"> 
+<span class="menu-text">Slide PDF</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../assessment/index.html"> 
+<span class="menu-text">Assessment</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">Profil</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Laporan Simulasi Komunikasi — Kasus 3a</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Indeks Portfolio</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Character Map</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Intra-Self Communication Journal</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Relationship Conversation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Five-Language Translation Portfolio</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Professional Discovery Interview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-06.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Target–Attention Challenge</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-07.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Problem–Solution Interest Pitch</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-08.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Portfolio Minggu 8 — UTS KIPP</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-09.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Desire-State Communication</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Action &amp; Agreement Challenge</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Multi-Person Negotiation Challenge</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Community Communication Challenge</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Public Contribution Challenge</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AI-Mediated Communication Design</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../portfolio/week-15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Capstone Performance Portfolio</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Di halaman ini</h2>
+   
+  <ul>
+  <li><a href="#a.-identifikasi-dan-tujuan" id="toc-a.-identifikasi-dan-tujuan" class="nav-link active" data-scroll-target="#a.-identifikasi-dan-tujuan">A. Identifikasi dan tujuan</a>
+  <ul class="collapse">
+  <li><a href="#a1.-identitas-dan-konteks" id="toc-a1.-identitas-dan-konteks" class="nav-link" data-scroll-target="#a1.-identitas-dan-konteks">A1. Identitas dan konteks</a></li>
+  <li><a href="#a2.-brief-kasus" id="toc-a2.-brief-kasus" class="nav-link" data-scroll-target="#a2.-brief-kasus">A2. Brief kasus</a></li>
+  <li><a href="#a3.-tujuan-komunikasi" id="toc-a3.-tujuan-komunikasi" class="nav-link" data-scroll-target="#a3.-tujuan-komunikasi">A3. Tujuan komunikasi</a></li>
+  <li><a href="#a4.-dugaan-awal-ask-dan-swot" id="toc-a4.-dugaan-awal-ask-dan-swot" class="nav-link" data-scroll-target="#a4.-dugaan-awal-ask-dan-swot">A4. Dugaan awal ASK dan SWOT</a></li>
+  </ul></li>
+  <li><a href="#b.-skrip-percakapan-simulasi" id="toc-b.-skrip-percakapan-simulasi" class="nav-link" data-scroll-target="#b.-skrip-percakapan-simulasi">B. Skrip percakapan simulasi</a>
+  <ul class="collapse">
+  <li><a href="#b1.-simulasi-awal" id="toc-b1.-simulasi-awal" class="nav-link" data-scroll-target="#b1.-simulasi-awal">B1. Simulasi awal</a></li>
+  <li><a href="#b2.-uji-ulang-muncul-kendala-operasional-baru" id="toc-b2.-uji-ulang-muncul-kendala-operasional-baru" class="nav-link" data-scroll-target="#b2.-uji-ulang-muncul-kendala-operasional-baru">B2. Uji ulang — muncul kendala operasional baru</a></li>
+  <li><a href="#b3.-evaluasi-dan-refleksi-simulasi" id="toc-b3.-evaluasi-dan-refleksi-simulasi" class="nav-link" data-scroll-target="#b3.-evaluasi-dan-refleksi-simulasi">B3. Evaluasi dan refleksi simulasi</a></li>
+  </ul></li>
+  <li><a href="#c.-evaluasi-analisis-dan-uji-ulang" id="toc-c.-evaluasi-analisis-dan-uji-ulang" class="nav-link" data-scroll-target="#c.-evaluasi-analisis-dan-uji-ulang">C. Evaluasi, analisis dan uji ulang</a>
+  <ul class="collapse">
+  <li><a href="#c1.-hasil-terhadap-tujuan" id="toc-c1.-hasil-terhadap-tujuan" class="nav-link" data-scroll-target="#c1.-hasil-terhadap-tujuan">C1. Hasil terhadap tujuan</a></li>
+  <li><a href="#c2.-perubahan-ask" id="toc-c2.-perubahan-ask" class="nav-link" data-scroll-target="#c2.-perubahan-ask">C2. Perubahan ASK</a></li>
+  <li><a href="#c3.-kesimpulan-swot-subjektif-setelah-percakapan" id="toc-c3.-kesimpulan-swot-subjektif-setelah-percakapan" class="nav-link" data-scroll-target="#c3.-kesimpulan-swot-subjektif-setelah-percakapan">C3. Kesimpulan SWOT subjektif setelah percakapan</a></li>
+  <li><a href="#c4.-evaluasi-enam-dimensi" id="toc-c4.-evaluasi-enam-dimensi" class="nav-link" data-scroll-target="#c4.-evaluasi-enam-dimensi">C4. Evaluasi enam dimensi</a></li>
+  <li><a href="#c5.-status-relasional-dalam-simulasi" id="toc-c5.-status-relasional-dalam-simulasi" class="nav-link" data-scroll-target="#c5.-status-relasional-dalam-simulasi">C5. Status relasional dalam simulasi</a></li>
+  <li><a href="#c6.-pengungkapan-profil-simulasi-setelah-evaluasi" id="toc-c6.-pengungkapan-profil-simulasi-setelah-evaluasi" class="nav-link" data-scroll-target="#c6.-pengungkapan-profil-simulasi-setelah-evaluasi">C6. Pengungkapan profil simulasi setelah evaluasi</a></li>
+  <li><a href="#c7.-uji-ulang-dan-adaptasi" id="toc-c7.-uji-ulang-dan-adaptasi" class="nav-link" data-scroll-target="#c7.-uji-ulang-dan-adaptasi">C7. Uji ulang dan adaptasi</a></li>
+  </ul></li>
+  <li><a href="#d.-refleksi-dan-tindak-lanjut" id="toc-d.-refleksi-dan-tindak-lanjut" class="nav-link" data-scroll-target="#d.-refleksi-dan-tindak-lanjut">D. Refleksi dan tindak lanjut</a>
+  <ul class="collapse">
+  <li><a href="#d1.-refleksi-mahasiswa-contoh-yang-perlu-dipersonalisasi" id="toc-d1.-refleksi-mahasiswa-contoh-yang-perlu-dipersonalisasi" class="nav-link" data-scroll-target="#d1.-refleksi-mahasiswa-contoh-yang-perlu-dipersonalisasi">D1. Refleksi mahasiswa — contoh yang perlu dipersonalisasi</a></li>
+  <li><a href="#d2.-lesson-learned" id="toc-d2.-lesson-learned" class="nav-link" data-scroll-target="#d2.-lesson-learned">D2. Lesson learned</a></li>
+  <li><a href="#d3.-rencana-tindak-lanjut" id="toc-d3.-rencana-tindak-lanjut" class="nav-link" data-scroll-target="#d3.-rencana-tindak-lanjut">D3. Rencana tindak lanjut</a></li>
+  <li><a href="#d4.-konfirmasi-dan-batas-laporan" id="toc-d4.-konfirmasi-dan-batas-laporan" class="nav-link" data-scroll-target="#d4.-konfirmasi-dan-batas-laporan">D4. Konfirmasi dan batas laporan</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Laporan Simulasi Komunikasi — Kasus 3a</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Penulis</div>
+    <div class="quarto-title-meta-contents">
+             <p>Michelle Nataneilla </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Diterbitkan</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">14 Oktober 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<blockquote class="blockquote">
+<p><strong>Catatan penting:</strong> Dokumen ini merupakan contoh latihan dengan dialog simulasi hipotetis yang disusun untuk latihan, bukan transkrip percakapan nyata yang telah berlangsung. Sesuaikan dengan pelaksanaan latihan sebenarnya sebelum digunakan sebagai laporan pengalaman aktual.</p>
+</blockquote>
+<section id="a.-identifikasi-dan-tujuan" class="level1">
+<h1>A. Identifikasi dan tujuan</h1>
+<section id="a1.-identitas-dan-konteks" class="level2">
+<h2 class="anchored" data-anchor-id="a1.-identitas-dan-konteks">A1. Identitas dan konteks</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Komponen</th>
+<th>Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nama</td>
+<td>Michelle Nataneilla</td>
+</tr>
+<tr class="even">
+<td>NIM</td>
+<td>18225071</td>
+</tr>
+<tr class="odd">
+<td>Sesi</td>
+<td>3a</td>
+</tr>
+<tr class="even">
+<td>Kasus</td>
+<td>Kasus 3 — menawarkan solusi TI/AI</td>
+</tr>
+<tr class="odd">
+<td>Komunikan simulasi</td>
+<td>Ali</td>
+</tr>
+<tr class="even">
+<td>ID komunikan</td>
+<td>K3-01</td>
+</tr>
+<tr class="odd">
+<td>Modalitas</td>
+<td>Simulasi teks</td>
+</tr>
+<tr class="even">
+<td>Tanggal dokumen</td>
+<td>14 Oktober 2026</td>
+</tr>
+<tr class="odd">
+<td>Status</td>
+<td>Contoh latihan hipotetis; bukan verifikasi identitas</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="a2.-brief-kasus" class="level2">
+<h2 class="anchored" data-anchor-id="a2.-brief-kasus">A2. Brief kasus</h2>
+<p>Ali mengelola usaha dengan tenaga terbatas. Pelanggan berulang kali menanyakan hal yang sama, seperti harga, stok, dan cara memesan. Pesanan kadang terlewat atau tidak tercatat. Ali belum yakin apakah ia membutuhkan AI atau apakah solusi yang lebih sederhana sudah memadai.</p>
+</section>
+<section id="a3.-tujuan-komunikasi" class="level2">
+<h2 class="anchored" data-anchor-id="a3.-tujuan-komunikasi">A3. Tujuan komunikasi</h2>
+<p>Tujuan saya adalah memahami alur kerja dan masalah Ali sebelum menawarkan solusi, lalu mengusulkan langkah awal yang realistis dan dapat diuji. Saya tidak ingin langsung menjual AI, melainkan membantu Ali membandingkan pilihan yang sesuai dengan kebutuhan, kemampuan staf, biaya, risiko, dan manfaat yang dapat diukur.</p>
+<p><strong>Indikator keberhasilan yang diharapkan:</strong> - masalah utama dan proses saat ini teridentifikasi; - Ali merasa keraguannya didengar dan tidak dipaksa; - pilihan solusi sederhana dan opsi AI dijelaskan dengan batasannya; - ada kesepakatan uji coba dengan cakupan, penanggung jawab, dukungan, indikator sukses, dan jadwal evaluasi.</p>
+</section>
+<section id="a4.-dugaan-awal-ask-dan-swot" class="level2">
+<h2 class="anchored" data-anchor-id="a4.-dugaan-awal-ask-dan-swot">A4. Dugaan awal ASK dan SWOT</h2>
+<p><strong>ASK awal — dugaan sebelum dialog</strong> - <strong>A (Attitude/kemauan):</strong> Ali ingin mengembangkan layanan, tetapi mungkin khawatir perubahan akan membebani staf atau berakhir gagal. - <strong>S (Skill/kemampuan):</strong> Ali dan staf mungkin mampu menggunakan alat digital dasar, tetapi memerlukan demonstrasi serta pelatihan kecil. - <strong>K (Knowledge/pemahaman):</strong> Ali mengenali masalahnya, tetapi belum memahami perbedaan antara otomasi sederhana dan AI serta batas akurasinya.</p>
+<p><strong>SWOT subjektif awal — dugaan</strong> - <strong>Strengths:</strong> Ali mengetahui masalah operasional yang terjadi dan memiliki pengalaman langsung dengan pelanggan. - <strong>Weaknesses:</strong> pencatatan dan penanganan pertanyaan berulang belum konsisten. - <strong>Opportunities:</strong> templat jawaban, formulir pesanan, dan pencatatan terpusat dapat mengurangi pekerjaan berulang. - <strong>Threats:</strong> staf kewalahan, data pesanan salah, biaya bertambah, atau teknologi sulit digunakan.</p>
+<p>Dugaan ini perlu diperiksa lewat pertanyaan dan validasi, bukan dianggap sebagai fakta sebelum Ali mengonfirmasi.</p>
+</section>
+</section>
+<section id="b.-skrip-percakapan-simulasi" class="level1">
+<h1>B. Skrip percakapan simulasi</h1>
+<blockquote class="blockquote">
+<p><strong>Status transkrip:</strong> Seluruh dialog pada bagian ini adalah contoh simulasi hipotetis untuk latihan. ID giliran disediakan agar struktur laporan dan evaluasinya mudah diikuti.</p>
+</blockquote>
+<section id="b1.-simulasi-awal" class="level2">
+<h2 class="anchored" data-anchor-id="b1.-simulasi-awal">B1. Simulasi awal</h2>
+<p><strong>[Identifikasi dan pembukaan]</strong></p>
+<p><strong>U001 — Michelle:</strong> hai, aku michelle. aku ingin memahami dulu cara usahamu berjalan sebelum menyarankan teknologi apa pun. boleh cerita, bagian mana yang akhir-akhir ini paling menyita waktumu?</p>
+<p><strong>AI001 — Ali:</strong> terima kasih, tetapi saya belum yakin bisa melakukannya. saya mengelola usaha kecil, dan akhir-akhir ini cukup kewalahan. pelanggan sering bertanya hal yang sama, sementara beberapa pesanan kadang terlewat.</p>
+<p><strong>U002 — Michelle:</strong> kedengarannya kamu sedang berusaha menjaga layanan tetap baik dengan tenaga yang terbatas. aku nggak mau langsung menyimpulkan bahwa kamu perlu AI. biasanya pertanyaan apa yang paling sering masuk?</p>
+<p><strong>AI002 — Ali:</strong> paling sering soal harga, ketersediaan barang, jam operasional, dan cara memesan. pertanyaan itu muncul berkali-kali setiap hari.</p>
+<p><strong>U003 — Michelle:</strong> kalau pertanyaan-pertanyaan itu datang, sekarang kamu atau staf menjawabnya lewat saluran apa? misalnya chat, telepon, atau media sosial?</p>
+<p><strong>AI003 — Ali:</strong> kebanyakan lewat WhatsApp dan media sosial. kadang saya yang menjawab, kadang staf. belum ada satu tempat yang menyimpan jawaban standar.</p>
+<p><strong>U004 — Michelle:</strong> jadi jawaban masih tersebar dan bergantung pada siapa yang sedang menangani pesan, ya? untuk pesanan yang terlewat, boleh ceritakan biasanya terjadi di tahap mana?</p>
+<p><strong>AI004 — Ali:</strong> biasanya saat banyak pesan masuk bersamaan. ada yang sudah tanya lalu mengirim detail pesanan, tetapi pesan itu tenggelam di antara chat lain. kadang kami baru sadar setelah pelanggan menanyakan lagi.</p>
+<p><strong>U005 — Michelle:</strong> itu pasti merepotkan, apalagi ketika pelanggan harus menghubungi ulang. kira-kira saat ramai, seberapa sering kejadian itu muncul, dan apa dampaknya bagi usahamu?</p>
+<p><strong>AI005 — Ali:</strong> saya tidak punya angka yang pasti. tetapi cukup sering sampai membuat saya khawatir pelanggan kecewa. kami juga harus meluangkan waktu untuk mencari kembali pesan lama.</p>
+<p><strong>U006 — Michelle:</strong> masuk akal kalau kamu belum ingin menambah sistem sebelum tahu manfaatnya. kalau satu hal bisa diperbaiki lebih dulu, mana yang paling penting buatmu: mengurangi pertanyaan berulang, memastikan semua pesanan tercatat, atau keduanya?</p>
+<p><strong>AI006 — Ali:</strong> pesanan yang tercatat dengan benar paling penting. menjawab pertanyaan berulang juga menghabiskan waktu, tetapi pesanan yang hilang bisa membuat pelanggan kecewa.</p>
+<p><strong>U007 — Michelle:</strong> berarti prioritas utamanya adalah jangan sampai pesanan hilang, lalu mengurangi pekerjaan menjawab pertanyaan yang sama. saat ini apakah kalian sudah menggunakan spreadsheet, buku catatan, atau formulir pesanan?</p>
+<p><strong>AI007 — Ali:</strong> kami mencatat sebagian pesanan di buku dan sebagian lagi di chat. spreadsheet pernah dicoba, tetapi tidak semua staf mengisinya secara konsisten.</p>
+<p><strong>U008 — Michelle:</strong> terima kasih sudah cerita jujur. aku bisa memahami kenapa kamu ragu: alat baru tidak akan membantu kalau justru menambah pekerjaan atau sulit dipakai staf. menurutmu, apa yang membuat spreadsheet sebelumnya tidak konsisten digunakan?</p>
+<p><strong>AI008 — Ali:</strong> staf merasa harus membuka aplikasi lain dan mengisi banyak kolom. saat ramai, mereka memilih membalas chat dulu lalu berniat mencatatnya nanti.</p>
+<p><strong>U009 — Michelle:</strong> jadi kendalanya bukan semata-mata kurangnya teknologi, tetapi alurnya terasa terpisah dan terlalu banyak langkah. kalau ada cara yang sederhana, apa syarat terpenting supaya staf bersedia menggunakannya?</p>
+<p><strong>AI009 — Ali:</strong> harus mudah, tidak perlu mengetik ulang terlalu banyak, dan saya ingin bisa memeriksa apakah semua pesanan sudah masuk.</p>
+<p><strong>U010 — Michelle:</strong> kalau begitu, mungkin langkah pertama tidak harus AI. kita bisa menguji formulir pesanan singkat yang masuk ke satu spreadsheet bersama, ditambah templat jawaban untuk pertanyaan umum. AI baru dipertimbangkan kalau pertanyaan pelanggan tetap terlalu banyak atau variasinya sulit ditangani. menurutmu, apakah pendekatan bertahap seperti itu lebih masuk akal?</p>
+<p><strong>AI010 — Ali:</strong> itu terdengar lebih masuk akal daripada langsung memakai AI. tetapi saya masih khawatir apakah staf bisa belajar menggunakan formulir itu tanpa memperlambat pelayanan.</p>
+<p><strong>U011 — Michelle:</strong> kekhawatiran itu wajar. kita bisa mulai dengan demonstrasi singkat dan mencoba alurnya pada sebagian pesanan, bukan langsung mengubah seluruh operasi. aku bisa membantu menyiapkan contoh dan menemani evaluasi awal, tetapi kita tetap perlu menguji apakah alurnya benar-benar lebih mudah.</p>
+<p><strong>AI011 — Ali:</strong> kalau ada contoh yang bisa kami coba dan tidak langsung diterapkan ke semua pesanan, saya bersedia mempertimbangkannya.</p>
+<p><strong>U012 — Michelle:</strong> agar uji cobanya jelas, bagaimana kalau selama satu minggu kita menguji formulir pada satu jenis pesanan atau satu saluran terlebih dahulu? kita catat jumlah pesanan yang masuk, pesanan yang tercatat lengkap, waktu yang dibutuhkan, dan kendala staf. jangan masukkan data pribadi pelanggan sungguhan ke contoh latihan; untuk uji coba gunakan data seperlunya dan batasi akses.</p>
+<p><strong>AI012 — Ali:</strong> satu minggu untuk satu saluran mungkin bisa. saya ingin ada cara untuk membandingkan apakah jumlah pesanan yang terlewat benar-benar berkurang.</p>
+<p><strong>U013 — Michelle:</strong> setuju. sebelum mulai, kita perlu mengambil kondisi awal selama beberapa hari dengan menghitung jumlah pesanan masuk dan berapa yang tidak tercatat, tanpa menyimpan informasi pelanggan yang tidak diperlukan. lalu bandingkan dengan hasil uji coba. siapa yang paling cocok menjadi penanggung jawab pencatatan dan siapa yang akan memeriksa hasilnya?</p>
+<p><strong>AI013 — Ali:</strong> saya bisa menunjuk satu staf sebagai penanggung jawab, lalu saya memeriksa ringkasannya setiap akhir hari. tetapi saya belum bisa menjanjikan semua staf langsung menggunakannya.</p>
+<p><strong>U014 — Michelle:</strong> kita tidak perlu menjanjikan itu dari awal. kita bisa meminta satu staf mencoba, meminta masukan dari staf lain, lalu memperbaiki formulir sebelum diperluas. kalau hasilnya tidak lebih baik atau justru memperlambat kerja, kita evaluasi dan ubah pendekatannya. apakah itu terasa cukup aman untuk dicoba?</p>
+<p><strong>AI014 — Ali:</strong> ya, saya lebih nyaman kalau ada evaluasi dan kemungkinan untuk mengubah atau menghentikan uji coba.</p>
+<p><strong>[Kesimpulan simulasi awal]</strong></p>
+<p><strong>U015 — Michelle:</strong> jadi, untuk langkah pertama kita belum memutuskan membeli AI. kita sepakat menguji formulir pesanan sederhana dan templat jawaban pada satu saluran selama satu minggu, menetapkan kondisi awal, menunjuk penanggung jawab, serta mengevaluasi kelengkapan pencatatan, pesanan terlewat, waktu kerja, dan masukan staf. setelah hasilnya terlihat, baru kita putuskan apakah perlu otomasi tambahan atau AI.</p>
+<p><strong>AI015 — Ali:</strong> saya setuju dengan rencana uji coba itu. saya akan memilih satu staf untuk mencoba dan memeriksa ringkasan setiap hari. setelah satu minggu, kita lihat hasilnya sebelum memutuskan langkah berikutnya.</p>
+</section>
+<section id="b2.-uji-ulang-muncul-kendala-operasional-baru" class="level2">
+<h2 class="anchored" data-anchor-id="b2.-uji-ulang-muncul-kendala-operasional-baru">B2. Uji ulang — muncul kendala operasional baru</h2>
+<p><strong>[Uji ulang: staf lain keberatan]</strong></p>
+<p><strong>U016 — Michelle:</strong> kita bayangkan uji coba sudah akan dimulai. seorang staf lain berkata bahwa formulir baru akan membuatnya bekerja dua kali karena ia masih harus membalas WhatsApp. bagaimana kamu akan menanggapi keberatan itu dan menyesuaikan rencana?</p>
+<p><strong>AI016 — Ali:</strong> saya akan menjelaskan bahwa formulir itu untuk mengurangi pesanan yang hilang, bukan menambah beban. tetapi saya sendiri belum tahu apakah formulirnya bisa mengurangi pencatatan ganda. apakah kita bisa mencoba dengan satu contoh pesanan terlebih dahulu?</p>
+<p><strong>U017 — Michelle:</strong> itu pendekatan yang baik untuk diuji. kita bisa memetakan satu alur pesanan dari pesan masuk sampai tercatat, lalu menghitung langkah yang berulang. jika pelanggan tetap perlu mengirim pesan, formulir sebaiknya meminta informasi minimum dan tidak memaksa staf menyalin seluruh percakapan. setelah contoh itu dicoba, kita minta staf menilai apakah alurnya lebih ringan atau justru menambah kerja.</p>
+<p><strong>AI017 — Ali:</strong> saya bersedia melakukan percobaan kecil itu. saya ingin staf ikut memberi masukan supaya mereka tidak merasa keputusan ini hanya datang dari saya.</p>
+<p><strong>U018 — Michelle:</strong> setuju. kita libatkan staf dalam uji coba dan catat keberatan mereka tanpa menyalahkan siapa pun. kalau formulir tidak praktis, kita sederhanakan. untuk saat ini, kita tidak akan menambahkan AI atau otomatisasi yang lebih rumit sebelum alur dasarnya terbukti berguna.</p>
+<p><strong>AI018 — Ali:</strong> itu lebih realistis. saya akan mengajak satu staf mencoba alur contoh dan mengumpulkan masukan sebelum memutuskan apakah bisa diterapkan lebih luas.</p>
+</section>
+<section id="b3.-evaluasi-dan-refleksi-simulasi" class="level2">
+<h2 class="anchored" data-anchor-id="b3.-evaluasi-dan-refleksi-simulasi">B3. Evaluasi dan refleksi simulasi</h2>
+<p><strong>U019 — Michelle:</strong> setelah latihan ini, menurutmu apakah aku sudah memahami kebutuhan dan kekhawatiranmu? bagian mana yang paling membantu, dan bagian mana yang masih perlu diperjelas?</p>
+<p><strong>AI019 — Ali:</strong> saya merasa kekhawatiran tentang kemampuan staf didengar, dan saya tidak didorong untuk langsung membeli AI. yang masih perlu diperjelas adalah cara mengukur hasil dan memastikan formulir tidak membuat pekerjaan ganda.</p>
+<p><strong>U020 — Michelle:</strong> terima kasih, itu masukan penting. aku perlu memastikan indikator dan alur kerja lebih konkret sebelum uji coba. pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?</p>
+<p><strong>AI020 — Ali:</strong> ketika kamu mengakui bahwa alat baru bisa menambah pekerjaan dan menawarkan percobaan kecil, saya merasa tidak dipaksa. saya kemudian bersedia menjelaskan masalah spreadsheet dan mempertimbangkan uji coba. saya masih ingin melihat hasil nyata sebelum menyetujui perubahan lebih besar.</p>
+</section>
+</section>
+<section id="c.-evaluasi-analisis-dan-uji-ulang" class="level1">
+<h1>C. Evaluasi, analisis dan uji ulang</h1>
+<section id="c1.-hasil-terhadap-tujuan" class="level2">
+<h2 class="anchored" data-anchor-id="c1.-hasil-terhadap-tujuan">C1. Hasil terhadap tujuan</h2>
+<p><strong>Hasil dalam simulasi:</strong> tujuan tercapai sebagian besar pada tingkat kesepakatan awal. Ali setuju mempertimbangkan uji coba terbatas, tetapi belum menyetujui penerapan menyeluruh atau penggunaan AI. Ini merupakan keputusan yang realistis karena kebutuhan utamanya adalah mencegah pesanan terlewat, sedangkan penyebab yang terungkap berkaitan dengan alur pencatatan dan konsistensi staf.</p>
+<p><strong>Kesepakatan simulasi:</strong> - <strong>Cakupan:</strong> satu saluran atau satu jenis pesanan terlebih dahulu. - <strong>Durasi:</strong> satu minggu uji coba, setelah kondisi awal dicatat. - <strong>Penanggung jawab:</strong> Ali menunjuk satu staf; Ali memeriksa ringkasan harian. - <strong>Dukungan:</strong> demonstrasi, contoh alur satu pesanan, dan masukan staf. - <strong>Indikator:</strong> jumlah pesanan masuk, kelengkapan pencatatan, jumlah pesanan yang terlewat, waktu proses, serta masukan staf. - <strong>Risiko dan mitigasi:</strong> pencatatan ganda, akses data, dan staf kesulitan menggunakan formulir. Gunakan data minimum, batasi akses, dan jangan memasukkan data pelanggan nyata ke contoh latihan. - <strong>Keputusan berikutnya:</strong> setelah satu minggu, tinjau hasil sebelum memperluas penggunaan atau mempertimbangkan otomasi/AI.</p>
+<p>Angka target keberhasilan belum ditetapkan dalam simulasi. Sebelum uji coba nyata, Ali dan staf perlu menentukan target yang realistis berdasarkan kondisi awal, bukan menggunakan angka yang dikarang.</p>
+</section>
+<section id="c2.-perubahan-ask" class="level2">
+<h2 class="anchored" data-anchor-id="c2.-perubahan-ask">C2. Perubahan ASK</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th>Perkiraan awal</th>
+<th>Status akhir dalam simulasi</th>
+<th>Bukti dialog</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A — kemauan/sikap</td>
+<td>Ingin berkembang, tetapi khawatir perubahan membebani staf</td>
+<td>Meningkat sebagian; bersedia mencoba dengan batas yang jelas</td>
+<td>AI010, AI011, AI014</td>
+</tr>
+<tr class="even">
+<td>K — pengetahuan/pemahaman</td>
+<td>Belum memahami pilihan selain AI dan belum yakin cara menilai manfaat</td>
+<td>Meningkat sebagian; memahami bahwa formulir dan templat dapat diuji sebelum AI</td>
+<td>AI010, AI015</td>
+</tr>
+<tr class="odd">
+<td>S — kemampuan/dukungan</td>
+<td>Perlu demonstrasi dan latihan kecil</td>
+<td>Kesiapan mencoba meningkat, tetapi kemampuan nyata belum terbukti</td>
+<td>AI016–AI018</td>
+</tr>
+</tbody>
+</table>
+<p>Perubahan di atas adalah status tokoh dalam simulasi, bukan bukti bahwa kemampuan staf di dunia nyata sudah meningkat.</p>
+</section>
+<section id="c3.-kesimpulan-swot-subjektif-setelah-percakapan" class="level2">
+<h2 class="anchored" data-anchor-id="c3.-kesimpulan-swot-subjektif-setelah-percakapan">C3. Kesimpulan SWOT subjektif setelah percakapan</h2>
+<ul>
+<li><strong>Strengths:</strong> Ali mampu mengidentifikasi masalah utama, mengetahui prioritasnya, dan bersedia memeriksa hasil secara berkala.</li>
+<li><strong>Weaknesses:</strong> pencatatan masih tersebar; penggunaan spreadsheet sebelumnya tidak konsisten; kemungkinan pencatatan ganda belum diselesaikan.</li>
+<li><strong>Opportunities:</strong> formulir singkat, spreadsheet bersama, dan templat jawaban bisa menjadi intervensi awal yang murah dan mudah diuji. AI dapat dipertimbangkan setelah kebutuhan dan alur dasar lebih jelas.</li>
+<li><strong>Threats:</strong> staf merasa terbebani, data salah atau tidak lengkap, akses data terlalu luas, serta penggunaan teknologi tanpa manfaat terukur.</li>
+</ul>
+<p>SWOT ini merupakan kesimpulan subjektif dari dialog simulasi, bukan audit bisnis.</p>
+</section>
+<section id="c4.-evaluasi-enam-dimensi" class="level2">
+<h2 class="anchored" data-anchor-id="c4.-evaluasi-enam-dimensi">C4. Evaluasi enam dimensi</h2>
+<p>Skala yang digunakan: <strong>1 = bukti sangat terbatas; 2 = mulai terlihat tetapi belum konsisten; 3 = baik dengan beberapa kekurangan; 4 = kuat dan konsisten.</strong> Skor berikut adalah <strong>usulan evaluasi AI untuk moderasi dosen</strong>, bukan nilai resmi.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 30%">
+<col style="width: 23%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th style="text-align: right;">Skor usulan</th>
+<th>Bukti giliran dan kutipan</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Tujuan dan konteks</td>
+<td style="text-align: right;">3/4</td>
+<td>U001: “bagian mana yang akhir-akhir ini paling menyita waktumu?”; U006–U007</td>
+<td>Pertanyaan menggali masalah dan prioritas sebelum menawarkan solusi. Kondisi awal belum dikuantifikasi dengan angka yang nyata.</td>
+</tr>
+<tr class="even">
+<td>2. Persepsi, validasi profil/status</td>
+<td style="text-align: right;">3/4</td>
+<td>U008: “aku bisa memahami kenapa kamu ragu”; U009</td>
+<td>Keraguan dan hambatan staf divalidasi tanpa menghakimi. Beberapa pemahaman masih perlu dikonfirmasi lebih rinci.</td>
+</tr>
+<tr class="odd">
+<td>3. Pemilihan dan urutan repertoar</td>
+<td style="text-align: right;">3/4</td>
+<td>U010: “U012–U014</td>
+<td>Solusi bertahap dipilih sesuai masalah, dengan uji coba dan ukuran hasil.</td>
+</tr>
+<tr class="even">
+<td>4. Eksekusi yang jelas dan tulus</td>
+<td style="text-align: right;">4/4</td>
+<td>U011: “aku bisa membantu menyiapkan contoh”; U014–U015</td>
+<td>Bahasa jelas, tidak memaksa, dan dukungan disampaikan secara konkret. Peran dan waktu pendampingan masih dapat dibuat lebih spesifik.</td>
+</tr>
+<tr class="odd">
+<td>5. Evaluasi dan adaptasi</td>
+<td style="text-align: right;">4/4</td>
+<td>U016–U018</td>
+<td>Keberatan staf ditanggapi dengan pemetaan alur dan uji contoh.</td>
+</tr>
+<tr class="even">
+<td>6. Refleksi dan lesson learned</td>
+<td style="text-align: right;">4/4</td>
+<td>U019–U020</td>
+<td>Masukan Ali ditanyakan dan dipakai untuk mengidentifikasi hal yang perlu diperjelas.</td>
+</tr>
+<tr class="odd">
+<td><strong>Jumlah</strong></td>
+<td style="text-align: right;"><strong>21/24</strong></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nilai sesi simulasi (usulan AI):</strong> (21/24 = 87.5).</p>
+<p>Nilai 75 ini hanya hasil ilustratif dari contoh dialog hipotetis dan harus dimoderasi dosen. Nilai ini bukan nilai resmi dan tidak boleh dipakai sebagai pengganti asesmen atas percakapan mahasiswa yang benar-benar berlangsung.</p>
+</section>
+<section id="c5.-status-relasional-dalam-simulasi" class="level2">
+<h2 class="anchored" data-anchor-id="c5.-status-relasional-dalam-simulasi">C5. Status relasional dalam simulasi</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Aspek</th>
+<th>Awal</th>
+<th>Akhir</th>
+<th>Bukti dan batas inferensi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Rasa aman</td>
+<td>Rendah–sedang</td>
+<td>Sedang–tinggi</td>
+<td>Ali mula-mula ragu; kemudian bersedia menjelaskan kendala staf dan mencoba langkah kecil.</td>
+</tr>
+<tr class="even">
+<td>Merasa dipahami/dipedulikan</td>
+<td>Sedang</td>
+<td>Tinggi</td>
+<td>Ali menyebut bahwa kekhawatiran staf didengar dan dirinya tidak dipaksa (AI019–AI020).</td>
+</tr>
+<tr class="odd">
+<td>Kepercayaan</td>
+<td>Rendah–sedang</td>
+<td>Sedang</td>
+<td>Ali bersedia mencoba uji terbatas, tetapi belum menyetujui penerapan luas.</td>
+</tr>
+<tr class="even">
+<td>Kesediaan membuka informasi</td>
+<td>Sedang</td>
+<td>Tinggi</td>
+<td>Ali menjelaskan masalah pencatatan, pengalaman spreadsheet, dan keberatan staf.</td>
+</tr>
+</tbody>
+</table>
+<p>Kategori tersebut adalah catatan kualitatif atas respons tokoh simulasi, bukan ukuran psikometrik atau bukti tentang perasaan manusia nyata.</p>
+</section>
+<section id="c6.-pengungkapan-profil-simulasi-setelah-evaluasi" class="level2">
+<h2 class="anchored" data-anchor-id="c6.-pengungkapan-profil-simulasi-setelah-evaluasi">C6. Pengungkapan profil simulasi setelah evaluasi</h2>
+<p>Bagian ini dipisahkan dari dugaan awal agar tidak tercampur.</p>
+<p>Profil tokoh Ali (K3-01) menetapkan bahwa Ali ingin berkembang tetapi takut gagal, terutama karena khawatir staf tidak sanggup. Pemahamannya tentang TI/AI masih umum, sedangkan pelaksanaan membutuhkan demonstrasi dan pelatihan kecil. Respons yang berpotensi membantu adalah mengakui keraguan tanpa menghakimi, menjelaskan contoh yang relevan, dan menyepakati langkah kecil dengan dukungan konkret.</p>
+<p><strong>Kecocokan dengan simulasi:</strong> respons Ali menjadi lebih terbuka setelah kekhawatiran tentang beban staf diakui. Namun, persetujuan tetap terbatas pada uji coba; hambatan kemampuan belum dianggap selesai sebelum ada demonstrasi.</p>
+</section>
+<section id="c7.-uji-ulang-dan-adaptasi" class="level2">
+<h2 class="anchored" data-anchor-id="c7.-uji-ulang-dan-adaptasi">C7. Uji ulang dan adaptasi</h2>
+<p>Uji ulang menambahkan kendala baru: staf merasa formulir dapat membuat pencatatan ganda. Respons dalam contoh simulasi tidak menepis keberatan tersebut, tetapi mengusulkan pemetaan satu alur pesanan, pengujian dengan satu contoh, dan pelibatan staf.</p>
+<p><strong>Yang sudah baik:</strong> - keberatan dianggap sebagai informasi penting; - solusi tidak diperluas sebelum manfaatnya terbukti; - masukan staf dimasukkan ke evaluasi; - ada ruang untuk menyederhanakan atau menghentikan uji coba.</p>
+<p><strong>Yang masih perlu diperjelas:</strong> - siapa yang menyiapkan formulir dan kapan demonstrasi dilakukan; - bagaimana mendefinisikan “pesanan terlewat” dan “pencatatan ganda”; - target keberhasilan berdasarkan kondisi awal; - siapa yang memiliki akses ke data pesanan dan berapa lama data disimpan.</p>
+</section>
+</section>
+<section id="d.-refleksi-dan-tindak-lanjut" class="level1">
+<h1>D. Refleksi dan tindak lanjut</h1>
+<section id="d1.-refleksi-mahasiswa-contoh-yang-perlu-dipersonalisasi" class="level2">
+<h2 class="anchored" data-anchor-id="d1.-refleksi-mahasiswa-contoh-yang-perlu-dipersonalisasi">D1. Refleksi mahasiswa — contoh yang perlu dipersonalisasi</h2>
+<p>Dalam latihan ini, saya belajar bahwa menawarkan solusi TI/AI sebaiknya dimulai dengan memahami masalah kerja, bukan dengan mempromosikan fitur. Masalah yang awalnya tampak cocok untuk AI ternyata mungkin dapat ditangani lebih dulu dengan formulir pesanan yang sederhana, spreadsheet bersama, dan templat jawaban.</p>
+<p>Saya juga belajar bahwa mengakui keraguan bukan berarti menyetujui semua kekhawatiran tanpa pemeriksaan. Saya perlu mengklarifikasi penyebab masalah, memvalidasi pemahaman saya, lalu mengusulkan langkah yang kecil dan dapat dievaluasi. Kesediaan mencoba bukan berarti kemampuan sudah terbukti; demonstrasi dan masukan staf tetap diperlukan.</p>
+<p>Hal yang masih perlu saya perbaiki adalah membuat ukuran keberhasilan lebih konkret, memastikan alur baru tidak menciptakan pencatatan ganda, dan menentukan tanggung jawab pelaksanaan dengan jelas. Saya juga perlu berhati-hati terhadap data pelanggan dan tidak menjanjikan bahwa AI akan selalu akurat atau otomatis menyelesaikan masalah.</p>
+<blockquote class="blockquote">
+<p><strong>Catatan personalisasi:</strong> Tambahkan pengalaman atau respons yang benar-benar kamu rasakan saat latihan. Paragraf ini adalah contoh refleksi, bukan klaim bahwa kamu sudah mengalami semua hal tersebut.</p>
+</blockquote>
+</section>
+<section id="d2.-lesson-learned" class="level2">
+<h2 class="anchored" data-anchor-id="d2.-lesson-learned">D2. Lesson learned</h2>
+<ol type="1">
+<li>Mulai dari kebutuhan pengguna dan dampak masalah, bukan dari teknologi yang sedang populer.</li>
+<li>Bedakan otomasi sederhana dari AI; gunakan solusi paling sederhana yang memenuhi kebutuhan.</li>
+<li>Akui kekhawatiran pengguna dan jangan memaksa persetujuan.</li>
+<li>Uji coba harus mempunyai cakupan, durasi, penanggung jawab, dukungan, risiko, dan indikator keberhasilan.</li>
+<li>Ukur hasil dari kondisi awal dan hasil uji, bukan dari asumsi.</li>
+<li>Uji kemampuan melalui demonstrasi; jangan menyamakan niat mencoba dengan keterampilan yang sudah dikuasai.</li>
+<li>Jaga privasi pelanggan dengan menggunakan data minimum dan membatasi akses.</li>
+<li>Jika bukti menunjukkan solusi tidak membantu, revisi atau hentikan, bukan mempertahankannya hanya karena sudah direncanakan.</li>
+</ol>
+</section>
+<section id="d3.-rencana-tindak-lanjut" class="level2">
+<h2 class="anchored" data-anchor-id="d3.-rencana-tindak-lanjut">D3. Rencana tindak lanjut</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Langkah</th>
+<th>Penanggung jawab</th>
+<th>Waktu</th>
+<th>Bukti/indikator</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mencatat kondisi awal pesanan masuk dan pesanan yang tidak tercatat</td>
+<td>Ali dan staf yang ditunjuk</td>
+<td>Beberapa hari sebelum uji</td>
+<td>Catatan jumlah agregat tanpa data pribadi yang tidak diperlukan</td>
+</tr>
+<tr class="even">
+<td>Membuat formulir pesanan singkat dan templat jawaban</td>
+<td>Michelle sebagai pendamping simulasi; Ali/staf sebagai pemilik proses</td>
+<td>Sebelum uji</td>
+<td>Contoh alur siap diperiksa</td>
+</tr>
+<tr class="odd">
+<td>Mendemonstrasikan satu alur pesanan dan mengumpulkan masukan</td>
+<td>Ali dan staf</td>
+<td>Awal uji</td>
+<td>Catatan waktu, langkah berulang, dan kendala</td>
+</tr>
+<tr class="even">
+<td>Menjalankan uji coba terbatas</td>
+<td>Staf yang ditunjuk</td>
+<td>Satu minggu</td>
+<td>Kelengkapan pencatatan, pesanan terlewat, waktu proses, masukan staf</td>
+</tr>
+<tr class="odd">
+<td>Mengevaluasi hasil dan memutuskan langkah selanjutnya</td>
+<td>Ali dan staf</td>
+<td>Akhir minggu</td>
+<td>Keputusan lanjut, revisi, atau berhenti berdasarkan data</td>
+</tr>
+</tbody>
+</table>
+<p>Rencana ini merupakan rancangan simulasi. Pelaksanaan nyata memerlukan persetujuan pihak terkait dan pemeriksaan kondisi usaha yang sebenarnya.</p>
+</section>
+<section id="d4.-konfirmasi-dan-batas-laporan" class="level2">
+<h2 class="anchored" data-anchor-id="d4.-konfirmasi-dan-batas-laporan">D4. Konfirmasi dan batas laporan</h2>
+<ul>
+<li>Identitas laporan mengikuti data penugasan: Michelle Nataneilla, NIM 18225071, sesi 3a.</li>
+<li>Komunikan yang ditetapkan adalah Ali (K3-01).</li>
+<li>Dialog, respons tokoh, skor, dan perubahan ASK dalam dokumen ini merupakan contoh latihan hipotetis.</li>
+<li>Skor evaluasi adalah usulan AI untuk moderasi dosen, bukan nilai resmi.</li>
+<li>Nilai akhir UTS <strong>belum dihitung</strong>, karena memerlukan nilai makalah dan seluruh sesi yang diwajibkan.</li>
+<li>Dokumen ini belum dikirim ke portal pengumpulan; pengunggahan dilakukan oleh mahasiswa.</li>
+</ul>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Kembali ke atas</a></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Disalin!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Disalin!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/minei114\.github\.io\/kipp-students\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Portfolio KIPP-2 · Michelle Nataneilla</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Dibangun dengan Quarto</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
