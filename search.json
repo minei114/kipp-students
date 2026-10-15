@@ -1443,7 +1443,7 @@
     "href": "portfolio/week-08.html#makalah-dan-lima-laporan",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Makalah dan lima laporan",
-    "text": "Makalah dan lima laporan\n\n\n\nTahap\nDokumen\nSasaran\nStatus\n\n\n\n\nPra-UTS\nMakalah MBTI dan PASK\nEmpat pertanyaan kajian\nPerlu diperiksa\n\n\n1\nMemimpin Diri dan Terus Belajar\nDiri sendiri dan pembanding sesuai paket\nPerlu diperiksa\n\n\n2a\nPersahabatan dan Profesionalitas — Sesi 2a\nTarget sesuai ZIP 2a\nPerlu diperiksa\n\n\n2b\nPersahabatan dan Profesionalitas — Sesi 2b\nTarget sesuai ZIP 2b\nPerlu diperiksa\n\n\n3a\nMenawarkan Solusi TI/AI — Sesi 3a\nTarget sesuai ZIP 3a\nPerlu diperiksa\n\n\n3b\nMenawarkan Solusi TI/AI — Sesi 3b\nTarget sesuai ZIP 3b\nPerlu diperiksa\n\n\n\nNama berkas dan lokasi tautan di atas mengikuti struktur folder UTS. Pastikan semua file benar-benar sudah berada di folder tersebut dan nama berkasnya sesuai sebelum melakukan render atau pengumpulan.",
+    "text": "Makalah dan lima laporan\n\n\n\nTahap\nDokumen\nSasaran\nStatus\n\n\n\n\nPra-UTS\npaper.qmd\nEmpat pertanyaan kajian\nPerlu diperiksa\n\n\n1\nhasil_1.qmd\nDiri sendiri dan pembanding sesuai paket\nPerlu diperiksa\n\n\n2a\nhasil_2a.qmd\nTarget sesuai ZIP 2a\nPerlu diperiksa\n\n\n2b\nhasil_2b.qmd\nTarget sesuai ZIP 2b\nPerlu diperiksa\n\n\n3a\nhasil_3a.qmd\nTarget sesuai ZIP 3a\nPerlu diperiksa\n\n\n3b\nhasil_3b.qmd\nTarget sesuai ZIP 3b\nPerlu diperiksa\n\n\n\nNama berkas dan lokasi tautan di atas mengikuti struktur folder UTS. Pastikan semua file benar-benar sudah berada di folder tersebut dan nama berkasnya sesuai sebelum melakukan render atau pengumpulan.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
