@@ -10,92 +10,138 @@ categories: [TAIDA, Desire]
 
 ## Kompetensi target
 
-Membangun desired state bersama target dan menghubungkannya dengan pendekatan yang relevan. Dalam kasus ini, fokusnya adalah memahami kondisi anggota kelompok, membangun kenyamanan komunikasi, dan mendorong rasa memiliki tanpa memaksakan keterlibatan.
+Membangun desired state bersama target melalui pemahaman kondisi awal, pemilihan pendekatan komunikasi yang sesuai, serta evaluasi respons untuk menentukan tindakan selanjutnya.
 
-::: {.callout-note title="Konteks performance"}
-Kasus ini diambil dari pengalaman menjadi PJ kelompok AMI Tour Kampus ITB Day. Anggota kelompok cenderung kurang aktif di grup, sehingga aku mencoba menghubungi mereka satu per satu melalui personal chat (PC). Analisis ini berfokus pada pendekatan komunikasi dan respons yang aku amati, bukan menganggap semua anggota mengalami perubahan yang sama.
-:::
+Kasus ini berasal dari pengalaman aku sebagai PJ kelompok AMI Tour Kampus ITB Day. Saat itu, anggota kelompok cenderung kurang aktif di grup. aku mencoba membangun komunikasi melalui personal chat (PC), dimulai dari sapaan dan obrolan santai sebelum mengajak mereka terlibat dalam kelompok.
 
-## Current dan desired state
+Fokus komunikasi aku bukan hanya membuat anggota membalas pesan, tetapi membantu mereka merasa nyaman, diperhatikan, dan menjadi bagian penting kelompok. Meski begitu, aku membedakan perubahan respons saat PC dengan tercapainya desired state secara keseluruhan.
 
-| Elemen | Rumusan |
+## Person, current state, dan desired state
+
+### Person dan relationship
+
+Target komunikasi aku adalah anggota kelompok yang aku koordinasikan sebagai PJ. Dalam hubungan ini, aku memiliki tanggung jawab untuk membantu koordinasi dan mendorong keterlibatan kelompok, sedangkan anggota tetap memiliki pilihan mengenai cara dan tingkat keterlibatannya.
+
+Posisi aku sebagai PJ juga memengaruhi komunikasi. Ajakan dari PJ bisa terasa seperti tuntutan apabila langsung berisi instruksi. Karena itu, aku memilih memulai percakapan secara personal agar anggota punya ruang untuk merespons sebelum diajak terlibat lebih jauh.
+
+aku juga menyadari bahwa anggota yang kurang aktif tidak otomatis berarti tidak tertarik atau tidak peduli. Tanpa bertanya langsung, aku belum bisa memastikan apakah penyebabnya adalah rasa canggung, kesibukan, preferensi komunikasi, atau hal lainnya.
+
+### Current state
+
+Anggota kelompok cenderung kurang aktif dalam komunikasi grup. aku belum mengetahui alasan masing-masing anggota dan belum memiliki data yang cukup untuk mengelompokkan penyebab ketidakaktifan mereka.
+
+Kondisi ini membuat aku memilih pendekatan awal yang tidak langsung mengasumsikan masalahnya. aku mencoba membuka komunikasi terlebih dahulu melalui PC untuk melihat apakah anggota lebih nyaman berinteraksi dalam percakapan personal.
+
+### Desired state
+
+Desired state yang aku inginkan adalah anggota merasa nyaman, diperhatikan, dan memiliki rasa menjadi bagian dari kelompok. Dalam kondisi tersebut, anggota tidak hanya merespons ketika dihubungi oleh PJ, tetapi juga memiliki kesempatan dan kemauan untuk menyampaikan pendapat, bertanya, atau berkontribusi secara mandiri.
+
+aku membedakan tiga tingkat perubahan:
+
+1. **Respons awal:** anggota membalas atau lebih terbuka ketika diajak berbicara melalui PC.
+2. **Kenyamanan komunikasi:** anggota mulai merasa cukup nyaman untuk menyampaikan kebutuhan, pertanyaan, atau pendapatnya.
+3. **Keterlibatan mandiri:** anggota mulai berinisiatif berkomunikasi atau berkontribusi di grup tanpa harus selalu dihubungi terlebih dahulu.
+
+Respons yang lebih terbuka melalui PC merupakan pengamatan awal, bukan bukti bahwa semua tingkat perubahan tersebut sudah tercapai. Desired state baru dapat dinilai tercapai apabila ada bukti perilaku yang sesuai, bukan hanya karena anggota membalas pesan.
+
+## Objective dan value chain
+
+Objective aku adalah membangun kenyamanan komunikasi dan rasa memiliki anggota terhadap kelompok melalui pendekatan personal, kemudian mendorong keterlibatan yang lebih mandiri.
+
+| Tahap | Penjelasan |
 |---|---|
-| Person | Anggota kelompok AMI Tour Kampus ITB Day yang aku koordinasikan sebagai PJ kelompok |
-| Current state | Anggota kurang aktif di grup. aku belum tahu apakah mereka kurang tertarik, kurang nyaman berkomunikasi di grup, atau memiliki alasan lain. |
-| Desired state | Anggota merasa nyaman, diperhatikan, dianggap sebagai bagian penting kelompok, dan memiliki rasa memiliki terhadap kelompok. |
-| Objective | Membangun komunikasi yang lebih nyaman melalui pendekatan personal dan mendorong keterlibatan anggota dalam kelompok. |
-| Value | Anggota merasa keberadaannya berarti, pendapatnya diperhatikan, dan dirinya merupakan bagian dari kelompok. |
-| Acceptable risk | Pendekatan personal membutuhkan waktu dan tenaga lebih banyak, serta belum tentu membuat semua anggota lebih aktif. |
-| Evidence threshold | Anggota tidak hanya merespons PC dengan lebih terbuka, tetapi juga mulai menunjukkan keterlibatan dan inisiatif dalam komunikasi kelompok. |
+| Feature | aku memulai komunikasi melalui PC dengan sapaan personal dan obrolan santai sebelum mengajak anggota terlibat. |
+| Benefit | Anggota mendapat ajakan secara langsung dan memiliki ruang untuk merespons dalam percakapan yang lebih personal. |
+| Value | Anggota diharapkan merasa diperhatikan, dihargai, dan dianggap sebagai bagian penting kelompok. |
+| Desired outcome | Anggota merasa nyaman dan mulai menunjukkan keterlibatan atau inisiatif komunikasi secara mandiri. |
 
-Desired state dalam kasus ini bukan sekadar membuat anggota membalas pesan atau aktif di grup. aku ingin mereka merasa nyaman dan menjadi bagian penting kelompok. Namun, kondisi tersebut merupakan tujuan yang ingin dicapai, bukan hasil yang bisa langsung dianggap sudah terwujud.
+Rantai ini menjelaskan alasan aku memilih PC, tetapi tidak berarti bahwa pendekatan tersebut pasti menghasilkan rasa memiliki. PC merupakan cara yang aku gunakan untuk membuka komunikasi, sedangkan value yang ingin dibangun adalah perasaan bahwa keberadaan anggota berarti bagi kelompok.
 
-## Feature–benefit–value–outcome chain
+Outcome yang dituju bukan sekadar peningkatan jumlah balasan. Anggota dapat membalas PC karena sopan atau merasa perlu merespons PJ, tanpa benar-benar merasa memiliki kelompok. Karena itu, bukti yang lebih relevan adalah munculnya komunikasi dan kontribusi secara sukarela.
 
-Pendekatan personal melalui PC → anggota merasa diajak secara langsung dan diperhatikan → komunikasi terasa lebih nyaman → anggota merasa keberadaannya berarti → rasa memiliki dan keterlibatan dalam kelompok diharapkan meningkat.
+## Repertoire, language, dan pendekatan komunikasi
 
-Pendekatan melalui PC menjadi cara yang aku gunakan untuk membangun komunikasi dengan anggota yang kurang aktif di grup. Benefit yang diharapkan adalah anggota merasa lebih nyaman untuk merespons dan berinteraksi. Value yang ingin dibangun adalah perasaan bahwa mereka diperhatikan dan dianggap sebagai bagian penting kelompok.
+aku menggunakan sapaan personal dan obrolan santai sebelum menyampaikan ajakan. Tujuannya agar percakapan tidak langsung terasa seperti pemberian tugas atau tuntutan untuk aktif.
 
-Outcome akhirnya adalah anggota memiliki rasa memiliki dan mau terlibat dalam kelompok. Namun, chain tersebut masih berupa hipotesis. Respons yang lebih terbuka melalui PC belum cukup untuk membuktikan bahwa rasa memiliki atau keaktifan anggota benar-benar meningkat.
+Pendekatan ini menjadi titik awal, bukan satu bentuk komunikasi yang harus diterapkan secara sama kepada semua anggota. Idealnya, aku menyesuaikan cara berkomunikasi berdasarkan respons masing-masing anggota.
 
-## Percakapan dan response
+Jika anggota terlihat nyaman melanjutkan percakapan, aku bisa meneruskan obrolan sebelum membahas keterlibatan kelompok. Jika anggota memberi respons singkat atau tampak belum nyaman, aku sebaiknya tidak langsung menekan mereka untuk lebih aktif, tetapi memberi ruang dan mencari tahu apakah ada kebutuhan atau kendala yang ingin disampaikan.
 
-### Initial approach
+Penyesuaian tersebut merupakan prinsip yang ingin aku terapkan. aku belum memiliki evidence yang cukup untuk mengklaim bahwa seluruh bentuk adaptasi tersebut sudah dilakukan terhadap setiap anggota.
 
-aku mengamati bahwa anggota kelompok kurang aktif di grup. Karena aku belum mengetahui alasan mereka, aku mencoba menghubungi anggota satu per satu melalui PC. aku memulai dengan sapaan personal dan obrolan santai sebelum mengajak mereka terlibat dalam kegiatan kelompok.
+AI digunakan sebagai alat bantu untuk menyusun dan mengevaluasi refleksi. AI membantu aku mengorganisasi analisis, tetapi tidak menggantikan pengamatan langsung, tidak membuktikan perubahan perilaku anggota, dan tidak dapat digunakan sebagai pengganti artefak percakapan.
 
-Pendekatan ini dipilih agar komunikasi tidak langsung terasa seperti tuntutan untuk aktif. aku ingin anggota merasa diajak secara personal, bukan hanya menerima pesan umum yang dikirim ke seluruh grup.
+## Response dan adaptation
 
-### Response target
+### Respons yang diamati
 
-Dari pengalaman tersebut, anggota terasa lebih terbuka saat berkomunikasi melalui PC dibandingkan ketika berada di grup. Respons ini menunjukkan bahwa pendekatan personal dapat membantu membuka komunikasi, meskipun belum menjelaskan sepenuhnya alasan mereka kurang aktif di grup.
+Dari pengalaman aku, anggota terasa lebih terbuka ketika berkomunikasi melalui PC. Pengamatan ini menunjukkan bahwa pendekatan personal dapat membantu membuka percakapan, tetapi belum cukup untuk memastikan penyebab anggota kurang aktif di grup atau membuktikan bahwa rasa memiliki mereka telah meningkat.
 
-aku tidak bisa langsung menyimpulkan bahwa mereka sebelumnya tidak tertarik atau tidak peduli terhadap kelompok. Kurangnya aktivitas di grup bisa memiliki berbagai penyebab yang belum aku ketahui.
+aku tidak menyimpulkan bahwa semua anggota mengalami perubahan yang sama. Respons melalui PC dan keterlibatan di grup merupakan dua hal yang berbeda, sehingga keduanya perlu diamati secara terpisah.
 
-### Adaptation
+### Adaptasi berdasarkan respons
 
-Pendekatan personal menjadi langkah awal untuk membangun kenyamanan. Namun, aku juga menyadari bahwa menghubungi anggota satu per satu tidak bisa menjadi satu-satunya cara untuk menjaga komunikasi kelompok.
+Dari pengalaman tersebut, aku menyadari bahwa komunikasi personal tidak seharusnya menjadi satu-satunya jalur komunikasi. Jika anggota hanya terbuka ketika dihubungi secara personal, komunikasi kelompok masih bergantung pada inisiatif PJ.
 
-Kondisi ideal yang aku harapkan adalah anggota merasa nyaman untuk berinteraksi dan memiliki inisiatif berkomunikasi di grup. Karena itu, aku ingin mendorong mereka agar lebih aktif dalam komunikasi bersama, bukan hanya merespons ketika aku menghubungi mereka secara personal.
+Langkah berikutnya adalah mendorong keterlibatan di grup secara bertahap. Ajakan perlu memberi anggota ruang untuk berkontribusi, bukan hanya menuntut mereka lebih aktif. aku juga perlu memperhatikan respons setelah ajakan diberikan agar bisa menentukan apakah pendekatan perlu dilanjutkan, diubah, atau diberi jeda.
 
-Adaptation ini masih berupa arah perbaikan yang ingin dilakukan. Belum ada bukti yang cukup untuk menyatakan bahwa anggota sudah menjadi lebih aktif secara mandiri setelah pendekatan tersebut.
+Untuk menguji apakah adaptasi tersebut berhasil, aku perlu mengamati beberapa indikator:
 
-## Risk dan evidence
+- Apakah anggota mulai bertanya atau menyampaikan pendapat di grup tanpa dihubungi terlebih dahulu?
+- Apakah anggota menawarkan bantuan atau memberikan kontribusi atas inisiatif sendiri?
+- Apakah perubahan tersebut muncul secara berulang, bukan hanya sekali?
+- Apakah anggota menyampaikan bahwa mereka merasa lebih nyaman atau lebih terlibat?
 
-Risiko utama dari pendekatan personal adalah waktu dan tenaga yang dibutuhkan lebih besar karena aku harus memulai percakapan dengan anggota satu per satu. Jika seluruh komunikasi terus bergantung pada inisiatif aku sebagai PJ, anggota bisa tetap menunggu untuk dihubungi terlebih dahulu.
+Indikator tersebut merupakan kriteria evaluasi ke depan, bukan klaim bahwa perubahan tersebut sudah terjadi.
 
-Selain itu, pendekatan personal tidak selalu menghasilkan respons yang sama dari setiap anggota. Ada anggota yang mungkin lebih nyaman berkomunikasi melalui PC, tetapi belum tentu ingin atau mampu menjadi lebih aktif di grup.
+## Agreement, action, dan relationship
 
-Evidence yang tersedia dari pengalaman ini meliputi:
+Tindakan awal yang sudah aku lakukan adalah menghubungi anggota secara personal, membuka obrolan santai, lalu mengajak mereka terlibat dalam kelompok. Tindakan ini bertujuan membangun komunikasi tanpa langsung mengasumsikan penyebab ketidakaktifan mereka.
 
-- **Current state:** anggota kelompok kurang aktif di grup.
-- **Action:** aku menyapa dan mengajak anggota ngobrol secara personal melalui PC.
-- **Observed response:** anggota terasa lebih terbuka melalui PC, meskipun belum tentu lebih aktif di grup.
-- **Risk:** komunikasi personal membutuhkan lebih banyak waktu dan tenaga.
-- **Evidence threshold:** perlu melihat apakah keterbukaan tersebut diikuti inisiatif komunikasi dan keterlibatan yang lebih konsisten.
+Untuk tahap berikutnya, aku perlu menghubungkan ajakan dengan respons nyata anggota. Apabila anggota masih pasif di grup meskipun sudah lebih terbuka melalui PC, aku perlu mencari tahu apa yang membuat mereka belum nyaman berkontribusi sebelum memutuskan pendekatan selanjutnya.
 
-Bukti yang ada masih berupa pengamatan atas pengalaman komunikasi. Belum ada data jumlah respons, perbandingan aktivitas grup sebelum dan sesudah pendekatan, atau konfirmasi langsung dari anggota mengenai perubahan rasa memiliki mereka. Karena itu, keberhasilan pendekatan belum bisa diukur secara objektif.
+Prinsip yang ingin aku pegang adalah membangun keterlibatan tanpa menghilangkan pilihan anggota. aku sebagai PJ dapat membuka ruang komunikasi, menjelaskan kebutuhan kelompok, dan mengundang kontribusi, tetapi tidak bisa menganggap anggota telah memiliki rasa memiliki hanya karena mereka memenuhi ajakan.
 
-AI digunakan dalam penyusunan refleksi ini untuk membantu menghubungkan current state, desired state, value chain, dan risiko. Namun, tidak ada artefak fisik penggunaan AI yang dapat dilampirkan sebagai bukti pendukung. Analisis AI bukan bukti bahwa anggota benar-benar mengalami perubahan, sehingga kesimpulan tetap dibatasi pada pengalaman dan respons yang aku amati.
+Dengan demikian, hubungan yang ingin aku bangun bukan hubungan yang bergantung pada PJ untuk terus memulai percakapan, melainkan hubungan yang memungkinkan anggota merasa nyaman dan ikut berkontribusi atas inisiatif sendiri.
+
+## Risk dan evidence threshold
+
+Risiko utama pendekatan personal adalah kebutuhan waktu dan tenaga yang lebih besar karena aku perlu memulai percakapan dengan anggota satu per satu. Jika terus bergantung pada PC, komunikasi kelompok berpotensi tetap bergantung pada inisiatif PJ.
+
+Risiko lainnya adalah salah menafsirkan respons. Balasan yang lebih terbuka belum tentu menunjukkan rasa memiliki, sedangkan anggota yang jarang berbicara belum tentu tidak peduli terhadap kelompok. Karena itu, aku perlu menghindari kesimpulan yang melampaui pengamatan.
+
+Evidence threshold yang aku gunakan untuk mengevaluasi desired state adalah:
+
+| Indikator | Bukti yang diperlukan |
+|---|---|
+| Komunikasi lebih terbuka | Artefak percakapan yang menunjukkan respons anggota terhadap pendekatan personal. |
+| Kenyamanan berkomunikasi | Percakapan atau pernyataan langsung anggota yang menunjukkan kenyamanan, jika tersedia. |
+| Inisiatif mandiri | Chat log atau screenshot yang menunjukkan anggota memulai komunikasi, bertanya, atau menyampaikan pendapat tanpa diminta terlebih dahulu. |
+| Kontribusi terhadap kelompok | Artefak yang menunjukkan anggota menawarkan bantuan atau berkontribusi atas inisiatif sendiri. |
+| Perubahan yang konsisten | Beberapa pengamatan pada waktu berbeda, bukan hanya satu kejadian. |
+
+Saat ini, evidence yang aku miliki masih terbatas pada pengalaman melakukan PC dan pengamatan bahwa anggota terasa lebih terbuka melalui pendekatan tersebut. aku belum memiliki data observasi atau artefak yang cukup untuk membuktikan bahwa anggota mulai berinisiatif berkomunikasi di grup.
+
+Karena itu, kesimpulan yang paling sesuai dengan evidence saat ini adalah bahwa pendekatan personal membantu membuka komunikasi. Klaim bahwa desired state berupa rasa memiliki telah tercapai masih perlu diverifikasi.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor usulan | Dasar penilaian |
 |---|---:|---|
-| Person & Character | 4 | aku mengenali kondisi anggota yang kurang aktif di grup dan memilih pendekatan personal agar mereka merasa diperhatikan. |
-| Objective & State | 4 | aku punya tujuan membangun kenyamanan dan rasa memiliki anggota terhadap kelompok, bukan sekadar membuat mereka membalas pesan. |
-| Repertoire, Language & AI | 3 | aku menggunakan sapaan personal dan obrolan santai. Namun, tidak ada evidence fisik penggunaan AI yang dapat dilampirkan untuk mendukung evaluasi. |
-| Response & Adaptation | 4 | aku mengamati bahwa anggota lebih terbuka melalui PC, lalu menyadari bahwa keterbukaan tersebut belum tentu membuat mereka aktif di grup. |
-| Agreement, Action & Relationship | 4 | aku berusaha membuat anggota merasa diperhatikan dan menjadi bagian penting kelompok tanpa langsung menuntut mereka aktif. |
+| Person & Character | 4 | aku mempertimbangkan hubungan PJ dan anggota serta menghindari asumsi bahwa kurang aktif berarti tidak tertarik. aku juga menyadari bahwa posisi PJ dapat membuat ajakan terasa seperti tuntutan. |
+| Objective & State | 4 | aku membedakan respons awal, kenyamanan komunikasi, dan keterlibatan mandiri sehingga desired state tidak disamakan dengan sekadar membalas pesan. |
+| Repertoire, Language & AI | 3 | aku memilih pendekatan personal dan obrolan santai yang relevan. Namun, bukti adaptasi bahasa berdasarkan karakteristik unik tiap anggota dan artefak fisik penggunaan AI belum tersedia. |
+| Response & Adaptation | 4 | aku membedakan keterbukaan melalui PC dari keaktifan di grup serta menentukan indikator yang dapat digunakan untuk mengevaluasi respons dan memperbaiki pendekatan. |
+| Agreement, Action & Relationship | 4 | aku menghubungkan tindakan awal dengan desired state, mempertimbangkan risiko ketergantungan pada PJ, dan menetapkan evidence threshold untuk menilai keberhasilan hubungan dan keterlibatan anggota. |
 
-**Total: 19/20 — Sangat kompeten.**
+**Total self-assessment: 19/20.** Skor ini merupakan usulan penilaian diri. Kesesuaiannya dengan Level 4 tetap bergantung pada descriptor rubrik dan evidence yang dapat diverifikasi.
 
 ## Reflection
 
-Dari pengalaman menjadi PJ kelompok AMI Tour Kampus ITB Day, aku belajar bahwa anggota yang kurang aktif di grup belum tentu tidak tertarik atau tidak peduli terhadap kelompok. Karena aku belum mengetahui alasan mereka, aku mencoba membangun komunikasi melalui pendekatan personal terlebih dahulu.
+Pengalaman menjadi PJ kelompok AMI Tour Kampus ITB Day membuat aku menyadari bahwa kurang aktif di grup tidak selalu berarti seseorang tidak tertarik atau tidak peduli. aku belum mengetahui alasan setiap anggota, sehingga aku memilih memulai komunikasi melalui PC dengan sapaan personal dan obrolan santai.
 
-Pendekatan tersebut membuat anggota terasa lebih terbuka saat berkomunikasi melalui PC. aku menyadari bahwa menyapa dan mengajak ngobrol secara personal bisa menjadi langkah awal untuk membangun kenyamanan. Namun, aku juga tidak bisa langsung menganggap keterbukaan tersebut sebagai bukti bahwa anggota sudah memiliki rasa memiliki yang kuat terhadap kelompok.
+Pendekatan tersebut membuat anggota terasa lebih terbuka saat berkomunikasi secara personal. Namun, aku belajar bahwa respons yang lebih terbuka belum otomatis berarti desired state telah tercapai. Anggota bisa saja nyaman membalas pesan tetapi belum merasa cukup nyaman untuk berinisiatif di grup.
 
-Tantangan dari pendekatan ini adalah waktu dan tenaga yang dibutuhkan untuk menghubungi anggota satu per satu. Ke depannya, aku ingin komunikasi personal tidak hanya membuat anggota nyaman ketika dihubungi, tetapi juga membantu mereka lebih berinisiatif dalam komunikasi kelompok.
+Karena itu, aku perlu membedakan tindakan yang sudah dilakukan, respons yang benar-benar diamati, dan outcome yang masih diharapkan. aku juga perlu mengevaluasi apakah pendekatan personal membantu anggota menjadi lebih mandiri dalam komunikasi, bukan justru membuat semua interaksi terus bergantung pada aku sebagai PJ.
 
-Bagi aku, keberhasilan pendekatan ini bukan hanya ketika anggota membalas pesan, melainkan ketika mereka merasa diperhatikan dan mulai terlibat tanpa harus selalu menunggu aku sebagai PJ untuk memulai komunikasi. Untuk menilai apakah tujuan tersebut tercapai, aku masih membutuhkan evidence yang lebih jelas mengenai perubahan keterlibatan anggota.
+Ke depannya, aku ingin membangun komunikasi yang membuat anggota merasa diperhatikan sekaligus memberi ruang bagi mereka untuk berinisiatif. Keberhasilan pendekatan ini perlu dilihat dari perilaku dan respons nyata anggota, bukan hanya dari asumsi aku terhadap perasaan mereka.
