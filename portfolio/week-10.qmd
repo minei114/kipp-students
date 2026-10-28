@@ -1,25 +1,60 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap ditinjau"
+self_score: "19/20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
 ---
 
-## Kompetensi target
+## Desire–action gap
 
-Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Saat menjadi staff LO Wisuda HMIF, aku sudah mendapat plotting wisudawan berdasarkan pembagian panitia. Namun, ada wisudawan, Kak K, yang tiba-tiba meminta agar aku menjadi LO-nya, padahal Kak K tidak mengisi form untuk permintaan plotting tersebut.
 
-## Evidence wajib
+Keinginan Kak K belum bisa langsung diwujudkan karena plotting sudah ditentukan dan aku tidak memiliki kewenangan untuk mengubahnya sendiri. Aku perlu menyampaikan permintaan tersebut kepada atasan atau kadiv terlebih dahulu.
 
-- Barrier dan authority map.
-- Options dan trade-off yang dibahas.
-- Agreement dengan owner/deadline serta bukti action atau review.
+| Barrier | Person dengan authority | Respons |
+|---|---|---|
+| Permintaan Kak K tidak sesuai dengan plotting awal | Atasan/kadiv | Perlu dimintai persetujuan sebelum perubahan |
+| Pembagian LO sudah ditentukan | Atasan/kadiv | Perubahan plotting perlu dikoordinasikan |
+| Aku sudah mendapat plotting wisudawan lain | Aku sebagai staff LO | Perlu mengikuti hasil keputusan dan penugasan |
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Kasus ini menunjukkan bahwa keinginan wisudawan dan pembagian tugas panitia tidak selalu sejalan. Aku perlu membedakan pihak yang mengajukan permintaan dengan pihak yang memiliki kewenangan untuk menyetujui perubahan.
 
-{{< include ../includes/evidence-template.md >}}
+## Options dan trade-off
+
+1. **Langsung menerima permintaan Kak K:** respons cepat, tetapi berisiko melewati kewenangan dan mengganggu pembagian LO.
+2. **Meminta persetujuan atasan/kadiv:** membutuhkan waktu untuk koordinasi, tetapi menjaga kejelasan kewenangan dan konsistensi plotting.
+3. **Mempertahankan plotting awal tanpa meneruskan permintaan:** pembagian tetap, tetapi permintaan Kak K tidak mendapat tindak lanjut.
+
+Aku memilih opsi kedua dengan meminta persetujuan atasan/kadiv terlebih dahulu. Dengan begitu, permintaan tetap ditindaklanjuti tanpa mengambil keputusan di luar kewenanganku.
+
+## Agreement eksplisit
+
+> **Scope:** Menindaklanjuti permintaan Kak K untuk menjadi wisudawanku tanpa langsung mengubah plotting sendiri.  
+> **Owner:** Aku menyampaikan permintaan dan meminta persetujuan; atasan/kadiv menangani keputusan perubahan plotting sesuai kewenangannya.  
+> **Deadline:** Tidak ada deadline spesifik yang tercatat dalam kasus ini.  
+> **Evidence:** Permintaan Kak K, proses meminta persetujuan, dan hasil penugasan berupa plotting wisudawan baru.  
+> **Decision:** Setelah meminta persetujuan, aku akhirnya dialihkan untuk mendampingi wisudawan baru.  
+> **Review:** Belum ada informasi yang memastikan apakah hasil keputusan disampaikan kembali kepada Kak K atau apakah ada evaluasi lanjutan.
+
+## Action evidence dan adaptation
+
+Aku tidak langsung menerima permintaan Kak K, tetapi meminta persetujuan atasan/kadiv terlebih dahulu. Hasil akhirnya, aku mendapat plotting wisudawan baru. Ini menunjukkan bahwa tindakanku mengikuti proses koordinasi dan hasil keputusan, bukan hanya keinginan wisudawan.
+
+Jika menghadapi situasi serupa, aku akan memastikan sejak awal siapa yang berwenang menyetujui perubahan, menyampaikan konsekuensi terhadap plotting yang sudah ada, dan mengonfirmasi hasil keputusan kepada pihak terkait. Langkah tersebut dapat mengurangi ketidakpastian dan mencegah perubahan penugasan tanpa koordinasi.
+
+AI dapat digunakan untuk membantu memetakan barrier, authority, serta trade-off dari beberapa pilihan. Namun, keputusan tetap berada pada pihak panitia yang berwenang. Karena belum ada artefak fisik penggunaan AI yang dilampirkan, proses tersebut belum dapat dibuktikan melalui screenshot atau log penggunaan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Membedakan kebutuhan wisudawan, tanggung jawab staff, dan kewenangan atasan/kadiv |
+| Objective & State | 4 | Mengidentifikasi kesenjangan antara permintaan wisudawan dan plotting yang berlaku |
+| Repertoire, Language & AI | 3 | Membandingkan opsi dan trade-off; belum ada artefak fisik penggunaan AI |
+| Response & Adaptation | 4 | Meminta persetujuan sebelum bertindak dan menyesuaikan penugasan dengan hasil koordinasi |
+| Agreement, Action & Relationship | 4 | Permintaan ditindaklanjuti melalui koordinasi dan menghasilkan perubahan penugasan |
+
+**Total: 19/20 — Lanjut.**
