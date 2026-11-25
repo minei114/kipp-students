@@ -53,7 +53,7 @@ Perubahan pendekatan yang aku lakukan adalah:
 - Menggunakan sapaan dan obrolan ringan sebelum menyampaikan ajakan.
 - Tetap mengarahkan komunikasi kembali ke grup agar informasi dapat diterima bersama.
 
-Aku juga menyadari bahwa respons personal belum membuktikan desired state sepenuhnya tercapai. Belum ada bukti yang cukup untuk menyatakan bahwa anggota yang sebelumnya pasif sudah mulai berinisiatif bertanya atau menyampaikan pendapat di grup.
+Aku juga menyadari bahwa respons personal belum membuktikan desired state sepenuhnya. Belum ada dasar yang cukup untuk menyatakan bahwa anggota yang sebelumnya pasif sudah mulai berinisiatif bertanya atau menyampaikan pendapat di grup.
 
 Karena itu, langkah berikutnya adalah mengamati apakah anggota mulai melakukan tindakan tersebut tanpa harus selalu dihubungi terlebih dahulu. Jika belum, aku perlu mengevaluasi kembali pendekatan yang digunakan dan mencari tahu apakah ada hal yang membuat mereka masih ragu untuk berpartisipasi.
 
@@ -61,7 +61,7 @@ Karena itu, langkah berikutnya adalah mengamati apakah anggota mulai melakukan t
 
 Risiko utama dari pendekatan ini adalah menganggap respons personal sebagai bukti bahwa hubungan dan keterlibatan kelompok sudah terbentuk. Padahal, seseorang dapat membalas pesan karena merasa perlu merespons PJ, bukan karena sudah nyaman untuk berkomunikasi secara mandiri.
 
-Risiko lainnya adalah pendekatan personal membutuhkan waktu dan tenaga lebih banyak dibandingkan menyampaikan informasi melalui grup. Jika terlalu bergantung pada personal chat, komunikasi kelompok justru dapat menjadi tidak efisien dan anggota tidak terbiasa berinisiatif di ruang bersama.
+Risiko lainnya adalah pendekatan personal membutuhkan waktu dan tenaga lebih banyak dibandingkan menyampaikan informasi melalui grup. Jika terlalu bergantung pada personal chat, komunikasi kelompok justru dapat menjadi tidak efisien dan anggota tidak terbiasa berinisiatif.
 
 Untuk mengurangi risiko tersebut, aku perlu:
 - Tidak menyimpulkan perasaan anggota hanya berdasarkan balasan pesan.
@@ -73,21 +73,14 @@ AI digunakan secara retrospektif untuk membantu memetakan current state dan desi
 
 Salah satu hal yang diperiksa adalah apakah respons anggota melalui personal chat cukup untuk membuktikan bahwa desired state sudah tercapai. Hasil analisis membantu memperjelas bahwa respons awal dan inisiatif mandiri merupakan dua indikator yang berbeda.
 
-Namun, AI tidak digunakan untuk menyimpulkan perasaan anggota atau menggantikan pengamatan langsung. Penilaian terhadap perubahan perilaku tetap harus didasarkan pada interaksi dan bukti yang benar-benar tersedia.
-
-Evidence yang dapat dilampirkan:
-- Screenshot personal chat yang menunjukkan inisiatifku membuka percakapan dengan anggota.
-- Screenshot respons anggota terhadap percakapan tersebut.
-- Dokumentasi komunikasi grup untuk melihat pola keterlibatan anggota, jika tersedia.
-
-Bukti tersebut perlu digunakan sesuai isinya. Screenshot personal chat dapat menunjukkan adanya interaksi dan respons, tetapi tidak otomatis membuktikan bahwa anggota sudah aktif secara mandiri di grup.
+Namun, AI tidak digunakan untuk menyimpulkan perasaan anggota atau menggantikan pengamatan langsung. Penilaian terhadap perubahan perilaku tetap harus didasarkan pada interaksi yang benar-benar terjadi.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor | Alasan |
 |---|---:|---|
 | Person & Character | 4 | Memahami perbedaan karakter dan kenyamanan komunikasi anggota serta menyesuaikan pendekatan sebagai PJ |
-| Objective & State | 4 | Current state, desired state, value, acceptable risk, dan evidence threshold dirumuskan secara jelas |
+| Objective & State | 4 | Current state, desired state, value, acceptable risk, dan indikator keberhasilan dirumuskan secara jelas |
 | Repertoire, Language & AI | 3 | Menggunakan pendekatan personal dan bahasa informal serta AI secara retrospektif dengan batasan yang jelas |
 | Response & Adaptation | 4 | Menyesuaikan pendekatan dari komunikasi grup ke personal chat berdasarkan respons anggota |
 | Agreement, Action & Relationship | 4 | Mengambil tindakan untuk membuka komunikasi, menjaga agar ajakan tidak memaksa, dan merencanakan keterlibatan kelompok secara bertahap |
