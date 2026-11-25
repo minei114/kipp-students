@@ -1,25 +1,82 @@
+
 ---
 title: "Public Contribution Challenge"
 week: 13
-status: "Belum dimulai"
+status: "Siap ditinjau"
 self_score: "—"
 assessor_score: "—"
 description: "Public artifact, evidence, context, response, dan reputation."
 categories: [Public, Contribution]
 ---
 
-## Kompetensi target
+## Public character, target, dan objective
 
-Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertanggung jawab.
+Dalam kegiatan PTD KSEP ITB, aku berperan sebagai Staff Humas yang membantu menyampaikan informasi kepada peserta. Peranku bukan sebagai juru bicara resmi seluruh KSEP, tetapi sebagai bagian dari panitia yang bertanggung jawab memastikan informasi kegiatan dapat dipahami oleh peserta.
 
-## Evidence wajib
+Target komunikasiku adalah peserta PTD, terutama mahasiswa yang membutuhkan informasi mengenai alur pendaftaran, jadwal kegiatan, lokasi, dan hal-hal teknis lainnya.
 
-- Public character, target, objective, dan TAIDA map.
-- Public artifact serta sumber evidence.
-- Context-collapse/reputation check, response, dan correction bila diperlukan.
+Objective yang ingin dicapai adalah membuat peserta mendapatkan informasi yang jelas dan tidak salah memahami ketentuan kegiatan. Aku juga ingin membangun kesan bahwa panitia mudah dihubungi dan terbuka terhadap pertanyaan, tanpa memberikan janji atau informasi yang berada di luar kewenanganku.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**TAIDA map:**
 
-{{< include ../includes/evidence-template.md >}}
+| Tahap | Penerapan |
+|---|---|
+| Target | Peserta PTD KSEP ITB |
+| Attention | Menarik perhatian melalui informasi penting mengenai kegiatan |
+| Interest | Menjelaskan alur, jadwal, lokasi, dan kebutuhan peserta |
+| Desire | Membuat peserta merasa lebih siap dan nyaman mengikuti kegiatan |
+| Action | Membaca informasi, mengikuti arahan panitia, dan menghubungi CP jika ada pertanyaan |
+
+## Public artifact
+
+Artefak publik yang digunakan adalah contoh konten informatif mengenai persiapan mengikuti kegiatan PTD KSEP. Konten dibuat dengan bahasa sederhana agar peserta dapat memahami informasi tanpa harus membaca penjelasan yang terlalu panjang.
+
+Contoh copy carousel tiga panel:
+
+> **Panel 1:** "Mau ikut PTD KSEP? Pastikan kamu sudah tahu informasi penting sebelum kegiatan dimulai!"
+>
+> **Panel 2:** "Periksa kembali jadwal, lokasi, dan kebutuhan kegiatan melalui informasi resmi dari panitia. Pastikan juga data pendaftaran yang kamu berikan sudah benar."
+>
+> **Panel 3:** "Masih ada yang ingin ditanyakan? Hubungi CP yang sudah disediakan. Jangan ragu bertanya agar kamu tidak melewatkan informasi penting!"
+
+Caption:
+
+> Persiapkan dirimu sebelum mengikuti PTD KSEP! Pastikan kamu membaca informasi yang dibagikan panitia dan memperhatikan setiap perubahan jadwal atau ketentuan kegiatan. Jika masih ada yang belum jelas, kamu bisa menghubungi CP yang tersedia. Sampai bertemu di PTD KSEP!
+
+Sumber informasi untuk menyusun konten berasal dari data dan alur pendaftaran peserta, informasi teknis kegiatan, serta koordinasi dengan panitia terkait. Informasi yang disampaikan perlu dicocokkan dengan ketentuan resmi agar tidak menimbulkan kesalahpahaman.
+
+## Context-collapse dan reputation check
+
+Sebelum menyampaikan informasi kepada publik, aku perlu mempertimbangkan bahwa konten dapat dibaca oleh berbagai pihak, bukan hanya peserta. Misalnya, sesama panitia, anggota KSEP, mahasiswa di luar kegiatan, maupun pihak yang belum mengetahui konteks PTD.
+
+Karena itu, ada beberapa hal yang perlu diperhatikan:
+- Tidak menyampaikan informasi yang belum dikonfirmasi oleh panitia terkait.
+- Tidak menggunakan kalimat yang seolah-olah mewakili keputusan seluruh organisasi jika informasi tersebut hanya berasal dari koordinasi internal.
+- Tidak membagikan data pribadi peserta, seperti nomor telepon atau informasi pendaftaran.
+- Menghindari penggunaan bahasa yang terlalu santai hingga berpotensi membuat informasi penting menjadi tidak jelas.
+
+Aku juga perlu membedakan informasi yang sudah pasti dengan informasi yang masih dapat berubah. Dengan begitu, konten tidak menimbulkan ekspektasi yang keliru dan reputasi panitia tetap terjaga.
+
+## Response dan correction
+
+Dalam komunikasi publik, respons peserta dapat menjadi indikator apakah informasi yang disampaikan sudah cukup jelas. Pertanyaan yang berulang dapat menunjukkan bahwa ada bagian informasi yang masih membingungkan atau belum tersampaikan dengan baik.
+
+Jika peserta menanyakan kembali informasi yang sebenarnya sudah diumumkan, aku perlu mengevaluasi apakah penyampaiannya terlalu panjang, kurang spesifik, atau belum menonjolkan informasi yang paling penting.
+
+Penyesuaian yang dapat dilakukan adalah menyederhanakan kalimat, memperjelas bagian yang sering ditanyakan, dan mengarahkan peserta ke sumber informasi resmi. Jika terdapat informasi yang keliru, aku perlu mengoreksinya secara terbuka melalui kanal komunikasi yang sama agar peserta tidak terus menggunakan informasi sebelumnya.
+
+AI digunakan untuk membantu memeriksa keterbacaan konten, mencari kalimat yang berpotensi ambigu, dan mengevaluasi kemungkinan salah tafsir dari audiens yang berbeda. Namun, hasilnya tetap perlu diperiksa kembali dengan informasi asli dari panitia. AI tidak digunakan sebagai sumber kebenaran untuk informasi kegiatan.
+
+Evidence yang dapat mendukung bagian ini meliputi dokumentasi konten yang dipublikasikan, sumber informasi dari panitia, pertanyaan atau tanggapan peserta, serta catatan perubahan konten apabila terdapat koreksi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Peran sebagai Staff Humas dan batas kewenangan dalam menyampaikan informasi dijelaskan |
+| Objective & State | 4 | Target audiens, tujuan komunikasi, dan TAIDA map dijabarkan |
+| Repertoire, Language & AI | 3 | Memiliki rancangan public artifact dan menggunakan AI untuk memeriksa keterbacaan, tetapi hasilnya tetap perlu diverifikasi |
+| Response & Adaptation | 4 | Respons peserta digunakan untuk mengevaluasi kejelasan informasi dan menentukan perbaikan |
+| Agreement, Action & Relationship | 4 | Informasi diselaraskan dengan panitia, peserta diarahkan ke CP, dan privasi serta kepercayaan audiens dijaga |
+
+**Total: 19/20 — Lanjut.**
