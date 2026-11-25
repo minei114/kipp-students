@@ -5,78 +5,108 @@ week: 13
 status: "Siap ditinjau"
 self_score: "—"
 assessor_score: "—"
-description: "Public artifact, evidence, context, response, dan reputation."
-categories: [Public, Contribution]
+description: "Public character, objective, artifact, context-collapse, dan reputation."
+categories: [Public Communication, Contribution]
 ---
 
 ## Public character, target, dan objective
 
-Dalam kegiatan PTD KSEP ITB, aku berperan sebagai Staff Humas yang membantu menyampaikan informasi kepada peserta. Peranku bukan sebagai juru bicara resmi seluruh KSEP, tetapi sebagai bagian dari panitia yang bertanggung jawab memastikan informasi kegiatan dapat dipahami oleh peserta.
+Dalam kegiatan PTD KSEP ITB, aku berperan sebagai Staff Humas yang membantu memastikan informasi kegiatan dapat diterima dan dipahami oleh peserta. Peranku bukan sebagai juru bicara resmi seluruh KSEP, tetapi sebagai bagian dari panitia yang bertanggung jawab dalam penyampaian informasi kepada peserta.
 
-Target komunikasiku adalah peserta PTD, terutama mahasiswa yang membutuhkan informasi mengenai alur pendaftaran, jadwal kegiatan, lokasi, dan hal-hal teknis lainnya.
+Target audiensku adalah peserta PTD, terutama peserta yang membutuhkan informasi mengenai alur pendaftaran, pelaksanaan kegiatan, kehadiran, dan pihak yang dapat dihubungi jika mengalami kendala.
 
-Objective yang ingin dicapai adalah membuat peserta mendapatkan informasi yang jelas dan tidak salah memahami ketentuan kegiatan. Aku juga ingin membangun kesan bahwa panitia mudah dihubungi dan terbuka terhadap pertanyaan, tanpa memberikan janji atau informasi yang berada di luar kewenanganku.
+Karakter audiens yang perlu diperhatikan adalah:
+- Peserta membutuhkan informasi yang jelas dan mudah ditemukan.
+- Peserta mungkin belum memahami istilah atau alur internal kepanitiaan.
+- Peserta dapat memiliki pertanyaan yang sama karena informasi belum tersampaikan secara jelas.
+- Peserta membutuhkan kepastian informasi, tetapi panitia juga perlu menghindari janji di luar kewenangannya.
 
-**TAIDA map:**
+Objective komunikasiku adalah membuat peserta mendapatkan informasi yang jelas dan tidak salah memahami ketentuan kegiatan. Selain itu, aku ingin membangun kesan bahwa panitia mudah dihubungi dan responsif, tanpa memberikan janji atau informasi yang belum dapat dipastikan.
 
-| Tahap | Penerapan |
-|---|---|
-| Target | Peserta PTD KSEP ITB |
-| Attention | Menarik perhatian melalui informasi penting mengenai kegiatan |
-| Interest | Menjelaskan alur, jadwal, lokasi, dan kebutuhan peserta |
-| Desire | Membuat peserta merasa lebih siap dan nyaman mengikuti kegiatan |
-| Action | Membaca informasi, mengikuti arahan panitia, dan menghubungi CP jika ada pertanyaan |
+Public contribution yang dirancang bukan sekadar menyampaikan pengumuman, tetapi membantu peserta memahami informasi yang diperlukan agar mereka dapat mengikuti kegiatan dengan lebih mudah.
 
 ## Public artifact
 
-Artefak publik yang digunakan adalah contoh konten informatif mengenai persiapan mengikuti kegiatan PTD KSEP. Konten dibuat dengan bahasa sederhana agar peserta dapat memahami informasi tanpa harus membaca penjelasan yang terlalu panjang.
+Artefak publik yang dirancang berupa konten informasi singkat untuk peserta PTD KSEP. Konten ini ditujukan untuk membantu peserta memahami alur komunikasi dan hal-hal yang perlu diperhatikan selama kegiatan.
 
-Contoh copy carousel tiga panel:
+Contoh rancangan konten:
 
-> **Panel 1:** "Mau ikut PTD KSEP? Pastikan kamu sudah tahu informasi penting sebelum kegiatan dimulai!"
->
-> **Panel 2:** "Periksa kembali jadwal, lokasi, dan kebutuhan kegiatan melalui informasi resmi dari panitia. Pastikan juga data pendaftaran yang kamu berikan sudah benar."
->
-> **Panel 3:** "Masih ada yang ingin ditanyakan? Hubungi CP yang sudah disediakan. Jangan ragu bertanya agar kamu tidak melewatkan informasi penting!"
+**Slide 1: Informasi PTD KSEP**
 
-Caption:
+Selamat datang di PTD KSEP! Pastikan kamu memperhatikan informasi yang diberikan panitia agar proses pendaftaran dan pelaksanaan kegiatan berjalan dengan lancar.
 
-> Persiapkan dirimu sebelum mengikuti PTD KSEP! Pastikan kamu membaca informasi yang dibagikan panitia dan memperhatikan setiap perubahan jadwal atau ketentuan kegiatan. Jika masih ada yang belum jelas, kamu bisa menghubungi CP yang tersedia. Sampai bertemu di PTD KSEP!
+**Slide 2: Informasi pendaftaran**
 
-Sumber informasi untuk menyusun konten berasal dari data dan alur pendaftaran peserta, informasi teknis kegiatan, serta koordinasi dengan panitia terkait. Informasi yang disampaikan perlu dicocokkan dengan ketentuan resmi agar tidak menimbulkan kesalahpahaman.
+Pastikan data yang kamu berikan sudah sesuai dan lengkap. Jika terdapat kendala dalam proses pendaftaran, kamu dapat menghubungi Contact Person (CP) yang telah disediakan panitia.
+
+**Slide 3: Informasi kegiatan**
+
+Perhatikan informasi mengenai jadwal, lokasi, dan ketentuan kegiatan yang disampaikan melalui kanal resmi panitia. Jika terdapat perubahan informasi, pastikan kamu mengacu pada pengumuman terbaru.
+
+**Slide 4: Jika memiliki pertanyaan**
+
+Jika ada informasi yang belum jelas atau kamu mengalami kendala, jangan ragu menghubungi CP yang telah disediakan. Sampaikan pertanyaan secara spesifik agar panitia dapat membantu dengan lebih tepat.
+
+Konten tersebut menggunakan bahasa yang sederhana dan langsung pada kebutuhan peserta. Informasi yang bersifat spesifik, seperti jadwal, lokasi, dan ketentuan kegiatan, tetap harus disesuaikan dengan informasi resmi panitia sebelum dipublikasikan.
 
 ## Context-collapse dan reputation check
 
-Sebelum menyampaikan informasi kepada publik, aku perlu mempertimbangkan bahwa konten dapat dibaca oleh berbagai pihak, bukan hanya peserta. Misalnya, sesama panitia, anggota KSEP, mahasiswa di luar kegiatan, maupun pihak yang belum mengetahui konteks PTD.
+Dalam komunikasi publik, satu pesan dapat dibaca oleh peserta dengan latar belakang dan pemahaman yang berbeda. Pesan yang awalnya ditujukan untuk membantu peserta bisa menimbulkan salah tafsir apabila menggunakan istilah yang terlalu umum atau memberikan informasi yang kurang lengkap.
 
-Karena itu, ada beberapa hal yang perlu diperhatikan:
-- Tidak menyampaikan informasi yang belum dikonfirmasi oleh panitia terkait.
-- Tidak menggunakan kalimat yang seolah-olah mewakili keputusan seluruh organisasi jika informasi tersebut hanya berasal dari koordinasi internal.
-- Tidak membagikan data pribadi peserta, seperti nomor telepon atau informasi pendaftaran.
-- Menghindari penggunaan bahasa yang terlalu santai hingga berpotensi membuat informasi penting menjadi tidak jelas.
+Beberapa risiko yang perlu diperhatikan:
 
-Aku juga perlu membedakan informasi yang sudah pasti dengan informasi yang masih dapat berubah. Dengan begitu, konten tidak menimbulkan ekspektasi yang keliru dan reputasi panitia tetap terjaga.
+| Risiko | Kemungkinan dampak | Antisipasi |
+|---|---|---|
+| Informasi terlalu umum | Peserta masih bingung mengenai langkah yang harus dilakukan | Menjelaskan alur dan tindakan yang perlu dilakukan |
+| Informasi belum diperbarui | Peserta mengikuti jadwal atau ketentuan yang sudah berubah | Memeriksa informasi melalui sumber resmi panitia |
+| Bahasa ambigu | Peserta memiliki pemahaman berbeda terhadap instruksi | Menggunakan kalimat yang spesifik dan sederhana |
+| Janji di luar kewenangan | Peserta menganggap suatu hal sudah pasti meskipun belum dikonfirmasi | Menghindari klaim yang belum mendapat persetujuan |
+| Data pribadi tersebar | Privasi peserta terganggu | Tidak mencantumkan data pribadi dalam konten publik |
+
+AI digunakan untuk memeriksa keterbacaan konten, menemukan kalimat yang berpotensi ambigu, dan mengevaluasi kemungkinan salah tafsir oleh audiens.
+
+Contoh prompt yang digunakan:
+
+> "Periksa rancangan informasi untuk peserta kegiatan ini. Identifikasi kalimat yang berpotensi ambigu, terlalu umum, atau dapat menimbulkan ekspektasi yang tidak sesuai. Berikan alternatif kalimat yang lebih jelas dan mudah dipahami. Jangan menambahkan jadwal, ketentuan, atau informasi baru yang tidak terdapat dalam teks."
+
+AI berperan sebagai alat bantu evaluasi bahasa, bukan sumber kebenaran informasi kegiatan. Setiap informasi faktual tetap perlu diperiksa berdasarkan arahan dan sumber resmi panitia.
+
+Aku juga perlu mempertimbangkan context-collapse, yaitu kemungkinan informasi yang dibuat untuk satu konteks dibaca dan ditafsirkan secara berbeda oleh audiens lain. Karena itu, konten harus tetap jelas, sopan, dan tidak bergantung pada asumsi bahwa semua peserta sudah memahami konteks internal kepanitiaan.
 
 ## Response dan correction
 
-Dalam komunikasi publik, respons peserta dapat menjadi indikator apakah informasi yang disampaikan sudah cukup jelas. Pertanyaan yang berulang dapat menunjukkan bahwa ada bagian informasi yang masih membingungkan atau belum tersampaikan dengan baik.
+Salah satu hal yang perlu diperhatikan dalam komunikasi publik adalah kemungkinan peserta menanyakan kembali informasi yang sebenarnya sudah disampaikan. Pertanyaan berulang dapat menjadi tanda bahwa informasi belum cukup jelas, bukan semata-mata karena peserta tidak membaca pengumuman.
 
-Jika peserta menanyakan kembali informasi yang sebenarnya sudah diumumkan, aku perlu mengevaluasi apakah penyampaiannya terlalu panjang, kurang spesifik, atau belum menonjolkan informasi yang paling penting.
+Untuk mengantisipasi hal tersebut, aku mengevaluasi rancangan konten menggunakan simulasi pertanyaan dari sudut pandang peserta. Tujuannya adalah menguji apakah informasi yang disampaikan sudah cukup jelas dan apakah peserta mengetahui tindakan yang perlu dilakukan.
 
-Penyesuaian yang dapat dilakukan adalah menyederhanakan kalimat, memperjelas bagian yang sering ditanyakan, dan mengarahkan peserta ke sumber informasi resmi. Jika terdapat informasi yang keliru, aku perlu mengoreksinya secara terbuka melalui kanal komunikasi yang sama agar peserta tidak terus menggunakan informasi sebelumnya.
+Contoh proses evaluasi dan revisi:
 
-AI digunakan untuk membantu memeriksa keterbacaan konten, mencari kalimat yang berpotensi ambigu, dan mengevaluasi kemungkinan salah tafsir dari audiens yang berbeda. Namun, hasilnya tetap perlu diperiksa kembali dengan informasi asli dari panitia. AI tidak digunakan sebagai sumber kebenaran untuk informasi kegiatan.
+| Tahap | Kalimat atau respons | Evaluasi |
+|---|---|---|
+| Sebelum revisi | "Perhatikan informasi terbaru dari panitia." | Belum menjelaskan informasi apa yang perlu diperhatikan dan di mana peserta dapat menemukannya |
+| Pertanyaan audiens | "Informasi terbaru bisa dilihat di mana?" | Arahan awal belum cukup spesifik |
+| Setelah revisi | "Periksa pengumuman terbaru melalui kanal informasi resmi yang digunakan panitia." | Menjelaskan sumber informasi yang perlu diperiksa |
+| Pertanyaan audiens | "Kalau masih ada yang belum jelas, harus menghubungi siapa?" | Perlu ada petunjuk tindak lanjut |
+| Setelah revisi | "Jika masih ada informasi yang belum jelas, hubungi CP yang telah disediakan panitia." | Memberikan langkah lanjutan yang lebih konkret |
 
-Evidence yang dapat mendukung bagian ini meliputi dokumentasi konten yang dipublikasikan, sumber informasi dari panitia, pertanyaan atau tanggapan peserta, serta catatan perubahan konten apabila terdapat koreksi.
+Dari proses tersebut, aku memahami bahwa revisi pesan perlu berangkat dari kebutuhan audiens, bukan sekadar membuat kalimat terdengar lebih menarik. Aku perlu memastikan bahwa informasi yang diberikan dapat dipahami dan membantu peserta menentukan tindakan selanjutnya.
+
+Aku juga belajar bahwa pertanyaan audiens perlu ditanggapi dengan memperhatikan sumber kebingungannya. Jika peserta masih belum memahami suatu instruksi, mengulang kalimat yang sama belum tentu menyelesaikan masalah. Pesan perlu disesuaikan dengan bagian yang belum jelas.
+
+AI membantu memberikan sudut pandang alternatif dan menemukan kemungkinan salah tafsir. Namun, aku tetap perlu menilai apakah saran revisi sesuai dengan kondisi kegiatan dan kewenangan panitia. Tidak semua saran AI harus digunakan, terutama jika saran tersebut berpotensi menambahkan informasi yang belum dikonfirmasi.
+
+Dalam komunikasi dengan peserta, aku juga perlu menyesuaikan respons berdasarkan jenis pertanyaan. Jika pertanyaan berkaitan dengan informasi yang sudah tersedia, aku dapat mengarahkan peserta ke informasi tersebut. Jika pertanyaan membutuhkan keputusan atau konfirmasi lebih lanjut, aku perlu mengarahkannya kepada CP atau pihak panitia yang berwenang.
+
+Dengan demikian, correction tidak hanya berarti memperbaiki susunan kalimat, tetapi juga memastikan bahwa respons yang diberikan sesuai dengan kebutuhan peserta dan tidak melampaui kewenanganku sebagai Staff Humas.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Peran sebagai Staff Humas dan batas kewenangan dalam menyampaikan informasi dijelaskan |
-| Objective & State | 4 | Target audiens, tujuan komunikasi, dan TAIDA map dijabarkan |
-| Repertoire, Language & AI | 3 | Memiliki rancangan public artifact dan menggunakan AI untuk memeriksa keterbacaan, tetapi hasilnya tetap perlu diverifikasi |
-| Response & Adaptation | 4 | Respons peserta digunakan untuk mengevaluasi kejelasan informasi dan menentukan perbaikan |
-| Agreement, Action & Relationship | 4 | Informasi diselaraskan dengan panitia, peserta diarahkan ke CP, dan privasi serta kepercayaan audiens dijaga |
+| Person & Character | 4 | Mampu memetakan peran sebagai Staff Humas, karakter target audiens, serta batas kewenangan dalam menyampaikan informasi |
+| Objective & State | 4 | Menetapkan tujuan komunikasi yang jelas, yaitu membantu peserta memahami informasi dan mengetahui saluran bantuan |
+| Repertoire, Language & AI | 3 | Merancang konten publik dengan bahasa sederhana dan menggunakan AI untuk mengevaluasi keterbacaan, ambiguitas, serta potensi salah tafsir |
+| Response & Adaptation | 4 | Mampu mengevaluasi kemungkinan pertanyaan audiens, mengidentifikasi bagian yang membingungkan, dan menyesuaikan pesan melalui proses revisi |
+| Agreement, Action & Relationship | 4 | Mengarahkan peserta ke CP resmi, menjaga akurasi informasi, dan memperhatikan privasi serta kepercayaan peserta |
 
 **Total: 19/20 — Lanjut.**
