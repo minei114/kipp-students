@@ -11,72 +11,94 @@ categories: [AI, Ethics]
 
 ## Communication design
 
-Dalam kepanitiaan Wisuda HMIF 2026, aku bertugas sebagai LO yang mendampingi wisudawan. Sebelumnya, pembagian LO sudah dilakukan berdasarkan data yang dikumpulkan melalui form. Namun, setelah pembagian tersebut, ada wisudawan yang menghubungiku secara langsung dan meminta agar aku menjadi LO-nya, meskipun sebelumnya tidak mengisi permintaan tersebut melalui form.
+Dalam kepanitiaan Wisuda HMIF 2026, aku bertugas sebagai LO yang mendampingi wisudawan. Pada awalnya, pembagian LO sudah dilakukan berdasarkan data dari form. Namun, setelah pembagian tersebut, ada wisudawan yang menghubungiku secara langsung dan meminta agar aku menjadi LO-nya, meskipun sebelumnya tidak mengajukan permintaan tersebut melalui form.
 
-Situasi ini melibatkan beberapa pihak dengan kepentingan yang berbeda:
+Situasi ini melibatkan beberapa pihak dengan kebutuhan dan kewenangan yang berbeda.
 
-- **Aku sebagai LO:** ingin menjalankan tanggung jawab sesuai pembagian awal, tetapi juga perlu mempertimbangkan permintaan baru.
+- **Aku sebagai LO:** ingin menjalankan tanggung jawab sesuai pembagian awal, tetapi tetap terbuka terhadap perubahan penugasan.
 - **Kak Kenzie:** bersedia menjadi LO untuk wisudawan yang menghubungiku.
-- **Pihak yang mengoordinasikan pembagian LO:** perlu mempertimbangkan perubahan penugasan agar pembagian tetap terkoordinasi.
-- **Wisudawan:** ingin mendapatkan LO yang diharapkan untuk mendampinginya.
+- **Pihak yang mengoordinasikan pembagian LO:** bertanggung jawab mempertimbangkan perubahan pembagian tugas.
+- **Wisudawan:** memiliki harapan untuk didampingi oleh LO tertentu.
 
-Objective komunikasinya adalah menyampaikan situasi secara jelas, menawarkan alternatif pembagian tugas, dan memastikan perubahan dilakukan melalui koordinasi, bukan keputusan sepihak.
+Objective komunikasiku adalah menjelaskan situasi yang terjadi, menawarkan alternatif pembagian tugas, dan memperoleh arahan agar perubahan tidak dilakukan secara sepihak.
 
-Dalam situasi ini, AI dapat berperan sebagai communication assistant untuk membantu menyusun pesan dan membandingkan alternatif. Namun, AI tidak menentukan siapa yang menjadi LO karena keputusan tersebut berkaitan dengan kesediaan orang yang terlibat, pembagian tanggung jawab, dan koordinasi kepanitiaan.
+AI ditempatkan sebagai communication assistant untuk membantu menyusun pesan, mengidentifikasi alternatif, dan mengevaluasi kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan anggota, kebutuhan wisudawan, dan koordinasi kepanitiaan.
 
 | Tugas | Peran AI | Tanggung jawab manusia |
 |---|---|---|
 | Merangkum situasi | Membantu menyusun inti masalah | Memastikan kronologi sesuai kejadian |
-| Menyusun alternatif | Membantu mengidentifikasi pilihan dan trade-off | Menentukan alternatif yang realistis |
-| Menyusun pesan koordinasi | Membantu merapikan bahasa agar jelas dan sopan | Menyesuaikan pesan dengan hubungan antaranggota |
-| Menentukan pembagian LO | Tidak digunakan | Keputusan tetap melalui koordinasi pihak terkait |
+| Menyusun alternatif | Membantu membandingkan pilihan dan trade-off | Menentukan alternatif yang realistis |
+| Menyusun pesan koordinasi | Membantu merapikan bahasa dan struktur pesan | Menyesuaikan pesan dengan hubungan antaranggota |
+| Merespons arahan | Tidak digunakan untuk menentukan respons akhir | Mempertimbangkan arahan dan menyampaikan kesediaan |
+| Menentukan pembagian LO | Tidak digunakan | Keputusan melalui koordinasi pihak terkait |
 
 ## Prompt dan output
 
-Untuk merancang komunikasi dalam situasi tersebut, contoh prompt yang dapat digunakan adalah:
+AI digunakan secara retrospektif untuk mengevaluasi rancangan komunikasi dalam situasi tersebut. Contoh prompt yang digunakan:
 
 > "Aku merupakan panitia yang bertugas sebagai LO wisuda. Pembagian LO sudah dilakukan berdasarkan form, tetapi ada wisudawan yang menghubungiku secara langsung dan meminta aku menjadi LO-nya. Ada anggota lain yang bersedia menjadi LO untuk wisudawan tersebut. Bantu susun pesan koordinasi yang menjelaskan situasi ini dan menawarkan alternatif pembagian tugas. Gunakan bahasa yang sopan, jelas, dan tidak terkesan memaksakan keputusan. Jangan mengasumsikan bahwa perubahan sudah disetujui."
 
-AI dapat menghasilkan draft pesan yang menjelaskan permintaan wisudawan, menyampaikan kesediaan anggota lain, dan menawarkan dua alternatif: anggota lain menjadi LO untuk wisudawan tersebut atau aku tetap menjadi LO dengan bantuan anggota tersebut.
+Output AI menyarankan agar pesan menjelaskan kronologi secara singkat dan menawarkan dua alternatif:
+1. Kak Kenzie menjadi LO untuk wisudawan tersebut.
+2. Aku tetap menjadi LO, sementara Kak Kenzie membantu mendampingi.
 
-Output ini membantu menyusun informasi agar lebih terstruktur. Namun, hasil AI belum tentu memahami hubungan antaranggota dan kondisi pembagian tugas yang sebenarnya.
+Output tersebut membantu mengidentifikasi pilihan yang dapat disampaikan kepada pihak yang mengoordinasikan pembagian LO. Namun, hasil AI belum tentu memahami kondisi pembagian tugas dan hubungan antaranggota secara keseluruhan.
+
+AI juga tidak dapat memastikan apakah setiap alternatif dapat diterima oleh pihak terkait. Karena itu, output hanya digunakan sebagai bahan evaluasi, bukan sebagai keputusan atau pesan yang otomatis dikirim.
 
 ## Human revision
 
-Draft dari AI perlu diperiksa dan disesuaikan sebelum digunakan. Dalam kasus ini, pesan koordinasi harus tetap menunjukkan bahwa aku tidak mengambil keputusan sendiri dan masih terbuka terhadap arahan pihak yang mengoordinasikan pembagian LO.
+Dalam komunikasi yang benar-benar dilakukan, aku menyampaikan situasi tersebut dan menawarkan dua alternatif pembagian tugas. Aku tidak langsung memutuskan perubahan sendiri, tetapi meminta arahan melalui koordinasi.
 
-| Hal yang perlu diperhatikan | Penyesuaian manusia | Alasan |
+Bukti komunikasi menunjukkan adanya proses penyesuaian respons:
+
+**1. Menyampaikan situasi dan menawarkan alternatif**
+
+![Chat koordinasi mengenai permintaan perubahan penugasan LO](ss1-chat-koordinasi.png){width=75%}
+
+Aku menjelaskan bahwa ada wisudawan yang menghubungiku secara langsung dan menyampaikan bahwa Kak Kenzie bersedia menjadi LO. Aku kemudian menawarkan dua alternatif, yaitu Kak Kenzie menjadi LO atau aku tetap menjadi LO dengan bantuan Kak Kenzie.
+
+**2. Menyesuaikan respons terhadap arahan**
+
+![Chat arahan pembagian LO dan konfirmasi kesediaan menerima wisudawan baru](ss2-konfirmasi.png){width=75%}
+
+Pihak yang mengoordinasikan pembagian LO memberikan arahan agar Kak Kenzie menjadi LO untuk wisudawan tersebut, kemudian menanyakan apakah aku bersedia menerima wisudawan lain.
+
+Aku menyesuaikan respons dengan menyetujui perubahan tersebut. Artinya, komunikasi tidak berhenti pada penyampaian alternatif, tetapi berlanjut hingga ada arahan dan konfirmasi kesediaan.
+
+| Situasi | Respons dan penyesuaian | Alasan |
 |---|---|---|
-| Penjelasan situasi | Menjelaskan bahwa wisudawan menghubungi secara langsung setelah pembagian LO dilakukan | Menjaga kronologi tetap akurat |
-| Alternatif pembagian | Menyampaikan dua alternatif, yaitu Kak Kenzie menjadi LO atau aku tetap menjadi LO dengan bantuan Kak Kenzie | Memberikan pilihan tanpa memaksakan keputusan |
-| Nada pesan | Menggunakan bahasa yang sopan dan tidak menyalahkan pihak mana pun | Menjaga hubungan antaranggota |
-| Konfirmasi | Menunggu arahan dan memastikan kesediaan menerima penugasan baru | Menghindari keputusan sepihak |
+| Ada permintaan baru dari wisudawan | Menjelaskan situasi dan menawarkan dua alternatif | Menghindari keputusan sepihak |
+| Ada arahan agar Kak Kenzie menjadi LO | Menerima arahan dan mempertimbangkan penugasan baru | Menyesuaikan pembagian dengan hasil koordinasi |
+| Ditanya kesediaan menerima wisudawan lain | Menyetujui perubahan penugasan | Menunjukkan kesediaan menjalankan tanggung jawab baru |
 
-Pada komunikasi yang benar-benar dilakukan, aku menyampaikan situasi tersebut dan menawarkan dua alternatif pembagian LO. Setelah mendapat arahan bahwa Kak Kenzie menjadi LO untuk wisudawan tersebut, aku ditanya apakah bersedia menerima wisudawan lain. Aku menyetujui perubahan tersebut.
+Dari proses tersebut, aku memahami bahwa komunikasi yang baik tidak hanya bergantung pada pesan awal, tetapi juga kemampuan menyesuaikan respons setelah menerima masukan atau arahan dari pihak lain.
 
-Hal yang tidak dapat diserahkan kepada AI adalah penilaian apakah pembagian tersebut adil, apakah setiap anggota bersedia, dan bagaimana merespons keputusan yang sudah dikoordinasikan. Hal-hal tersebut membutuhkan pemahaman terhadap situasi dan hubungan antaranggota secara langsung.
+AI membantu mengevaluasi struktur pesan dan alternatif yang tersedia, sedangkan respons aktual tetap disusun berdasarkan situasi dan arahan yang diterima secara langsung.
 
 ## Privacy, authority, dan alasan berhenti
 
-Penggunaan AI dalam komunikasi kepanitiaan memiliki beberapa batasan yang perlu diperhatikan:
+Penggunaan AI dalam komunikasi kepanitiaan memiliki beberapa batasan yang perlu diperhatikan.
 
-- **Privacy:** nama wisudawan, nomor kontak, dan informasi pribadi lainnya tidak perlu dimasukkan ke prompt. Kasus dapat dijelaskan menggunakan peran umum tanpa menyertakan identitas pihak terkait.
-- **Authority:** AI tidak memiliki kewenangan untuk mengubah pembagian LO atau menyetujui penugasan. Keputusan tetap berada pada pihak yang berwenang dalam koordinasi kepanitiaan.
+- **Privacy:** nama wisudawan, nomor kontak, dan informasi pribadi lainnya tidak perlu dimasukkan ke prompt. Situasi dapat dijelaskan menggunakan peran umum tanpa menyertakan identitas pihak terkait.
+- **Authority:** AI tidak memiliki kewenangan untuk mengubah pembagian LO, menyetujui penugasan, atau mewakili keputusan koordinator.
 - **Accuracy:** kronologi, kesediaan anggota, dan hasil koordinasi harus diperiksa berdasarkan komunikasi yang sebenarnya, bukan asumsi AI.
-- **Relationship:** pesan perlu disesuaikan dengan hubungan antaranggota agar tidak terdengar terlalu kaku, memaksa, atau menyalahkan pihak tertentu.
+- **Relationship:** pesan perlu disesuaikan dengan hubungan antaranggota agar tidak terdengar memaksa, terlalu kaku, atau menyalahkan pihak tertentu.
 
-AI juga tidak perlu digunakan untuk mengirim pesan secara otomatis atau mengambil alih percakapan. Komunikasi langsung tetap lebih tepat karena situasinya melibatkan kesediaan anggota, pertimbangan pribadi, dan koordinasi yang dapat berubah.
+AI tidak digunakan untuk mengirim pesan secara otomatis atau mengambil alih percakapan. Komunikasi langsung lebih tepat untuk situasi yang membutuhkan pertimbangan hubungan personal dan respons terhadap arahan secara langsung.
 
-Dalam kasus ini, AI lebih tepat digunakan sebagai alat bantu untuk merancang dan mengevaluasi pesan, bukan sebagai pengganti komunikasi maupun pengambil keputusan. Penggunaan AI secara berlebihan justru berisiko membuat komunikasi terasa tidak personal dan mengurangi tanggung jawab manusia terhadap keputusan yang diambil.
+Penggunaan AI juga dibatasi karena terlalu banyak mengandalkan rekomendasi AI dapat membuat komunikasi terasa tidak personal. Dalam situasi interpersonal, aku tetap perlu bertanggung jawab terhadap pilihan kata, keputusan, dan konsekuensi dari respons yang diberikan.
+
+Dengan demikian, AI digunakan untuk membantu merancang dan mengevaluasi komunikasi, tetapi keputusan, adaptasi respons, serta hubungan dengan pihak lain tetap menjadi tanggung jawab manusia.
 
 ## Self-assessment
 
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Peran LO, pihak yang terlibat, dan batas kewenangan AI dibedakan |
-| Objective & State | 4 | Tujuan komunikasi dan kondisi perubahan penugasan dijelaskan |
-| Repertoire, Language & AI | 3 | Prompt, rancangan output, dan human revision dijelaskan; penggunaan AI dalam kasus ini merupakan simulasi desain secara retrospektif |
-| Response & Adaptation | 4 | Alternatif disesuaikan dengan situasi dan hasil koordinasi yang benar-benar terjadi |
-| Agreement, Action & Relationship | 4 | Kesediaan menerima penugasan baru dikonfirmasi dan hubungan antaranggota tetap dijaga |
+| Person & Character | 4 | Peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya dipetakan |
+| Objective & State | 4 | Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan |
+| Repertoire, Language & AI | 3 | Prompt, rancangan output, human revision, serta batas penggunaan AI dijelaskan; penggunaan AI merupakan analisis retrospektif |
+| Response & Adaptation | 4 | Dua screenshot menunjukkan proses menawarkan alternatif, menerima arahan, dan menyesuaikan respons |
+| Agreement, Action & Relationship | 4 | Arahan pembagian LO dan kesediaan menerima penugasan baru terdokumentasi melalui komunikasi |
 
 **Total: 19/20 — Lanjut.**
