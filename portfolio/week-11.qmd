@@ -1,25 +1,92 @@
+
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
+status: "Siap ditinjau"
 self_score: "—"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
 ---
 
-## Kompetensi target
+## Stakeholder dan multi-state map
 
-Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Saat menjadi ketua kelompok dalam kegiatan AMI Tour Kampus ITB Day, aku perlu memastikan seluruh anggota dapat mengikuti kegiatan dan berkontribusi dengan baik. Namun, setiap anggota memiliki tingkat kenyamanan dan cara berkomunikasi yang berbeda. Ada anggota yang lebih mudah menyampaikan pendapat secara langsung, sementara ada juga yang cenderung pasif ketika berkomunikasi dalam grup.
 
-## Evidence wajib
+Sebagai ketua kelompok, aku ingin semua anggota merasa dilibatkan, tetapi aku juga perlu memastikan koordinasi dan tanggung jawab kelompok tetap berjalan.
 
-- Stakeholder person map dan multi-state TAIDA.
-- Position–interest analysis, common ground, dan options.
-- Negotiation evidence, agreement/dissent, dan relationship review.
+| Person | Position | Interest/constraint | Authority | State |
+|---|---|---|---|---|
+| Aku (ketua kelompok) | Mengajak seluruh anggota terlibat dalam kegiatan | Koordinasi berjalan dan setiap anggota merasa nyaman | Mengarahkan koordinasi kelompok | Attention |
+| Anggota aktif | Bersedia menyampaikan pendapat dan membantu koordinasi | Ingin kegiatan berjalan lancar dan pembagian tugas jelas | Dapat memengaruhi jalannya diskusi | Interest |
+| Anggota yang cenderung pasif | Belum banyak menyampaikan pendapat di grup | Membutuhkan suasana nyaman sebelum ikut berkontribusi | Memiliki hak untuk menyampaikan pendapat dan menentukan keterlibatannya | Desire |
+| Seluruh anggota | Mengikuti kegiatan bersama kelompok | Ingin memperoleh pengalaman menyenangkan tanpa merasa terbebani | Berkontribusi terhadap keputusan kelompok | Desire |
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+State tersebut tidak selalu tetap. Anggota yang awalnya pasif belum tentu tidak tertarik untuk terlibat. Bisa saja mereka membutuhkan pendekatan komunikasi yang berbeda atau waktu untuk merasa nyaman.
 
-{{< include ../includes/evidence-template.md >}}
+Dari pemetaan tersebut, aku melihat bahwa kepentingan anggota sebenarnya tidak sepenuhnya bertentangan. Common ground yang ingin dibangun adalah seluruh anggota dapat mengikuti kegiatan dengan nyaman, memperoleh informasi yang jelas, dan tetap berkontribusi terhadap kelompok.
+
+## Negotiation evidence
+
+Dalam proses koordinasi, aku menyadari bahwa tingkat keaktifan seseorang tidak selalu menunjukkan seberapa besar kepeduliannya terhadap kelompok. Ada anggota yang mudah berkomunikasi di grup, tetapi ada juga yang lebih nyaman berbicara secara personal.
+
+Karena itu, aku mencoba memahami kondisi anggota melalui komunikasi personal. Aku memulai percakapan dengan sapaan dan obrolan santai sebelum mengajak mereka untuk lebih terlibat dalam kegiatan kelompok.
+
+Pendekatan ini memberikan ruang bagi anggota untuk merespons dan menyampaikan pendapat dengan lebih nyaman. Aku tidak langsung menganggap anggota yang jarang berbicara sebagai anggota yang tidak peduli terhadap kelompok.
+
+Dalam menentukan pendekatan, aku mempertimbangkan beberapa posisi dan kepentingan berikut:
+
+| Stakeholder | Position | Interest yang mendasari |
+|---|---|---|
+| Ketua kelompok | Ingin semua anggota lebih aktif | Memastikan tidak ada anggota yang tertinggal |
+| Anggota aktif | Ingin koordinasi berjalan lancar | Tidak ingin tanggung jawab hanya ditanggung beberapa orang |
+| Anggota pasif | Tidak banyak menyampaikan pendapat di grup | Ingin memahami situasi dan merasa nyaman sebelum berpartisipasi |
+
+Aku memilih mengombinasikan komunikasi grup dan pendekatan personal. Komunikasi grup tetap digunakan untuk menyampaikan informasi bersama, sedangkan personal chat digunakan untuk membangun kedekatan dengan anggota yang belum terlalu aktif.
+
+## Options, agreement, dan dissent
+
+Aku mempertimbangkan tiga alternatif pendekatan untuk meningkatkan keterlibatan anggota.
+
+| Opsi | Keuntungan | Trade-off |
+|---|---|---|
+| Mengajak seluruh anggota berkomunikasi langsung di grup | Informasi dapat diterima semua anggota sekaligus | Anggota yang kurang nyaman berbicara di grup mungkin tetap pasif |
+| Menghubungi anggota secara personal | Komunikasi terasa lebih dekat dan anggota memiliki ruang untuk menyampaikan pendapat | Membutuhkan waktu dan usaha lebih banyak |
+| Membiarkan anggota berpartisipasi dengan sendirinya | Tidak memberikan tekanan kepada anggota | Ada kemungkinan beberapa anggota tetap tidak terlibat |
+
+Aku memilih kombinasi komunikasi grup dan personal karena menurutku pendekatan tersebut lebih sesuai dengan kondisi anggota. Aku tetap menyampaikan informasi melalui grup, tetapi juga menghubungi anggota secara personal agar mereka memiliki kesempatan untuk berkomunikasi dengan lebih nyaman.
+
+Kesepakatan yang ingin dibangun adalah seluruh anggota tetap memperoleh informasi dan kesempatan untuk berkontribusi, meskipun cara mereka berpartisipasi berbeda.
+
+Namun, aku belum dapat memastikan bahwa seluruh anggota kemudian menjadi lebih aktif secara mandiri di grup. Hal ini menjadi salah satu keterbatasan dari pendekatan yang aku lakukan.
+
+## Relationship review dan AI
+
+Pendekatan personal membantuku membangun hubungan yang lebih dekat dengan anggota. Aku melihat bahwa anggota menjadi lebih terbuka ketika diajak berbicara secara personal. Namun, aku juga menyadari bahwa pendekatan tersebut membutuhkan waktu lebih banyak dan dapat membuat koordinasi terlalu bergantung pada ketua kelompok.
+
+Dari pengalaman ini, aku belajar bahwa menjadi ketua kelompok bukan berarti harus selalu mendominasi komunikasi. Aku perlu menciptakan ruang agar setiap anggota merasa nyaman untuk terlibat tanpa memaksakan tingkat keaktifan yang sama kepada semua orang.
+
+Aku menggunakan AI sebagai alat bantu untuk mengevaluasi pendekatan komunikasi dan memetakan kepentingan beberapa stakeholder. AI membantu menyusun alternatif pendekatan serta melihat trade-off dari setiap pilihan.
+
+| Aspek | Hasil evaluasi |
+|---|---|
+| Stakeholder | Ketua kelompok, anggota aktif, anggota yang cenderung pasif, dan seluruh anggota |
+| Common ground | Seluruh anggota ingin mengikuti kegiatan dengan nyaman dan memperoleh informasi yang jelas |
+| Barrier | Perbedaan tingkat kenyamanan dan cara berkomunikasi |
+| Options | Komunikasi grup, pendekatan personal, atau kombinasi keduanya |
+| Trade-off | Pendekatan personal lebih dekat, tetapi membutuhkan waktu lebih banyak |
+| Boundary AI | AI membantu menyusun alternatif dan evaluasi, sedangkan pemilihan pendekatan tetap berdasarkan pemahamanku terhadap kondisi kelompok |
+
+Penggunaan AI bersifat sebagai alat bantu evaluasi, bukan untuk menentukan sikap anggota ataupun mengambil keputusan atas nama mereka. Evaluasi ini dilakukan secara retrospektif untuk memahami kembali alasan di balik pendekatan komunikasi yang aku pilih.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mempertimbangkan perbedaan karakter, kenyamanan, dan cara komunikasi anggota dalam menentukan pendekatan. |
+| Objective & State | 4 | Mengelola tujuan kelompok sekaligus memperhatikan kondisi anggota yang memiliki tingkat keterlibatan berbeda. |
+| Repertoire, Language & AI | 3 | Menggunakan komunikasi grup dan personal secara proporsional. AI membantu mengevaluasi alternatif, tetapi belum digunakan secara mendalam dalam proses negosiasi. |
+| Response & Adaptation | 4 | Menyesuaikan pendekatan setelah melihat bahwa komunikasi personal membuat anggota lebih terbuka dibandingkan hanya mengandalkan grup. |
+| Agreement, Action & Relationship | 4 | Menjaga koordinasi kelompok sekaligus membangun hubungan yang lebih dekat dengan anggota, dengan tetap menyadari keterbatasan pendekatan personal. |
+
+**Total: 19/20 — Lanjut.**
