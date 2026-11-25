@@ -1,25 +1,101 @@
+
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
+status: "Siap ditinjau"
 self_score: "—"
 assessor_score: "—"
 description: "Framing, deliberation, sufficient agreement, dan collective action."
 categories: [Community, Deliberation]
 ---
 
-## Kompetensi target
+## Community map
 
-Memfasilitasi community communication melintasi perbedaan dan power menuju action yang layak.
+Dalam kegiatan PTD KSEP ITB, aku menjadi staff Humas yang ikut membantu komunikasi antara peserta dan panitia. Tugas Humas tidak hanya menyampaikan informasi, tetapi juga memastikan informasi yang diterima peserta jelas dan sesuai dengan kondisi pelaksanaan kegiatan.
 
-## Evidence wajib
+Dalam prosesnya, terdapat beberapa pihak dengan kebutuhan yang berbeda. Peserta membutuhkan informasi yang mudah dipahami, panitia Humas perlu memastikan informasi tersampaikan dengan konsisten, CP perlu dapat menjawab pertanyaan peserta, sedangkan panitia yang mengurus ruangan dan kehadiran membutuhkan data yang tertata.
 
-- Community person map dan fact/story/value/position.
-- Sedikitnya tiga frames dan lima options.
-- Deliberation evidence, safeguard, action, dan review plan.
+| Kelompok/person | Fact yang dibawa | Story/value | Position awal |
+|---|---|---|---|
+| Peserta | Membutuhkan informasi mengenai alur kegiatan dan lokasi | Ingin mengikuti kegiatan tanpa kebingungan | Menginginkan informasi yang jelas dan mudah diakses |
+| Staff Humas | Bertugas menyampaikan informasi dan membantu komunikasi peserta | Kejelasan informasi dan kelancaran komunikasi | Informasi perlu disampaikan secara terpusat |
+| Contact Person (CP) | Menjadi penghubung antara peserta dan panitia | Ingin membantu peserta tanpa menerima pertanyaan yang berulang dan membingungkan | Membutuhkan informasi yang konsisten dari panitia |
+| Panitia ruangan dan kehadiran | Mengurus kebutuhan ruangan serta pencatatan kehadiran | Ketertiban dan kelancaran operasional | Membutuhkan informasi peserta yang akurat |
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Dari pemetaan tersebut, aku melihat bahwa setiap pihak sebenarnya memiliki tujuan yang saling berkaitan. Peserta ingin memperoleh informasi yang jelas, sedangkan panitia ingin kegiatan berjalan tertib dan tidak menimbulkan kesalahan komunikasi.
 
-{{< include ../includes/evidence-template.md >}}
+Namun, cara masing-masing pihak memandang masalah bisa berbeda. Karena itu, komunikasi perlu mempertimbangkan kebutuhan seluruh pihak, bukan hanya sudut pandang panitia.
+
+## Tiga frames dan lima options
+
+Dalam melihat kebutuhan komunikasi tersebut, aku menggunakan tiga frame untuk memahami situasi dari sudut pandang yang berbeda.
+
+1. **Kejelasan informasi:** informasi harus mudah ditemukan dan dipahami peserta agar tidak terjadi kesalahpahaman.
+2. **Akses yang merata:** seluruh peserta perlu memperoleh informasi yang sama, termasuk peserta yang tidak selalu aktif memantau grup.
+3. **Tanggung jawab bersama:** kelancaran komunikasi bukan hanya tanggung jawab Humas, tetapi juga membutuhkan koordinasi dengan CP dan panitia lainnya.
+
+Menurutku, frame tanggung jawab bersama paling membantu karena masalah komunikasi tidak selalu berasal dari satu pihak. Informasi yang sudah disampaikan Humas pun tetap perlu didukung oleh koordinasi pihak lain agar tidak terjadi perbedaan informasi.
+
+Beberapa alternatif yang dapat dipertimbangkan adalah:
+
+| Options | Keuntungan | Trade-off |
+|---|---|---|
+| Mengirim seluruh informasi melalui grup utama | Semua peserta dapat mengakses informasi di satu tempat | Informasi penting dapat tertumpuk oleh pesan lain |
+| Mengirim pengingat secara berkala | Membantu peserta mengingat informasi penting | Terlalu banyak pengingat dapat mengganggu |
+| Menggunakan CP sebagai penghubung peserta | Peserta memiliki tempat bertanya yang lebih dekat | Informasi dari CP berisiko berbeda jika tidak ada acuan yang sama |
+| Membuat rangkuman informasi dan alur kegiatan | Informasi lebih terstruktur dan mudah dibaca kembali | Membutuhkan waktu untuk menyusun dan memperbarui rangkuman |
+| Menggabungkan rangkuman, grup utama, dan koordinasi CP | Informasi dapat disampaikan melalui beberapa jalur dengan acuan yang sama | Membutuhkan koordinasi lebih konsisten antarpanitia |
+
+Dari beberapa alternatif tersebut, kombinasi rangkuman informasi, penyampaian melalui grup utama, dan koordinasi dengan CP menjadi pilihan yang paling seimbang. Dengan begitu, peserta tetap memiliki sumber informasi yang dapat diakses, sedangkan CP dapat membantu menjawab pertanyaan tanpa harus menyusun informasi sendiri.
+
+## Deliberation dan safeguard
+
+Dalam mempertimbangkan alternatif tersebut, aku melihat bahwa setiap pihak memiliki kebutuhan yang perlu diperhatikan. Humas tidak bisa hanya berfokus pada banyaknya informasi yang disampaikan, tetapi juga perlu mempertimbangkan apakah informasi tersebut benar-benar dapat dipahami peserta.
+
+Misalnya, penyampaian informasi melalui grup utama memang menjangkau seluruh peserta, tetapi belum tentu cukup bagi peserta yang melewatkan pesan sebelumnya. Di sisi lain, mengandalkan CP saja juga berisiko menimbulkan perbedaan informasi apabila tidak ada acuan yang sama.
+
+Karena itu, pendekatan yang dipilih perlu menggabungkan beberapa saluran komunikasi. Rangkuman informasi dapat menjadi acuan utama, grup digunakan untuk menyampaikan pengumuman dan pengingat, sedangkan CP membantu peserta yang membutuhkan penjelasan lebih lanjut.
+
+Dalam proses tersebut, beberapa safeguard yang perlu diterapkan adalah:
+
+- Informasi yang disampaikan CP harus mengacu pada informasi resmi dari panitia.
+- Perubahan jadwal, lokasi, atau alur kegiatan perlu dikonfirmasi sebelum disebarkan.
+- Pertanyaan peserta yang belum dapat dijawab tidak boleh dijawab berdasarkan asumsi.
+- Informasi pribadi peserta tidak disebarkan di luar kebutuhan koordinasi panitia.
+- Peserta tetap diberi kesempatan untuk bertanya dan menyampaikan kendala.
+
+Kesepakatan yang ingin dicapai bukan berarti semua pihak harus menggunakan cara komunikasi yang sama, melainkan memastikan setiap jalur komunikasi memiliki informasi yang konsisten dan dapat dipertanggungjawabkan.
+
+## Collective action dan evidence
+
+Berdasarkan pendekatan tersebut, pembagian tindakan yang dapat dilakukan adalah:
+
+| Pihak | Action |
+|---|---|
+| Humas | Menyusun dan menyampaikan rangkuman informasi serta pengingat kegiatan |
+| CP | Membantu menjawab pertanyaan peserta berdasarkan informasi resmi |
+| Panitia ruangan dan kehadiran | Mengonfirmasi informasi teknis yang berkaitan dengan ruangan dan pencatatan kehadiran |
+| Peserta | Membaca informasi yang disampaikan dan menghubungi CP apabila membutuhkan penjelasan |
+
+Untuk mengevaluasi efektivitas komunikasi, beberapa hal yang dapat ditinjau adalah jumlah pertanyaan berulang, kesesuaian informasi yang disampaikan CP, serta kendala peserta dalam mengikuti alur kegiatan.
+
+Evidence yang dapat mendukung proses ini meliputi:
+
+- Screenshot pengumuman atau rangkuman informasi yang disampaikan kepada peserta.
+- Screenshot koordinasi antara Humas dan CP.
+- Dokumentasi pertanyaan atau kendala peserta beserta respons panitia.
+- Catatan evaluasi mengenai informasi yang masih membingungkan peserta.
+
+Review dilakukan dengan melihat apakah informasi sudah tersampaikan secara konsisten dan apakah masih terdapat kendala yang perlu diperbaiki. Dengan begitu, evaluasi tidak hanya berfokus pada apakah informasi sudah dikirim, tetapi juga apakah informasi tersebut benar-benar membantu peserta.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mempertimbangkan kebutuhan peserta, Humas, CP, dan panitia lain yang memiliki peran serta tanggung jawab berbeda. |
+| Objective & State | 4 | Memisahkan kebutuhan informasi peserta, tanggung jawab komunikasi Humas, dan kebutuhan operasional panitia. |
+| Repertoire, Language & AI | 3 | Mempertimbangkan beberapa frame dan alternatif komunikasi. AI digunakan secara proporsional sebagai alat bantu menyusun serta membandingkan pilihan, bukan menentukan keputusan. |
+| Response & Adaptation | 4 | Menyesuaikan pendekatan komunikasi dengan kebutuhan peserta dan keterbatasan masing-masing jalur informasi. |
+| Agreement, Action & Relationship | 4 | Merancang pembagian tindakan, safeguard, dan evaluasi agar koordinasi antar pihak tetap terjaga. |
+
+**Total: 19/20 — Lanjut.**
