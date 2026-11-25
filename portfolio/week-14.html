@@ -303,16 +303,16 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="communication-design" class="level2">
 <h2 class="anchored" data-anchor-id="communication-design">Communication design</h2>
-<p>Dalam kepanitiaan Wisuda HMIF 2026, aku bertugas sebagai LO yang mendampingi wisudawan. Sebelumnya, pembagian LO sudah dilakukan berdasarkan data yang dikumpulkan melalui form. Namun, setelah pembagian tersebut, ada wisudawan yang menghubungiku secara langsung dan meminta agar aku menjadi LO-nya, meskipun sebelumnya tidak mengisi permintaan tersebut melalui form.</p>
-<p>Situasi ini melibatkan beberapa pihak dengan kepentingan yang berbeda:</p>
+<p>Dalam kepanitiaan Wisuda HMIF 2026, aku bertugas sebagai LO yang mendampingi wisudawan. Pada awalnya, pembagian LO sudah dilakukan berdasarkan data dari form. Namun, setelah pembagian tersebut, ada wisudawan yang menghubungiku secara langsung dan meminta agar aku menjadi LO-nya, meskipun sebelumnya tidak mengajukan permintaan tersebut melalui form.</p>
+<p>Situasi ini melibatkan beberapa pihak dengan kebutuhan dan kewenangan yang berbeda.</p>
 <ul>
-<li><strong>Aku sebagai LO:</strong> ingin menjalankan tanggung jawab sesuai pembagian awal, tetapi juga perlu mempertimbangkan permintaan baru.</li>
+<li><strong>Aku sebagai LO:</strong> ingin menjalankan tanggung jawab sesuai pembagian awal, tetapi tetap terbuka terhadap perubahan penugasan.</li>
 <li><strong>Kak Kenzie:</strong> bersedia menjadi LO untuk wisudawan yang menghubungiku.</li>
-<li><strong>Pihak yang mengoordinasikan pembagian LO:</strong> perlu mempertimbangkan perubahan penugasan agar pembagian tetap terkoordinasi.</li>
-<li><strong>Wisudawan:</strong> ingin mendapatkan LO yang diharapkan untuk mendampinginya.</li>
+<li><strong>Pihak yang mengoordinasikan pembagian LO:</strong> bertanggung jawab mempertimbangkan perubahan pembagian tugas.</li>
+<li><strong>Wisudawan:</strong> memiliki harapan untuk didampingi oleh LO tertentu.</li>
 </ul>
-<p>Objective komunikasinya adalah menyampaikan situasi secara jelas, menawarkan alternatif pembagian tugas, dan memastikan perubahan dilakukan melalui koordinasi, bukan keputusan sepihak.</p>
-<p>Dalam situasi ini, AI dapat berperan sebagai communication assistant untuk membantu menyusun pesan dan membandingkan alternatif. Namun, AI tidak menentukan siapa yang menjadi LO karena keputusan tersebut berkaitan dengan kesediaan orang yang terlibat, pembagian tanggung jawab, dan koordinasi kepanitiaan.</p>
+<p>Objective komunikasiku adalah menjelaskan situasi yang terjadi, menawarkan alternatif pembagian tugas, dan memperoleh arahan agar perubahan tidak dilakukan secara sepihak.</p>
+<p>AI ditempatkan sebagai communication assistant untuk membantu menyusun pesan, mengidentifikasi alternatif, dan mengevaluasi kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan anggota, kebutuhan wisudawan, dan koordinasi kepanitiaan.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -334,34 +334,58 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>Menyusun alternatif</td>
-<td>Membantu mengidentifikasi pilihan dan trade-off</td>
+<td>Membantu membandingkan pilihan dan trade-off</td>
 <td>Menentukan alternatif yang realistis</td>
 </tr>
 <tr class="odd">
 <td>Menyusun pesan koordinasi</td>
-<td>Membantu merapikan bahasa agar jelas dan sopan</td>
+<td>Membantu merapikan bahasa dan struktur pesan</td>
 <td>Menyesuaikan pesan dengan hubungan antaranggota</td>
 </tr>
 <tr class="even">
+<td>Merespons arahan</td>
+<td>Tidak digunakan untuk menentukan respons akhir</td>
+<td>Mempertimbangkan arahan dan menyampaikan kesediaan</td>
+</tr>
+<tr class="odd">
 <td>Menentukan pembagian LO</td>
 <td>Tidak digunakan</td>
-<td>Keputusan tetap melalui koordinasi pihak terkait</td>
+<td>Keputusan melalui koordinasi pihak terkait</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="prompt-dan-output" class="level2">
 <h2 class="anchored" data-anchor-id="prompt-dan-output">Prompt dan output</h2>
-<p>Untuk merancang komunikasi dalam situasi tersebut, contoh prompt yang dapat digunakan adalah:</p>
+<p>AI digunakan secara retrospektif untuk mengevaluasi rancangan komunikasi dalam situasi tersebut. Contoh prompt yang digunakan:</p>
 <blockquote class="blockquote">
 <p>“Aku merupakan panitia yang bertugas sebagai LO wisuda. Pembagian LO sudah dilakukan berdasarkan form, tetapi ada wisudawan yang menghubungiku secara langsung dan meminta aku menjadi LO-nya. Ada anggota lain yang bersedia menjadi LO untuk wisudawan tersebut. Bantu susun pesan koordinasi yang menjelaskan situasi ini dan menawarkan alternatif pembagian tugas. Gunakan bahasa yang sopan, jelas, dan tidak terkesan memaksakan keputusan. Jangan mengasumsikan bahwa perubahan sudah disetujui.”</p>
 </blockquote>
-<p>AI dapat menghasilkan draft pesan yang menjelaskan permintaan wisudawan, menyampaikan kesediaan anggota lain, dan menawarkan dua alternatif: anggota lain menjadi LO untuk wisudawan tersebut atau aku tetap menjadi LO dengan bantuan anggota tersebut.</p>
-<p>Output ini membantu menyusun informasi agar lebih terstruktur. Namun, hasil AI belum tentu memahami hubungan antaranggota dan kondisi pembagian tugas yang sebenarnya.</p>
+<p>Output AI menyarankan agar pesan menjelaskan kronologi secara singkat dan menawarkan dua alternatif: 1. Kak Kenzie menjadi LO untuk wisudawan tersebut. 2. Aku tetap menjadi LO, sementara Kak Kenzie membantu mendampingi.</p>
+<p>Output tersebut membantu mengidentifikasi pilihan yang dapat disampaikan kepada pihak yang mengoordinasikan pembagian LO. Namun, hasil AI belum tentu memahami kondisi pembagian tugas dan hubungan antaranggota secara keseluruhan.</p>
+<p>AI juga tidak dapat memastikan apakah setiap alternatif dapat diterima oleh pihak terkait. Karena itu, output hanya digunakan sebagai bahan evaluasi, bukan sebagai keputusan atau pesan yang otomatis dikirim.</p>
 </section>
 <section id="human-revision" class="level2">
 <h2 class="anchored" data-anchor-id="human-revision">Human revision</h2>
-<p>Draft dari AI perlu diperiksa dan disesuaikan sebelum digunakan. Dalam kasus ini, pesan koordinasi harus tetap menunjukkan bahwa aku tidak mengambil keputusan sendiri dan masih terbuka terhadap arahan pihak yang mengoordinasikan pembagian LO.</p>
+<p>Dalam komunikasi yang benar-benar dilakukan, aku menyampaikan situasi tersebut dan menawarkan dua alternatif pembagian tugas. Aku tidak langsung memutuskan perubahan sendiri, tetapi meminta arahan melalui koordinasi.</p>
+<p>Bukti komunikasi menunjukkan adanya proses penyesuaian respons:</p>
+<p><strong>1. Menyampaikan situasi dan menawarkan alternatif</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="ss1-chat-koordinasi.png" class="img-fluid figure-img" style="width:75.0%"></p>
+<figcaption>Chat koordinasi mengenai permintaan perubahan penugasan LO</figcaption>
+</figure>
+</div>
+<p>Aku menjelaskan bahwa ada wisudawan yang menghubungiku secara langsung dan menyampaikan bahwa Kak Kenzie bersedia menjadi LO. Aku kemudian menawarkan dua alternatif, yaitu Kak Kenzie menjadi LO atau aku tetap menjadi LO dengan bantuan Kak Kenzie.</p>
+<p><strong>2. Menyesuaikan respons terhadap arahan</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="ss2-konfirmasi.png" class="img-fluid figure-img" style="width:75.0%"></p>
+<figcaption>Chat arahan pembagian LO dan konfirmasi kesediaan menerima wisudawan baru</figcaption>
+</figure>
+</div>
+<p>Pihak yang mengoordinasikan pembagian LO memberikan arahan agar Kak Kenzie menjadi LO untuk wisudawan tersebut, kemudian menanyakan apakah aku bersedia menerima wisudawan lain.</p>
+<p>Aku menyesuaikan respons dengan menyetujui perubahan tersebut. Artinya, komunikasi tidak berhenti pada penyampaian alternatif, tetapi berlanjut hingga ada arahan dan konfirmasi kesediaan.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -370,48 +394,44 @@ ul.task-list li input[type="checkbox"] {
 </colgroup>
 <thead>
 <tr class="header">
-<th>Hal yang perlu diperhatikan</th>
-<th>Penyesuaian manusia</th>
+<th>Situasi</th>
+<th>Respons dan penyesuaian</th>
 <th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Penjelasan situasi</td>
-<td>Menjelaskan bahwa wisudawan menghubungi secara langsung setelah pembagian LO dilakukan</td>
-<td>Menjaga kronologi tetap akurat</td>
+<td>Ada permintaan baru dari wisudawan</td>
+<td>Menjelaskan situasi dan menawarkan dua alternatif</td>
+<td>Menghindari keputusan sepihak</td>
 </tr>
 <tr class="even">
-<td>Alternatif pembagian</td>
-<td>Menyampaikan dua alternatif, yaitu Kak Kenzie menjadi LO atau aku tetap menjadi LO dengan bantuan Kak Kenzie</td>
-<td>Memberikan pilihan tanpa memaksakan keputusan</td>
+<td>Ada arahan agar Kak Kenzie menjadi LO</td>
+<td>Menerima arahan dan mempertimbangkan penugasan baru</td>
+<td>Menyesuaikan pembagian dengan hasil koordinasi</td>
 </tr>
 <tr class="odd">
-<td>Nada pesan</td>
-<td>Menggunakan bahasa yang sopan dan tidak menyalahkan pihak mana pun</td>
-<td>Menjaga hubungan antaranggota</td>
-</tr>
-<tr class="even">
-<td>Konfirmasi</td>
-<td>Menunggu arahan dan memastikan kesediaan menerima penugasan baru</td>
-<td>Menghindari keputusan sepihak</td>
+<td>Ditanya kesediaan menerima wisudawan lain</td>
+<td>Menyetujui perubahan penugasan</td>
+<td>Menunjukkan kesediaan menjalankan tanggung jawab baru</td>
 </tr>
 </tbody>
 </table>
-<p>Pada komunikasi yang benar-benar dilakukan, aku menyampaikan situasi tersebut dan menawarkan dua alternatif pembagian LO. Setelah mendapat arahan bahwa Kak Kenzie menjadi LO untuk wisudawan tersebut, aku ditanya apakah bersedia menerima wisudawan lain. Aku menyetujui perubahan tersebut.</p>
-<p>Hal yang tidak dapat diserahkan kepada AI adalah penilaian apakah pembagian tersebut adil, apakah setiap anggota bersedia, dan bagaimana merespons keputusan yang sudah dikoordinasikan. Hal-hal tersebut membutuhkan pemahaman terhadap situasi dan hubungan antaranggota secara langsung.</p>
+<p>Dari proses tersebut, aku memahami bahwa komunikasi yang baik tidak hanya bergantung pada pesan awal, tetapi juga kemampuan menyesuaikan respons setelah menerima masukan atau arahan dari pihak lain.</p>
+<p>AI membantu mengevaluasi struktur pesan dan alternatif yang tersedia, sedangkan respons aktual tetap disusun berdasarkan situasi dan arahan yang diterima secara langsung.</p>
 </section>
 <section id="privacy-authority-dan-alasan-berhenti" class="level2">
 <h2 class="anchored" data-anchor-id="privacy-authority-dan-alasan-berhenti">Privacy, authority, dan alasan berhenti</h2>
-<p>Penggunaan AI dalam komunikasi kepanitiaan memiliki beberapa batasan yang perlu diperhatikan:</p>
+<p>Penggunaan AI dalam komunikasi kepanitiaan memiliki beberapa batasan yang perlu diperhatikan.</p>
 <ul>
-<li><strong>Privacy:</strong> nama wisudawan, nomor kontak, dan informasi pribadi lainnya tidak perlu dimasukkan ke prompt. Kasus dapat dijelaskan menggunakan peran umum tanpa menyertakan identitas pihak terkait.</li>
-<li><strong>Authority:</strong> AI tidak memiliki kewenangan untuk mengubah pembagian LO atau menyetujui penugasan. Keputusan tetap berada pada pihak yang berwenang dalam koordinasi kepanitiaan.</li>
+<li><strong>Privacy:</strong> nama wisudawan, nomor kontak, dan informasi pribadi lainnya tidak perlu dimasukkan ke prompt. Situasi dapat dijelaskan menggunakan peran umum tanpa menyertakan identitas pihak terkait.</li>
+<li><strong>Authority:</strong> AI tidak memiliki kewenangan untuk mengubah pembagian LO, menyetujui penugasan, atau mewakili keputusan koordinator.</li>
 <li><strong>Accuracy:</strong> kronologi, kesediaan anggota, dan hasil koordinasi harus diperiksa berdasarkan komunikasi yang sebenarnya, bukan asumsi AI.</li>
-<li><strong>Relationship:</strong> pesan perlu disesuaikan dengan hubungan antaranggota agar tidak terdengar terlalu kaku, memaksa, atau menyalahkan pihak tertentu.</li>
+<li><strong>Relationship:</strong> pesan perlu disesuaikan dengan hubungan antaranggota agar tidak terdengar memaksa, terlalu kaku, atau menyalahkan pihak tertentu.</li>
 </ul>
-<p>AI juga tidak perlu digunakan untuk mengirim pesan secara otomatis atau mengambil alih percakapan. Komunikasi langsung tetap lebih tepat karena situasinya melibatkan kesediaan anggota, pertimbangan pribadi, dan koordinasi yang dapat berubah.</p>
-<p>Dalam kasus ini, AI lebih tepat digunakan sebagai alat bantu untuk merancang dan mengevaluasi pesan, bukan sebagai pengganti komunikasi maupun pengambil keputusan. Penggunaan AI secara berlebihan justru berisiko membuat komunikasi terasa tidak personal dan mengurangi tanggung jawab manusia terhadap keputusan yang diambil.</p>
+<p>AI tidak digunakan untuk mengirim pesan secara otomatis atau mengambil alih percakapan. Komunikasi langsung lebih tepat untuk situasi yang membutuhkan pertimbangan hubungan personal dan respons terhadap arahan secara langsung.</p>
+<p>Penggunaan AI juga dibatasi karena terlalu banyak mengandalkan rekomendasi AI dapat membuat komunikasi terasa tidak personal. Dalam situasi interpersonal, aku tetap perlu bertanggung jawab terhadap pilihan kata, keputusan, dan konsekuensi dari respons yang diberikan.</p>
+<p>Dengan demikian, AI digunakan untuk membantu merancang dan mengevaluasi komunikasi, tetapi keputusan, adaptasi respons, serta hubungan dengan pihak lain tetap menjadi tanggung jawab manusia.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
@@ -432,27 +452,27 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Person &amp; Character</td>
 <td style="text-align: right;">4</td>
-<td>Peran LO, pihak yang terlibat, dan batas kewenangan AI dibedakan</td>
+<td>Peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya dipetakan</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
 <td style="text-align: right;">4</td>
-<td>Tujuan komunikasi dan kondisi perubahan penugasan dijelaskan</td>
+<td>Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
 <td style="text-align: right;">3</td>
-<td>Prompt, rancangan output, dan human revision dijelaskan; penggunaan AI dalam kasus ini merupakan simulasi desain secara retrospektif</td>
+<td>Prompt, rancangan output, human revision, serta batas penggunaan AI dijelaskan; penggunaan AI merupakan analisis retrospektif</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
 <td style="text-align: right;">4</td>
-<td>Alternatif disesuaikan dengan situasi dan hasil koordinasi yang benar-benar terjadi</td>
+<td>Dua screenshot menunjukkan proses menawarkan alternatif, menerima arahan, dan menyesuaikan respons</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
 <td style="text-align: right;">4</td>
-<td>Kesediaan menerima penugasan baru dikonfirmasi dan hubungan antaranggota tetap dijaga</td>
+<td>Arahan pembagian LO dan kesediaan menerima penugasan baru terdokumentasi melalui komunikasi</td>
 </tr>
 </tbody>
 </table>
