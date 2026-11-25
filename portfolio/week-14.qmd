@@ -22,7 +22,7 @@ Situasi ini melibatkan beberapa pihak dengan kebutuhan dan kewenangan yang berbe
 
 Objective komunikasiku adalah menjelaskan situasi yang terjadi, menawarkan alternatif pembagian tugas, dan memperoleh arahan agar perubahan tidak dilakukan secara sepihak.
 
-AI ditempatkan sebagai communication assistant untuk membantu menyusun pesan, mengidentifikasi alternatif, dan mengevaluasi kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan anggota, kebutuhan wisudawan, dan koordinasi kepanitiaan.
+AI ditempatkan sebagai communication assistant untuk membantu menyusun pesan, mengidentifikasi alternatif, dan mengevaluasi kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan orang yang terlibat, kebutuhan wisudawan, dan koordinasi kepanitiaan.
 
 | Tugas | Peran AI | Tanggung jawab manusia |
 |---|---|---|
@@ -50,17 +50,13 @@ AI juga tidak dapat memastikan apakah setiap alternatif dapat diterima oleh piha
 
 Dalam komunikasi yang benar-benar dilakukan, aku menyampaikan situasi tersebut dan menawarkan dua alternatif pembagian tugas. Aku tidak langsung memutuskan perubahan sendiri, tetapi meminta arahan melalui koordinasi.
 
-Bukti komunikasi menunjukkan adanya proses penyesuaian respons:
+Proses komunikasi tersebut menunjukkan adanya penyesuaian respons dalam beberapa tahap.
 
 **1. Menyampaikan situasi dan menawarkan alternatif**
-
-![Chat koordinasi mengenai permintaan perubahan penugasan LO](ss1-chat-koordinasi.png){width=75%}
 
 Aku menjelaskan bahwa ada wisudawan yang menghubungiku secara langsung dan menyampaikan bahwa Kak Kenzie bersedia menjadi LO. Aku kemudian menawarkan dua alternatif, yaitu Kak Kenzie menjadi LO atau aku tetap menjadi LO dengan bantuan Kak Kenzie.
 
 **2. Menyesuaikan respons terhadap arahan**
-
-![Chat arahan pembagian LO dan konfirmasi kesediaan menerima wisudawan baru](ss2-konfirmasi.png){width=75%}
 
 Pihak yang mengoordinasikan pembagian LO memberikan arahan agar Kak Kenzie menjadi LO untuk wisudawan tersebut, kemudian menanyakan apakah aku bersedia menerima wisudawan lain.
 
@@ -75,6 +71,8 @@ Aku menyesuaikan respons dengan menyetujui perubahan tersebut. Artinya, komunika
 Dari proses tersebut, aku memahami bahwa komunikasi yang baik tidak hanya bergantung pada pesan awal, tetapi juga kemampuan menyesuaikan respons setelah menerima masukan atau arahan dari pihak lain.
 
 AI membantu mengevaluasi struktur pesan dan alternatif yang tersedia, sedangkan respons aktual tetap disusun berdasarkan situasi dan arahan yang diterima secara langsung.
+
+Aku juga menyadari bahwa menawarkan alternatif tidak berarti aku harus mempertahankan semua pilihan yang diajukan. Ketika pihak yang mengoordinasikan pembagian tugas memberikan arahan, aku perlu mempertimbangkan arahan tersebut dan menyesuaikan tindakan selama masih sesuai dengan kesanggupanku.
 
 ## Privacy, authority, dan alasan berhenti
 
@@ -93,12 +91,12 @@ Dengan demikian, AI digunakan untuk membantu merancang dan mengevaluasi komunika
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya dipetakan |
-| Objective & State | 4 | Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan |
-| Repertoire, Language & AI | 3 | Prompt, rancangan output, human revision, serta batas penggunaan AI dijelaskan; penggunaan AI merupakan analisis retrospektif |
-| Response & Adaptation | 4 | Dua screenshot menunjukkan proses menawarkan alternatif, menerima arahan, dan menyesuaikan respons |
-| Agreement, Action & Relationship | 4 | Arahan pembagian LO dan kesediaan menerima penugasan baru terdokumentasi melalui komunikasi |
+| Person & Character | 4 | Memetakan peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya |
+| Objective & State | 4 | Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan dengan jelas |
+| Repertoire, Language & AI | 3 | Menggunakan AI untuk membantu merancang dan mengevaluasi komunikasi, dengan human review dan batas penggunaan yang jelas |
+| Response & Adaptation | 4 | Menawarkan alternatif, menerima arahan, dan menyesuaikan respons terhadap perubahan situasi |
+| Agreement, Action & Relationship | 4 | Menyetujui perubahan penugasan melalui koordinasi dan menjaga hubungan antaranggota |
 
 **Total: 19/20 — Lanjut.**
