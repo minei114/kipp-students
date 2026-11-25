@@ -1,25 +1,87 @@
+
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Belum dimulai"
+status: "Siap ditinjau"
 self_score: "—"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
 categories: [Assessment, Capstone]
 ---
 
-## Kompetensi target
+## Person, character, dan performance plan
 
-Mengintegrasikan person, character, objective, state, repertoire, language, response, agreement, action, relationship, dan AI judgment.
+Selama menjalani kegiatan perkuliahan dan organisasi di ITB, aku berinteraksi dengan orang-orang yang memiliki karakter, kebutuhan, dan cara berkomunikasi yang berbeda. Pengalamanku sebagai anggota Elektrikal, Staff Humas KSEP, anggota HMIF, serta ketua kelompok AMI Tour Kampus memberiku kesempatan untuk menghadapi situasi komunikasi yang beragam.
 
-## Evidence wajib
+Dalam kegiatan Elektrikal, komunikasi dan koordinasi menjadi bagian penting karena pekerjaan melibatkan beberapa anggota dengan tanggung jawab yang saling berkaitan. Setiap anggota perlu memahami tugasnya dan menyampaikan informasi apabila terdapat kendala. Sementara itu, dalam kegiatan Humas dan kepanitiaan, aku perlu memastikan informasi tersampaikan dengan jelas kepada peserta maupun sesama panitia.
 
-- Person/character/state map dan performance plan.
-- Rekaman/transcript, observer feedback, serta decisive adaptation.
-- Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
+**Person dan character:**
+- **Aku:** anggota tim yang berusaha bertanggung jawab terhadap tugas, terbuka terhadap masukan, dan mau menyesuaikan cara komunikasi dengan kondisi orang lain.
+- **Anggota Elektrikal:** rekan satu tim yang memiliki tanggung jawab masing-masing dan perlu berkoordinasi agar pekerjaan dapat berjalan sesuai kebutuhan.
+- **Rekan organisasi dan kepanitiaan:** memiliki pengalaman dan cara kerja yang berbeda sehingga membutuhkan komunikasi yang sesuai dengan situasi.
+- **Peserta atau pihak eksternal:** membutuhkan informasi yang jelas dan respons yang sesuai dengan kebutuhan mereka.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**Objective:** membangun komunikasi yang membantu pekerjaan berjalan lebih terarah, memastikan setiap pihak memahami tanggung jawabnya, serta menjaga hubungan baik meskipun terdapat perbedaan pendapat atau cara kerja.
 
-{{< include ../includes/evidence-template.md >}}
+**Performance plan:**
+1. Memahami kebutuhan dan tanggung jawab setiap pihak sebelum menyampaikan pendapat.
+2. Menyampaikan informasi atau kendala secara jelas dan tidak berasumsi bahwa orang lain sudah memahaminya.
+3. Memberikan kesempatan kepada anggota lain untuk menyampaikan pendapat.
+4. Menyesuaikan pendekatan komunikasi berdasarkan respons yang diterima.
+5. Memastikan hasil diskusi diterjemahkan menjadi pembagian tugas atau tindak lanjut yang jelas.
+
+## Evidence dan decisive adaptation
+
+Beberapa pengalaman selama menjalani kegiatan di ITB menunjukkan bahwa pendekatan komunikasi tidak selalu bisa disamakan.
+
+Dalam kegiatan Elektrikal, koordinasi membutuhkan penyampaian informasi yang spesifik karena pekerjaan berkaitan dengan tugas teknis dan kontribusi beberapa anggota. Informasi yang kurang jelas dapat menyebabkan perbedaan pemahaman mengenai pekerjaan yang harus dilakukan. Karena itu, komunikasi perlu berfokus pada penjelasan tugas, kondisi pekerjaan, dan hal yang masih perlu dikoordinasikan.
+
+Sebagai Staff Humas PTD KSEP, pendekatan komunikasinya berbeda. Aku perlu menyampaikan informasi kepada peserta dengan bahasa yang lebih sederhana dan mudah dipahami. Selain itu, aku juga perlu berkoordinasi dengan CP dan panitia lain agar informasi yang diberikan tidak berbeda-beda.
+
+Saat menjadi ketua kelompok AMI Tour Kampus ITB, aku mencoba menghubungi anggota kelompok secara personal. Aku memulai percakapan dengan sapaan dan obrolan ringan sebelum mengajak mereka terlibat dalam kegiatan. Pendekatan tersebut membuat anggota lebih terbuka saat berkomunikasi secara personal dibandingkan hanya mengandalkan komunikasi di grup.
+
+Dari pengalaman tersebut, aku menyadari bahwa komunikasi yang efektif tidak selalu berarti menyampaikan pesan sebanyak mungkin. Terkadang, pendekatan personal lebih tepat untuk membangun kenyamanan, sedangkan koordinasi teknis membutuhkan informasi yang lebih terstruktur.
+
+**Decisive adaptation:** aku belajar menyesuaikan cara menyampaikan pesan berdasarkan kebutuhan lawan bicara. Untuk koordinasi pekerjaan, aku perlu lebih spesifik dan terarah. Untuk membangun hubungan, aku perlu memberi ruang bagi orang lain untuk merespons dan merasa nyaman sebelum mengharapkan keterlibatan mereka.
+
+## Outcome
+
+Dari berbagai pengalaman tersebut, aku memahami bahwa keberhasilan komunikasi tidak hanya diukur dari apakah pesan sudah disampaikan, tetapi juga dari apakah pihak lain memahami maksudnya dan dapat mengambil tindakan yang sesuai.
+
+Dalam kegiatan Elektrikal, komunikasi yang jelas membantu anggota memahami pekerjaan dan hal-hal yang perlu dikoordinasikan. Dalam kegiatan Humas, informasi yang terstruktur membantu peserta mengetahui hal yang perlu dilakukan. Sementara itu, melalui AMI Tour Kampus, aku belajar bahwa membangun hubungan personal dapat menjadi langkah awal untuk meningkatkan keterlibatan anggota.
+
+**Agreement dan action:** aku semakin memahami pentingnya memastikan kembali pemahaman dan tanggung jawab setiap pihak setelah komunikasi dilakukan. Kesepakatan sebaiknya tidak berhenti pada persetujuan lisan, tetapi perlu diterjemahkan menjadi tindakan yang jelas.
+
+**Relationship outcome:** aku belajar untuk tidak langsung menganggap orang yang pasif sebagai tidak tertarik atau tidak peduli. Bisa saja mereka membutuhkan pendekatan yang berbeda atau belum merasa cukup nyaman untuk menyampaikan pendapat. Dengan memahami hal tersebut, aku dapat membangun komunikasi yang lebih terbuka dan tidak terburu-buru menilai orang lain.
+
+## Observer feedback dan replay
+
+Aku belum memiliki feedback observer tertulis yang mencakup seluruh pengalaman tersebut. Namun, dari refleksi terhadap cara komunikasiku, masih ada beberapa hal yang perlu ditingkatkan.
+
+Salah satunya adalah kecenderungan untuk menunggu situasi tertentu sebelum menyampaikan pendapat atau memulai percakapan. Aku juga perlu lebih konsisten memastikan apakah orang lain benar-benar memahami informasi yang disampaikan, bukan hanya menganggap komunikasi sudah selesai setelah pesan terkirim.
+
+Jika melakukan replay, aku ingin lebih aktif membuka diskusi, terutama ketika melihat ada hal yang belum jelas atau anggota yang belum terlibat. Aku juga akan mencoba mengajukan pertanyaan terlebih dahulu sebelum memberikan saran agar dapat memahami sudut pandang orang lain.
+
+Perubahan yang ingin aku pertahankan adalah tidak hanya berfokus pada penyelesaian tugas, tetapi juga memperhatikan proses komunikasi dan hubungan antaranggota selama bekerja sama.
+
+## AI critique dan reflection
+
+AI dapat digunakan sebagai alat bantu untuk mengevaluasi rancangan komunikasi, mengidentifikasi kemungkinan salah tafsir, dan memberikan alternatif penyampaian pesan. Misalnya, AI dapat membantu memeriksa apakah suatu pesan koordinasi sudah cukup jelas, apakah bahasanya terlalu kaku, atau apakah terdapat asumsi yang belum didukung informasi.
+
+Namun, AI tidak selalu memahami konteks hubungan antaranggota, kondisi pekerjaan, dan kewenangan setiap pihak. Karena itu, hasil AI tetap perlu diperiksa dan disesuaikan dengan situasi sebenarnya.
+
+Aku juga tidak perlu menggunakan AI untuk setiap percakapan. Komunikasi langsung tetap lebih tepat ketika membutuhkan pemahaman situasi, respons spontan, atau pertimbangan hubungan personal. Informasi internal dan data pribadi anggota juga tidak boleh dimasukkan sembarangan ke dalam prompt.
+
+Dari keseluruhan proses ini, aku menyadari bahwa kemampuan komunikasi bukan hanya tentang menyusun kalimat yang baik. Aku perlu memahami siapa yang diajak berkomunikasi, apa tujuan yang ingin dicapai, bagaimana kondisi orang tersebut, serta bagaimana menyesuaikan pendekatan berdasarkan responsnya.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mengidentifikasi peran dan kebutuhan pihak yang terlibat dalam kegiatan teknis, organisasi, dan kepanitiaan |
+| Objective & State | 4 | Menyesuaikan tujuan komunikasi dengan kebutuhan koordinasi, penyampaian informasi, dan keterlibatan anggota |
+| Repertoire, Language & AI | 3 | Menggunakan pendekatan komunikasi yang beragam dan memahami batas penggunaan AI, tetapi evaluasi penggunaan AI masih perlu diperkuat dengan evidence |
+| Response & Adaptation | 4 | Menyesuaikan pendekatan melalui koordinasi terarah, komunikasi informatif, dan pendekatan personal |
+| Agreement, Action & Relationship | 4 | Memahami pentingnya kejelasan tanggung jawab, tindak lanjut, dan hubungan baik dalam kerja sama |
+
+**Total: 19/20 — Lanjut.**
