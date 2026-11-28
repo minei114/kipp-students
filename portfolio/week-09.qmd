@@ -1,4 +1,3 @@
-
 ---
 title: "Desire-State Communication Challenge"
 week: 9
@@ -69,20 +68,22 @@ Untuk mengurangi risiko tersebut, aku perlu:
 - Menggunakan grup sebagai ruang komunikasi bersama, bukan hanya sebagai tempat pengumuman.
 - Mengevaluasi keterlibatan berdasarkan tindakan yang terlihat, bukan asumsi.
 
-AI digunakan secara retrospektif untuk membantu memetakan current state dan desired state, mengevaluasi hubungan antara pendekatan personal dengan keterlibatan anggota, serta mengidentifikasi kemungkinan lompatan kesimpulan.
+AI digunakan secara retrospektif sebagai alat bantu refleksi dan evaluasi. Aku memanfaatkannya untuk membantu memetakan current state dan desired state, mengevaluasi hubungan antara pendekatan personal dengan keterlibatan anggota, serta mengidentifikasi kemungkinan lompatan kesimpulan.
 
-Salah satu hal yang diperiksa adalah apakah respons anggota melalui personal chat cukup untuk membuktikan bahwa desired state sudah tercapai. Hasil analisis membantu memperjelas bahwa respons awal dan inisiatif mandiri merupakan dua indikator yang berbeda.
+Salah satu hal yang dievaluasi adalah apakah respons anggota melalui personal chat cukup untuk membuktikan bahwa desired state sudah tercapai. Dari proses refleksi tersebut, aku dapat membedakan respons awal dengan inisiatif mandiri sebagai dua indikator yang berbeda.
 
-Namun, AI tidak digunakan untuk menyimpulkan perasaan anggota atau menggantikan pengamatan langsung. Penilaian terhadap perubahan perilaku tetap harus didasarkan pada interaksi yang benar-benar terjadi.
+AI juga membantu memberikan sudut pandang tambahan mengenai risiko pendekatan yang digunakan dan alternatif tindakan yang dapat dipertimbangkan apabila anggota masih belum aktif. Namun, AI tidak digunakan secara langsung selama kegiatan berlangsung, tidak menentukan pendekatan komunikasi, dan tidak menyimpulkan perasaan anggota. Pemilihan pendekatan serta keputusan tetap berasal dariku berdasarkan interaksi dan pemahamanku terhadap kondisi kelompok.
+
+Dengan demikian, penggunaan AI masih terbatas sebagai alat bantu evaluasi setelah kegiatan, bukan sebagai bagian langsung dari proses komunikasi atau pengambilan keputusan saat kegiatan berlangsung.
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Memahami perbedaan karakter dan kenyamanan komunikasi anggota serta menyesuaikan pendekatan sebagai PJ |
-| Objective & State | 4 | Current state, desired state, value, acceptable risk, dan indikator keberhasilan dirumuskan secara jelas |
-| Repertoire, Language & AI | 3 | Menggunakan pendekatan personal dan bahasa informal serta AI secara retrospektif dengan batasan yang jelas |
-| Response & Adaptation | 4 | Menyesuaikan pendekatan dari komunikasi grup ke personal chat berdasarkan respons anggota |
-| Agreement, Action & Relationship | 4 | Mengambil tindakan untuk membuka komunikasi, menjaga agar ajakan tidak memaksa, dan merencanakan keterlibatan kelompok secara bertahap |
+| Person & Character | 4 | Memahami perbedaan karakter dan kenyamanan komunikasi anggota serta menyesuaikan pendekatan sebagai PJ. |
+| Objective & State | 4 | Current state, desired state, value, acceptable risk, dan indikator keberhasilan dirumuskan secara jelas. |
+| Repertoire, Language & AI | 3 | Menggunakan pendekatan personal dan bahasa informal sesuai kondisi anggota. AI digunakan secara retrospektif sebagai alat bantu refleksi dan evaluasi, tetapi belum dimanfaatkan secara langsung dalam proses komunikasi. |
+| Response & Adaptation | 4 | Menyesuaikan pendekatan dari komunikasi grup ke personal chat berdasarkan respons anggota dan menyadari bahwa setiap respons perlu dievaluasi sebelum dianggap sebagai perubahan perilaku. |
+| Agreement, Action & Relationship | 4 | Mengambil tindakan untuk membuka komunikasi, menjaga agar ajakan tidak memaksa, dan merencanakan keterlibatan kelompok secara bertahap. |
 
 **Total: 19/20 — Lanjut.**
