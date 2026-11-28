@@ -1,4 +1,3 @@
-
 ---
 title: "Action & Agreement Challenge"
 week: 10
@@ -31,9 +30,7 @@ Aku memilih untuk mengoordinasikan situasi tersebut terlebih dahulu. Dalam perca
 
 Setelah itu, aku menerima arahan bahwa Kak Kenzie dapat menjadi LO untuk wisudawan tersebut. Aku juga ditanya mengenai kesediaanku apabila dialihkan untuk mendampingi wisudawan baru. Aku menyatakan bahwa aku bersedia dengan penugasan tersebut.
 
-### Evidence 1. Koordinasi opsi perubahan penugasan
-
-![Chat koordinasi opsi perubahan penugasan LO](ss1-chat-koordinasi.png){width=75%}
+Keputusan ini menjadi jalan tengah karena permintaan wisudawan tetap dipertimbangkan, Kak Kenzie dapat mengambil penugasan tersebut, dan aku tetap menjalankan tanggung jawab sebagai LO melalui penugasan baru.
 
 ## Agreement eksplisit
 
@@ -41,23 +38,19 @@ Kesepakatan yang terbentuk adalah Kak Kenzie menjadi LO untuk wisudawan yang seb
 
 Kesepakatan ini mempertimbangkan permintaan wisudawan, pembagian tugas, dan kesediaan masing-masing LO. Aku tidak langsung mengambil keputusan sendiri, melainkan mengikuti arahan dari pihak yang mengoordinasikan pembagian LO.
 
-Dari percakapan tersebut, terdapat dua hal yang dapat dibuktikan:
-1. Ada arahan agar Kak Kenzie menjadi LO untuk wisudawan tersebut.
-2. Ada konfirmasi dariku bahwa aku bersedia menerima penugasan wisudawan baru.
+Terdapat dua hal utama dalam kesepakatan tersebut:
+1. Kak Kenzie menjadi LO untuk wisudawan yang sebelumnya meminta didampingi olehku.
+2. Aku bersedia menerima penugasan untuk mendampingi wisudawan baru.
 
-Dengan demikian, perubahan penugasan dilakukan melalui koordinasi dan persetujuan, bukan keputusan sepihak.
-
-### Evidence 2. Arahan dan konfirmasi kesediaan
-
-![Chat arahan pembagian LO dan konfirmasi kesediaan menerima wisudawan baru](ss2-konfirmasi.png){width=75%}
+Dengan demikian, perubahan penugasan dilakukan melalui koordinasi dan persetujuan, bukan keputusan sepihak. Kesepakatan tersebut juga memberikan kejelasan mengenai pembagian tanggung jawab setelah perubahan dilakukan.
 
 ## Action evidence dan adaptation
 
 Tindakan yang aku lakukan dalam situasi ini adalah menyampaikan kondisi yang terjadi, menawarkan alternatif pembagian tugas, meminta arahan, dan mengonfirmasi kesediaan terhadap penugasan baru.
 
-Kedua screenshot percakapan menjadi bukti proses koordinasi yang aku lakukan. Screenshot pertama menunjukkan bahwa aku menyampaikan kondisi dan menawarkan alternatif pembagian LO. Screenshot kedua menunjukkan arahan mengenai pembagian LO serta konfirmasiku bahwa aku bersedia menerima penugasan wisudawan baru.
+Aku tidak hanya menyampaikan kendala, tetapi juga berusaha memberikan alternatif penyelesaian. Setelah mendapatkan arahan, aku menyesuaikan keputusan dan bersedia menerima penugasan baru agar perubahan pembagian LO tetap berjalan sesuai koordinasi.
 
-Selain evidence komunikasi, aku melakukan evaluasi retrospektif dengan bantuan AI untuk memetakan barrier, pihak yang memiliki kewenangan, pilihan tindakan, serta trade-off dari masing-masing pilihan. Hasil pemetaan tersebut digunakan untuk meninjau apakah tindakanku sudah mempertimbangkan kebutuhan wisudawan sekaligus batas kewenangan sebagai staff LO.
+Selain itu, aku melakukan evaluasi retrospektif dengan bantuan AI untuk memetakan barrier, pihak yang memiliki kewenangan, pilihan tindakan, serta trade-off dari masing-masing pilihan. Hasil pemetaan tersebut digunakan untuk meninjau apakah tindakanku sudah mempertimbangkan kebutuhan wisudawan sekaligus batas kewenangan sebagai staff LO.
 
 | Aspek analisis | Hasil evaluasi |
 |---|---|
@@ -67,18 +60,18 @@ Selain evidence komunikasi, aku melakukan evaluasi retrospektif dengan bantuan A
 | Trade-off | Memenuhi permintaan awal perlu diseimbangkan dengan pembagian tugas dan kesediaan LO lain. |
 | Action | Menyampaikan kondisi, menawarkan alternatif, meminta arahan, dan mengonfirmasi kesediaan menerima penugasan baru. |
 
-Penggunaan AI pada bagian ini bersifat retrospektif untuk membantu mengevaluasi proses pengambilan keputusan, bukan sebagai alat yang digunakan saat percakapan dan perubahan penugasan berlangsung.
+Penggunaan AI pada bagian ini bersifat retrospektif sebagai alat bantu refleksi dan evaluasi. AI membantuku melihat kembali hubungan antara masalah yang dihadapi, batas kewenangan, alternatif yang tersedia, dan tindakan yang akhirnya dipilih. AI tidak digunakan secara langsung selama percakapan atau untuk menentukan keputusan negosiasi. Keputusan tetap berasal dariku berdasarkan kondisi yang terjadi dan arahan dari pihak yang berwenang.
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
 | Person & Character | 4 | Aku memahami peranku sebagai staff LO dan tetap mempertimbangkan kebutuhan wisudawan serta anggota LO lain. |
-| Objective & State | 4 | Aku dapat mengidentifikasi perbedaan antara permintaan wisudawan dan pembagian LO yang sudah ditetapkan. |
-| Repertoire, Language & AI | 4 | Aku mempertimbangkan beberapa alternatif komunikasi dan tindakan. Evaluasi retrospektif dengan bantuan AI juga membantuku memetakan barrier, authority, dan trade-off secara lebih terstruktur. |
+| Objective & State | 4 | Aku dapat mengidentifikasi perbedaan antara permintaan wisudawan dan pembagian LO yang sudah ditetapkan, termasuk kondisi yang perlu dipertimbangkan sebelum mengambil tindakan. |
+| Repertoire, Language & AI | 3 | Aku mempertimbangkan beberapa alternatif tindakan dan menggunakan komunikasi untuk menyampaikan kondisi serta menawarkan solusi. AI digunakan secara retrospektif sebagai alat bantu untuk mengevaluasi barrier, authority, dan trade-off, tetapi tidak digunakan secara langsung dalam proses negosiasi. |
 | Response & Adaptation | 4 | Aku tidak langsung mengambil keputusan sendiri, tetapi menyampaikan kondisi, menawarkan alternatif, mengikuti arahan, dan bersedia menerima penugasan baru. |
-| Agreement, Action & Relationship | 4 | Terdapat koordinasi, arahan pembagian LO, dan konfirmasi kesediaanku. Perubahan penugasan tetap mempertimbangkan hubungan kerja dengan pihak-pihak terkait. |
+| Agreement, Action & Relationship | 4 | Terdapat koordinasi, arahan pembagian LO, dan konfirmasi kesediaanku. Perubahan penugasan tetap mempertimbangkan hubungan kerja dan tanggung jawab pihak terkait. |
 
 Dari pengalaman ini, aku belajar bahwa menghadapi perubahan penugasan tidak cukup hanya dengan menyetujui atau menolak permintaan. Aku perlu memahami batas kewenangan, mempertimbangkan alternatif, dan memastikan keputusan dikoordinasikan dengan pihak terkait. Ke depannya, aku ingin lebih proaktif dalam mengomunikasikan kendala dan menawarkan solusi tanpa mengambil keputusan di luar tanggung jawabku.
 
-**Total: 20/20 — Lanjut.**
+**Total: 19/20 — Lanjut.**
