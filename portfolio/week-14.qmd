@@ -1,4 +1,3 @@
-
 ---
 title: "AI-Mediated Communication Design"
 week: 14
@@ -22,29 +21,31 @@ Situasi ini melibatkan beberapa pihak dengan kebutuhan dan kewenangan yang berbe
 
 Objective komunikasiku adalah menjelaskan situasi yang terjadi, menawarkan alternatif pembagian tugas, dan memperoleh arahan agar perubahan tidak dilakukan secara sepihak.
 
-AI ditempatkan sebagai communication assistant untuk membantu menyusun pesan, mengidentifikasi alternatif, dan mengevaluasi kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan orang yang terlibat, kebutuhan wisudawan, dan koordinasi kepanitiaan.
+Dalam konteks ini, AI ditempatkan sebagai communication assistant untuk membantu mengevaluasi struktur pesan, mengidentifikasi alternatif, dan mempertimbangkan kemungkinan salah tafsir. AI tidak memiliki kewenangan menentukan pembagian LO karena keputusan tersebut membutuhkan pertimbangan kesediaan orang yang terlibat, kebutuhan wisudawan, dan koordinasi kepanitiaan.
 
 | Tugas | Peran AI | Tanggung jawab manusia |
 |---|---|---|
 | Merangkum situasi | Membantu menyusun inti masalah | Memastikan kronologi sesuai kejadian |
 | Menyusun alternatif | Membantu membandingkan pilihan dan trade-off | Menentukan alternatif yang realistis |
-| Menyusun pesan koordinasi | Membantu merapikan bahasa dan struktur pesan | Menyesuaikan pesan dengan hubungan antaranggota |
-| Merespons arahan | Tidak digunakan untuk menentukan respons akhir | Mempertimbangkan arahan dan menyampaikan kesediaan |
-| Menentukan pembagian LO | Tidak digunakan | Keputusan melalui koordinasi pihak terkait |
+| Mengevaluasi pesan koordinasi | Membantu menilai kejelasan dan kesesuaian bahasa | Menyesuaikan pesan dengan hubungan antaranggota |
+| Merespons arahan | Memberikan sudut pandang tambahan jika diperlukan | Mempertimbangkan arahan dan menyampaikan kesediaan |
+| Menentukan pembagian LO | Tidak digunakan untuk mengambil keputusan | Keputusan melalui koordinasi pihak terkait |
 
 ## Prompt dan output
 
 AI digunakan secara retrospektif untuk mengevaluasi rancangan komunikasi dalam situasi tersebut. Contoh prompt yang digunakan:
 
-> "Aku merupakan panitia yang bertugas sebagai LO wisuda. Pembagian LO sudah dilakukan berdasarkan form, tetapi ada wisudawan yang menghubungiku secara langsung dan meminta aku menjadi LO-nya. Ada anggota lain yang bersedia menjadi LO untuk wisudawan tersebut. Bantu susun pesan koordinasi yang menjelaskan situasi ini dan menawarkan alternatif pembagian tugas. Gunakan bahasa yang sopan, jelas, dan tidak terkesan memaksakan keputusan. Jangan mengasumsikan bahwa perubahan sudah disetujui."
+> "Aku merupakan panitia yang bertugas sebagai LO wisuda. Pembagian LO sudah dilakukan berdasarkan form, tetapi ada wisudawan yang menghubungiku secara langsung dan meminta aku menjadi LO-nya. Ada anggota lain yang bersedia menjadi LO untuk wisudawan tersebut. Bantu evaluasi cara menyampaikan situasi ini kepada pihak yang mengoordinasikan pembagian tugas. Identifikasi alternatif pembagian tugas beserta trade-off-nya. Gunakan bahasa yang sopan, jelas, dan tidak terkesan memaksakan keputusan. Jangan mengasumsikan bahwa perubahan sudah disetujui."
 
-Output AI menyarankan agar pesan menjelaskan kronologi secara singkat dan menawarkan dua alternatif:
+Hasil evaluasi AI membantu mengidentifikasi dua alternatif yang dapat dipertimbangkan:
 1. Kak Kenzie menjadi LO untuk wisudawan tersebut.
-2. Aku tetap menjadi LO, sementara Kak Kenzie membantu mendampingi.
+2. Aku tetap menjadi LO, sementara Kak Kenzie membantu proses pendampingan.
 
-Output tersebut membantu mengidentifikasi pilihan yang dapat disampaikan kepada pihak yang mengoordinasikan pembagian LO. Namun, hasil AI belum tentu memahami kondisi pembagian tugas dan hubungan antaranggota secara keseluruhan.
+Alternatif tersebut kemudian dapat dibandingkan berdasarkan kesediaan masing-masing LO, kebutuhan wisudawan, dan pembagian tugas yang sudah ditetapkan.
 
-AI juga tidak dapat memastikan apakah setiap alternatif dapat diterima oleh pihak terkait. Karena itu, output hanya digunakan sebagai bahan evaluasi, bukan sebagai keputusan atau pesan yang otomatis dikirim.
+Namun, hasil AI belum tentu memahami kondisi pembagian tugas dan hubungan antaranggota secara keseluruhan. AI juga tidak dapat memastikan apakah setiap alternatif dapat diterima oleh pihak terkait.
+
+Karena itu, output hanya digunakan sebagai bahan refleksi dan evaluasi, bukan sebagai keputusan atau pesan yang otomatis dikirim. Kesesuaian alternatif tetap perlu dinilai berdasarkan situasi yang sebenarnya.
 
 ## Human revision
 
@@ -70,7 +71,7 @@ Aku menyesuaikan respons dengan menyetujui perubahan tersebut. Artinya, komunika
 
 Dari proses tersebut, aku memahami bahwa komunikasi yang baik tidak hanya bergantung pada pesan awal, tetapi juga kemampuan menyesuaikan respons setelah menerima masukan atau arahan dari pihak lain.
 
-AI membantu mengevaluasi struktur pesan dan alternatif yang tersedia, sedangkan respons aktual tetap disusun berdasarkan situasi dan arahan yang diterima secara langsung.
+AI membantu mengevaluasi struktur pesan dan alternatif yang tersedia secara retrospektif, sedangkan respons aktual tetap disusun berdasarkan situasi dan arahan yang diterima secara langsung.
 
 Aku juga menyadari bahwa menawarkan alternatif tidak berarti aku harus mempertahankan semua pilihan yang diajukan. Ketika pihak yang mengoordinasikan pembagian tugas memberikan arahan, aku perlu mempertimbangkan arahan tersebut dan menyesuaikan tindakan selama masih sesuai dengan kesanggupanku.
 
@@ -87,16 +88,18 @@ AI tidak digunakan untuk mengirim pesan secara otomatis atau mengambil alih perc
 
 Penggunaan AI juga dibatasi karena terlalu banyak mengandalkan rekomendasi AI dapat membuat komunikasi terasa tidak personal. Dalam situasi interpersonal, aku tetap perlu bertanggung jawab terhadap pilihan kata, keputusan, dan konsekuensi dari respons yang diberikan.
 
-Dengan demikian, AI digunakan untuk membantu merancang dan mengevaluasi komunikasi, tetapi keputusan, adaptasi respons, serta hubungan dengan pihak lain tetap menjadi tanggung jawab manusia.
+Dengan demikian, AI digunakan untuk membantu mengevaluasi rancangan komunikasi dan pilihan tindakan, tetapi keputusan, adaptasi respons, serta hubungan dengan pihak lain tetap menjadi tanggung jawab manusia.
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Memetakan peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya |
-| Objective & State | 4 | Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan dengan jelas |
-| Repertoire, Language & AI | 3 | Menggunakan AI untuk membantu merancang dan mengevaluasi komunikasi, dengan human review dan batas penggunaan yang jelas |
-| Response & Adaptation | 4 | Menawarkan alternatif, menerima arahan, dan menyesuaikan respons terhadap perubahan situasi |
-| Agreement, Action & Relationship | 4 | Menyetujui perubahan penugasan melalui koordinasi dan menjaga hubungan antaranggota |
+| Person & Character | 4 | Memetakan peran LO, Kak Kenzie, wisudawan, dan pihak koordinator beserta batas kewenangannya. |
+| Objective & State | 4 | Tujuan komunikasi, kondisi perubahan penugasan, dan kebutuhan koordinasi dijelaskan dengan jelas. |
+| Repertoire, Language & AI | 3 | Menggunakan AI secara retrospektif untuk mengevaluasi rancangan komunikasi dan alternatif tindakan, dengan human review serta batas penggunaan yang jelas. |
+| Response & Adaptation | 4 | Menawarkan alternatif, menerima arahan, dan menyesuaikan respons terhadap perubahan situasi. |
+| Agreement, Action & Relationship | 4 | Menyetujui perubahan penugasan melalui koordinasi dan menjaga hubungan antaranggota. |
+
+Dari pengalaman ini, aku belajar bahwa AI dapat membantu mengevaluasi cara berkomunikasi, tetapi tidak dapat menggantikan pertimbangan manusia dalam situasi yang melibatkan hubungan interpersonal dan kewenangan. Ke depannya, aku ingin memanfaatkan AI secara proporsional sebagai alat bantu tanpa mengurangi tanggung jawabku dalam mengambil keputusan dan berkomunikasi secara langsung.
 
 **Total: 19/20 — Lanjut.**
